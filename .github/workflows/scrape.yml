@@ -1,0 +1,54 @@
+name: Daily AI & Dev News Scraper
+
+on:
+  schedule:
+    # 매일 UTC 00:00 (한국 시간 오전 9:00)에 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # GitHub 웹 UI에서 수동 실행 가능하도록 허용
+
+permissions:
+  contents: write # 업데이트된 news.json 데이터를 레포지토리에 푸시하기 위해 쓰기 권한 설정
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 레포지토리 코드 가져오기
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Node.js 환경 세팅
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      # 3. 의존성 패키지 설치
+      - name: Install Dependencies
+        run: |
+          cd scraper
+          npm ci
+
+      # 4. 스크래퍼 실행 (수동 1회 실행 모드)
+      - name: Run Scraper
+        run: |
+          cd scraper
+          node index.js --run
+
+      # 5. 변경된 데이터(data/news.json)를 Git에 커밋 및 푸시
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 변경 내용이 있는 경우에만 커밋 & 푸시
+          git add data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 일일 뉴스 데이터 자동 갱신 [skip ci]"
+            git push origin main
+          else
+            echo "추가된 신규 뉴스가 없습니다."
+          fi
