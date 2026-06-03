@@ -22,6 +22,61 @@
     "scrapedAt": "2026-06-02T01:17:45.467Z"
   },
   {
+    "id": "openai-1780462598861-819",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "titleKo": "Travelers는 OpenAI를 통해 전국적으로 AI 기반 청구를 배포합니다.",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "summaryKo": "Travelers는 OpenAI를 사용하여 AI 기반 청구 도우미를 구축하여 고객에게 청구서를 제출하도록 안내하고, 연중무휴 지원을 제공하며, 수요가 가장 많을 때 운영을 확장합니다.",
+    "url": "https://openai.com/index/travelers",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:38.861Z"
+  },
+  {
+    "id": "openai-1780462599542-939",
+    "title": "Codex for every role, tool, and workflow",
+    "titleKo": "모든 역할, 도구 및 작업 흐름에 대한 Codex",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "summaryKo": "분석가, 마케팅 담당자, 디자이너, 투자자 및 기타 팀이 AI로 더 많은 작업을 수행하는 데 도움이 되는 새로운 Codex 플러그인, 사이트 및 주석을 찾아보세요.",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:39.542Z"
+  },
+  {
+    "id": "openai-1780462600221-67",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "titleKo": "글로벌 리더십을 통해 청소년 안전과 기회 증진",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "summaryKo": "OpenAI는 청소년 AI 안전에 대한 글로벌 조치를 촉구하고 청소년을 위한 안전 장치, 표준 및 기회를 강화하기 위한 국제 기관을 제안합니다.",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:40.221Z"
+  },
+  {
+    "id": "openai-1780462600903-202",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "titleKo": "Codex는 모두를 위한 생산성 도구가 되고 있습니다",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "summaryKo": "차세대 지식 작업 보고서에서는 Codex가 AI 기반 연구, 데이터 분석, 작업 흐름 자동화 및 콘텐츠 생성을 통해 생산성을 어떻게 변화시키고 있는지 살펴봅니다.",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:40.903Z"
+  },
+  {
+    "id": "anthropic-1780462602007-935",
+    "title": "Expanding Project Glasswing",
+    "titleKo": "프로젝트 Glasswing 확장",
+    "summary": "Anthropic Official Update: Expanding Project Glasswing",
+    "summaryKo": "Anthropic 공식 업데이트: 프로젝트 Glasswing 확장",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "date": "2026-06-02",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-03T04:56:42.007Z"
+  },
+  {
     "id": "openai-1780363057881-784",
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
     "titleKo": "미시간의 지능 시대를 위한 인프라 구축",
