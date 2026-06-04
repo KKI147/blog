@@ -1,5 +1,93 @@
 [
   {
+    "id": "openai-1780548573262-122",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "titleKo": "GPT-Rosalind에 새로운 기능 소개",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "summaryKo": "GPT-Rosalind는 향상된 생물학적 추론, 의약화학 전문 지식, 유전체학 분석 및 실험 워크플로우 기능을 통해 생명과학 연구를 발전시킵니다.",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:33.262Z"
+  },
+  {
+    "id": "openai-1780548573926-686",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "titleKo": "Wasmer가 Codex를 사용하여 엣지용 Node.js 런타임을 구축한 방법",
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "summaryKo": "Wasmer가 GPT-5.5와 함께 Codex를 사용하여 엣지용 Node.js 런타임을 구축하고 개발을 10배에서 20배로 가속화하고 몇 달이 아닌 몇 주 만에 출시하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/wasmer",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:33.926Z"
+  },
+  {
+    "id": "openai-1780548574585-269",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "titleKo": "프론티어 AI의 민주적 거버넌스를 위한 청사진",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "summaryKo": "OpenAI는 미국의 프론티어 AI 거버넌스에 대한 청사진을 설명하고 안전, 탄력성 및 국가 안보를 위한 연방 프레임워크를 제안합니다.",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:34.585Z"
+  },
+  {
+    "id": "openai-1780548575250-90",
+    "title": "OpenAI public policy agenda",
+    "titleKo": "OpenAI 공공 정책 의제",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "summaryKo": "OpenAI는 AI가 사회에 혜택을 줄 수 있도록 안전, 청소년 보호, 인력 전환, 글로벌 표준 등 AI에 대한 공공 정책 의제를 간략하게 설명합니다.",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:35.250Z"
+  },
+  {
+    "id": "google-ai-1780548576697-970",
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "titleKo": "Google 검색을 통해 중고품 및 빈티지 쇼핑 수준을 높일 수 있는 5가지 방법",
+    "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+    "summaryKo": "Google 검색 및 쇼핑의 AI 도구를 사용하여 중고 점수를 찾아보세요.",
+    "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "date": "2026-06-03",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-04T04:49:36.697Z"
+  },
+  {
+    "id": "anthropic-1780548579136-649",
+    "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "titleKo": "Claude Partner Network의 서비스 트랙 및 파트너 허브 소개",
+    "summary": "Anthropic Official Update: Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "summaryKo": "Anthropic 공식 업데이트: Claude 파트너 네트워크의 서비스 트랙 및 파트너 허브 소개",
+    "url": "https://www.anthropic.com/news/services-track-partner-hub",
+    "date": "2026-06-03",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-04T04:49:39.136Z"
+  },
+  {
+    "id": "anthropic-1780548581366-228",
+    "title": "PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
+    "titleKo": "정책1년간의 AI 기반 사이버 위협 매핑을 통해 배운 내용",
+    "summary": "Anthropic Official Update: PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
+    "summaryKo": "Anthropic 공식 업데이트: 정책1년간의 AI 기반 사이버 위협 매핑을 통해 배운 내용",
+    "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "date": "2026-06-03",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-04T04:49:41.366Z"
+  },
+  {
+    "id": "cursor-1780548584623-199",
+    "title": "Organizations for Cursor Enterprise",
+    "titleKo": "Cursor Enterprise를 위한 조직",
+    "summary": "Cursor Editor Changelog and feature updates: Organizations for Cursor Enterprise",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: Cursor Enterprise용 조직",
+    "url": "https://www.cursor.com/changelog/enterprise-organizations",
+    "date": "2026-06-03",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-04T04:49:44.623Z"
+  },
+  {
     "id": "openai-1780363057080-845",
     "title": "Our views on AI policy and political advocacy",
     "titleKo": "AI 정책과 정치적 옹호에 대한 우리의 견해",
