@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1780633471761-228",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "titleKo": "Endava가 AI 에이전트를 중심으로 소프트웨어 제공을 재설계하는 방법",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "summaryKo": "Endava가 AI 에이전트, ChatGPT Enterprise 및 Codex를 사용하여 소프트웨어 제공을 가속화하고 워크플로를 자동화하며 기업 전체에 AI 기반 문화를 구축하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:31.761Z"
+  },
+  {
+    "id": "openai-1780633472429-510",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "titleKo": "Dreaming: 더 유용한 ChatGPT를 위한 더 나은 메모리",
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "summaryKo": "ChatGPT는 선호도를 더 잘 기억하고 대화 전반에 걸쳐 컨텍스트를 신선하고 관련성 있게 유지하는 새로운 메모리 시스템을 도입합니다.",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:32.429Z"
+  },
+  {
+    "id": "openai-1780633473093-308",
+    "title": "Biodefense in the Intelligence Age",
+    "titleKo": "지능화 시대의 생물방어",
+    "summary": "An action plan for AI-powered biological resilience",
+    "summaryKo": "AI 기반 생물학적 복원력을 위한 실행 계획",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:33.093Z"
+  },
+  {
+    "id": "cursor-1780633475107-710",
+    "title": "Canvas Design Mode and Context Usage Report",
+    "titleKo": "캔버스 디자인 모드 및 컨텍스트 사용 보고서",
+    "summary": "Cursor Editor Changelog and feature updates: Canvas Design Mode and Context Usage Report",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 캔버스 디자인 모드 및 컨텍스트 사용 보고서",
+    "url": "https://www.cursor.com/changelog/canvas-improvements",
+    "date": "2026-06-04",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-05T04:24:35.107Z"
+  },
+  {
     "id": "openai-1780548573262-122",
     "title": "Introducing new capabilities to GPT-Rosalind",
     "titleKo": "GPT-Rosalind에 새로운 기능 소개",
