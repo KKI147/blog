@@ -1,5 +1,27 @@
 [
   {
+    "id": "google-ai-1780718817940-793",
+    "title": "The latest AI news we announced in May 2026",
+    "titleKo": "2026년 5월에 발표한 최신 AI 뉴스",
+    "summary": "Here are Google’s latest AI updates from May 2026",
+    "summaryKo": "2026년 5월 Google의 최신 AI 업데이트는 다음과 같습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "date": "2026-06-05",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-06T04:06:57.940Z"
+  },
+  {
+    "id": "cursor-1780718822142-357",
+    "title": "Design Mode Improvements",
+    "titleKo": "디자인 모드 개선",
+    "summary": "Cursor Editor Changelog and feature updates: Design Mode Improvements",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 디자인 모드 개선",
+    "url": "https://www.cursor.com/changelog/design-mode-improvements",
+    "date": "2026-06-05",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-06T04:07:02.142Z"
+  },
+  {
     "id": "openai-1780633471761-228",
     "title": "How Endava is redesigning software delivery around AI agents",
     "titleKo": "Endava가 AI 에이전트를 중심으로 소프트웨어 제공을 재설계하는 방법",
@@ -42,6 +64,17 @@
     "date": "2026-06-04",
     "source": "Cursor",
     "scrapedAt": "2026-06-05T04:24:35.107Z"
+  },
+  {
+    "id": "cursor-1780718824065-367",
+    "title": "Custom stores, custom tools, and auto-review for the Cursor SDK",
+    "titleKo": "Cursor SDK용 맞춤형 스토어, 맞춤형 도구 및 자동 검토",
+    "summary": "Cursor Editor Changelog and feature updates: Custom stores, custom tools, and auto-review for the Cursor SDK",
+    "summaryKo": "Cursor Editor 변경 로그 및 기능 업데이트: Cursor SDK에 대한 맞춤형 스토어, 맞춤형 도구 및 자동 검토",
+    "url": "https://www.cursor.com/changelog/sdk-updates-jun-2026",
+    "date": "2026-06-04",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-06T04:07:04.065Z"
   },
   {
     "id": "openai-1780548573262-122",
@@ -548,6 +581,17 @@
     "date": "2026-05-18",
     "source": "Cursor",
     "scrapedAt": "2026-06-02T01:18:21.301Z"
+  },
+  {
+    "id": "anthropic-1780718820655-724",
+    "title": "An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+    "titleKo": "선거 보호 조치에 대한 업데이트 Claude가 올해 미국 중간선거 및 기타 전 세계 주요 선거에서 긍정적인 역할을 할 수 있도록 하기 위해 우리가 무엇을 하고 있는지 설명합니다.",
+    "summary": "Anthropic Official Update: An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+    "summaryKo": "Anthropic 공식 업데이트: 선거 보호 조치에 대한 업데이트 Claude가 올해 미국 중간선거 및 기타 전 세계 주요 선거에서 긍정적인 역할을 할 수 있도록 하기 위해 우리가 무엇을 하고 있는지 설명합니다.",
+    "url": "https://www.anthropic.com/news/election-safeguards-update",
+    "date": "2026-04-24",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-06T04:07:00.655Z"
   },
   {
     "id": "anthropic-1780363077997-426",
