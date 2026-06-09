@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1780978230096-215",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "titleKo": "S-1 초안을 SEC에 기밀로 제출",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "summaryKo": "OpenAI는 SEC에 기밀 S-1 제출을 확인했지만 아직 추가 조치 시기를 결정하지 않았습니다.",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:30.096Z"
+  },
+  {
+    "id": "openai-1780978232036-185",
+    "title": "Built to benefit everyone: our plan",
+    "titleKo": "모든 사람에게 혜택을 주기 위한 계획: 우리의 계획",
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "summaryKo": "OpenAI가 AGI가 모든 사람에게 혜택을 줄 수 있도록 노력하면서 접근, 안전, 공동 번영에 초점을 맞춘 AI의 미래에 대한 비전입니다.",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:32.036Z"
+  },
+  {
+    "id": "openai-1780978232709-842",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "titleKo": "OpenAI 경제 연구 교류를 소개합니다",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "summaryKo": "OpenAI는 AI가 일자리, 생산성 및 경제에 미치는 영향을 연구하기 위해 경제 연구 교류(Economic Research Exchange)를 시작합니다. 이제 선택된 연구 프로젝트에 대한 지원서가 공개되었습니다.",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:32.709Z"
+  },
+  {
     "id": "google-ai-1780718817940-793",
     "title": "The latest AI news we announced in May 2026",
     "titleKo": "2026년 5월에 발표한 최신 AI 뉴스",
