@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1781051558569-54",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
+    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "summaryKo": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법.",
+    "url": "https://openai.com/index/nextdoor",
+    "date": "2026-06-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-10T00:32:38.569Z"
+  },
+  {
+    "id": "openai-1781051559245-930",
+    "title": "What Codex unlocks for Notion",
+    "titleKo": "Codex가 Notion을 위해 잠금 해제하는 것",
+    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "summaryKo": "Notion이 Codex를 사용하여 일회성 사양을 만들고, 웹용 AI 음성 입력을 구축하고, 소규모 팀 전체에 엔지니어링 역량을 배가하는 방법입니다.",
+    "url": "https://openai.com/index/notion",
+    "date": "2026-06-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-10T00:32:39.245Z"
+  },
+  {
+    "id": "openai-1781051562270-585",
+    "title": "Industrial policy for the Intelligence Age",
+    "titleKo": "지능시대를 위한 산업정책",
+    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "summaryKo": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다.",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "date": "2026-06-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-10T00:32:42.270Z"
+  },
+  {
+    "id": "anthropic-1781051564636-40",
+    "title": "Claude Fable 5 and Claude Mythos 5AnnouncementsOur next generation of intelligence for the hardest knowledge work and coding problems.",
+    "titleKo": "Claude Fable 5 및 Claude Mythos 5공지사항가장 어려운 지식 작업과 코딩 문제를 위한 차세대 인텔리전스입니다.",
+    "summary": "Anthropic Official Update: Claude Fable 5 and Claude Mythos 5AnnouncementsOur next generation of intelligence for the hardest knowledge work and coding problems.",
+    "summaryKo": "Anthropic 공식 업데이트: Claude Fable 5 및 Claude Mythos 5공지 가장 어려운 지식 작업 및 코딩 문제를 위한 차세대 지능입니다.",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-09",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-10T00:32:44.636Z"
+  },
+  {
     "id": "openai-1780978230096-215",
     "title": "Confidential submission of draft S-1 to the SEC",
     "titleKo": "S-1 초안을 SEC에 기밀로 제출",
