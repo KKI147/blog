@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1781126210028-101",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "titleKo": "중국과 연계된 영향력 작전은 미국 내 AI 논쟁을 표적으로 삼고 있습니다.",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "summaryKo": "OpenAI의 새로운 보고서는 미국 기술 토론, 데이터 센터 설명, 관세 및 ChatGPT에 대한 허위 주장을 표적으로 삼기 위해 AI를 사용하는 중국과 연계된 영향력 작전을 자세히 설명합니다.",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "date": "2026-06-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-10T21:16:50.028Z"
+  },
+  {
+    "id": "openai-1781126210695-540",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "titleKo": "데이터에서 의사결정까지: LSEG가 신뢰할 수 있는 AI를 확장하는 방법",
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "summaryKo": "LSEG가 OpenAI를 사용하여 글로벌 비즈니스 전반에 걸쳐 신뢰할 수 있는 AI를 확장하고 통찰력을 가속화하고 릴리스 주기를 단축하며 4,000명의 직원에게 역량을 부여하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/lseg",
+    "date": "2026-06-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-10T21:16:50.695Z"
+  },
+  {
+    "id": "cursor-1781126212719-613",
+    "title": "Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs",
+    "titleKo": "Bugbot은 이제 3배 이상 빠르고, 22% 더 저렴하며, 10% 더 많은 버그를 찾아냅니다.",
+    "summary": "Cursor Editor Changelog and feature updates: Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: Bugbot은 이제 3배 이상 빠르고, 22% 저렴하며, 10% 더 많은 버그를 찾습니다.",
+    "url": "https://www.cursor.com/changelog/bugbot-updates-june-2026",
+    "date": "2026-06-10",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-10T21:16:52.719Z"
+  },
+  {
     "id": "openai-1781051558569-54",
     "title": "How engineers at Nextdoor use Codex to build without limits",
     "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
