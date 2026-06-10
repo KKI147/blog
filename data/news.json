@@ -1,5 +1,203 @@
 [
   {
+    "id": "openai-1780978230096-215",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "titleKo": "S-1 초안을 SEC에 기밀로 제출",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "summaryKo": "OpenAI는 SEC에 기밀 S-1 제출을 확인했지만 아직 추가 조치 시기를 결정하지 않았습니다.",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:30.096Z"
+  },
+  {
+    "id": "openai-1780978232036-185",
+    "title": "Built to benefit everyone: our plan",
+    "titleKo": "모든 사람에게 혜택을 주기 위한 계획: 우리의 계획",
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "summaryKo": "OpenAI가 AGI가 모든 사람에게 혜택을 줄 수 있도록 노력하면서 접근, 안전, 공동 번영에 초점을 맞춘 AI의 미래에 대한 비전입니다.",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:32.036Z"
+  },
+  {
+    "id": "openai-1780978232709-842",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "titleKo": "OpenAI 경제 연구 교류를 소개합니다",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "summaryKo": "OpenAI는 AI가 일자리, 생산성 및 경제에 미치는 영향을 연구하기 위해 경제 연구 교류(Economic Research Exchange)를 시작합니다. 이제 선택된 연구 프로젝트에 대한 지원서가 공개되었습니다.",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "date": "2026-06-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-09T04:10:32.709Z"
+  },
+  {
+    "id": "google-ai-1780718817940-793",
+    "title": "The latest AI news we announced in May 2026",
+    "titleKo": "2026년 5월에 발표한 최신 AI 뉴스",
+    "summary": "Here are Google’s latest AI updates from May 2026",
+    "summaryKo": "2026년 5월 Google의 최신 AI 업데이트는 다음과 같습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "date": "2026-06-05",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-06T04:06:57.940Z"
+  },
+  {
+    "id": "cursor-1780718822142-357",
+    "title": "Design Mode Improvements",
+    "titleKo": "디자인 모드 개선",
+    "summary": "Cursor Editor Changelog and feature updates: Design Mode Improvements",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 디자인 모드 개선",
+    "url": "https://www.cursor.com/changelog/design-mode-improvements",
+    "date": "2026-06-05",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-06T04:07:02.142Z"
+  },
+  {
+    "id": "openai-1780633471761-228",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "titleKo": "Endava가 AI 에이전트를 중심으로 소프트웨어 제공을 재설계하는 방법",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "summaryKo": "Endava가 AI 에이전트, ChatGPT Enterprise 및 Codex를 사용하여 소프트웨어 제공을 가속화하고 워크플로를 자동화하며 기업 전체에 AI 기반 문화를 구축하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:31.761Z"
+  },
+  {
+    "id": "openai-1780633472429-510",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "titleKo": "Dreaming: 더 유용한 ChatGPT를 위한 더 나은 메모리",
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "summaryKo": "ChatGPT는 선호도를 더 잘 기억하고 대화 전반에 걸쳐 컨텍스트를 신선하고 관련성 있게 유지하는 새로운 메모리 시스템을 도입합니다.",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:32.429Z"
+  },
+  {
+    "id": "openai-1780633473093-308",
+    "title": "Biodefense in the Intelligence Age",
+    "titleKo": "지능화 시대의 생물방어",
+    "summary": "An action plan for AI-powered biological resilience",
+    "summaryKo": "AI 기반 생물학적 복원력을 위한 실행 계획",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "date": "2026-06-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-05T04:24:33.093Z"
+  },
+  {
+    "id": "cursor-1780633475107-710",
+    "title": "Canvas Design Mode and Context Usage Report",
+    "titleKo": "캔버스 디자인 모드 및 컨텍스트 사용 보고서",
+    "summary": "Cursor Editor Changelog and feature updates: Canvas Design Mode and Context Usage Report",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 캔버스 디자인 모드 및 컨텍스트 사용 보고서",
+    "url": "https://www.cursor.com/changelog/canvas-improvements",
+    "date": "2026-06-04",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-05T04:24:35.107Z"
+  },
+  {
+    "id": "cursor-1780718824065-367",
+    "title": "Custom stores, custom tools, and auto-review for the Cursor SDK",
+    "titleKo": "Cursor SDK용 맞춤형 스토어, 맞춤형 도구 및 자동 검토",
+    "summary": "Cursor Editor Changelog and feature updates: Custom stores, custom tools, and auto-review for the Cursor SDK",
+    "summaryKo": "Cursor Editor 변경 로그 및 기능 업데이트: Cursor SDK에 대한 맞춤형 스토어, 맞춤형 도구 및 자동 검토",
+    "url": "https://www.cursor.com/changelog/sdk-updates-jun-2026",
+    "date": "2026-06-04",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-06T04:07:04.065Z"
+  },
+  {
+    "id": "openai-1780548573262-122",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "titleKo": "GPT-Rosalind에 새로운 기능 소개",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "summaryKo": "GPT-Rosalind는 향상된 생물학적 추론, 의약화학 전문 지식, 유전체학 분석 및 실험 워크플로우 기능을 통해 생명과학 연구를 발전시킵니다.",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:33.262Z"
+  },
+  {
+    "id": "openai-1780548573926-686",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "titleKo": "Wasmer가 Codex를 사용하여 엣지용 Node.js 런타임을 구축한 방법",
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "summaryKo": "Wasmer가 GPT-5.5와 함께 Codex를 사용하여 엣지용 Node.js 런타임을 구축하고 개발을 10배에서 20배로 가속화하고 몇 달이 아닌 몇 주 만에 출시하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/wasmer",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:33.926Z"
+  },
+  {
+    "id": "openai-1780548574585-269",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "titleKo": "프론티어 AI의 민주적 거버넌스를 위한 청사진",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "summaryKo": "OpenAI는 미국의 프론티어 AI 거버넌스에 대한 청사진을 설명하고 안전, 탄력성 및 국가 안보를 위한 연방 프레임워크를 제안합니다.",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:34.585Z"
+  },
+  {
+    "id": "openai-1780548575250-90",
+    "title": "OpenAI public policy agenda",
+    "titleKo": "OpenAI 공공 정책 의제",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "summaryKo": "OpenAI는 AI가 사회에 혜택을 줄 수 있도록 안전, 청소년 보호, 인력 전환, 글로벌 표준 등 AI에 대한 공공 정책 의제를 간략하게 설명합니다.",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-04T04:49:35.250Z"
+  },
+  {
+    "id": "google-ai-1780548576697-970",
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "titleKo": "Google 검색을 통해 중고품 및 빈티지 쇼핑 수준을 높일 수 있는 5가지 방법",
+    "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+    "summaryKo": "Google 검색 및 쇼핑의 AI 도구를 사용하여 중고 점수를 찾아보세요.",
+    "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "date": "2026-06-03",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-04T04:49:36.697Z"
+  },
+  {
+    "id": "anthropic-1780548579136-649",
+    "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "titleKo": "Claude Partner Network의 서비스 트랙 및 파트너 허브 소개",
+    "summary": "Anthropic Official Update: Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "summaryKo": "Anthropic 공식 업데이트: Claude 파트너 네트워크의 서비스 트랙 및 파트너 허브 소개",
+    "url": "https://www.anthropic.com/news/services-track-partner-hub",
+    "date": "2026-06-03",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-04T04:49:39.136Z"
+  },
+  {
+    "id": "anthropic-1780548581366-228",
+    "title": "PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
+    "titleKo": "정책1년간의 AI 기반 사이버 위협 매핑을 통해 배운 내용",
+    "summary": "Anthropic Official Update: PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
+    "summaryKo": "Anthropic 공식 업데이트: 정책1년간의 AI 기반 사이버 위협 매핑을 통해 배운 내용",
+    "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "date": "2026-06-03",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-04T04:49:41.366Z"
+  },
+  {
+    "id": "cursor-1780548584623-199",
+    "title": "Organizations for Cursor Enterprise",
+    "titleKo": "Cursor Enterprise를 위한 조직",
+    "summary": "Cursor Editor Changelog and feature updates: Organizations for Cursor Enterprise",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: Cursor Enterprise용 조직",
+    "url": "https://www.cursor.com/changelog/enterprise-organizations",
+    "date": "2026-06-03",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-04T04:49:44.623Z"
+  },
+  {
     "id": "openai-1780363057080-845",
     "title": "Our views on AI policy and political advocacy",
     "titleKo": "AI 정책과 정치적 옹호에 대한 우리의 견해",
@@ -20,6 +218,61 @@
     "date": "2026-06-02",
     "source": "Google AI",
     "scrapedAt": "2026-06-02T01:17:45.467Z"
+  },
+  {
+    "id": "openai-1780462598861-819",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "titleKo": "Travelers는 OpenAI를 통해 전국적으로 AI 기반 청구를 배포합니다.",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "summaryKo": "Travelers는 OpenAI를 사용하여 AI 기반 청구 도우미를 구축하여 고객에게 청구서를 제출하도록 안내하고, 연중무휴 지원을 제공하며, 수요가 가장 많을 때 운영을 확장합니다.",
+    "url": "https://openai.com/index/travelers",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:38.861Z"
+  },
+  {
+    "id": "openai-1780462599542-939",
+    "title": "Codex for every role, tool, and workflow",
+    "titleKo": "모든 역할, 도구 및 작업 흐름에 대한 Codex",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "summaryKo": "분석가, 마케팅 담당자, 디자이너, 투자자 및 기타 팀이 AI로 더 많은 작업을 수행하는 데 도움이 되는 새로운 Codex 플러그인, 사이트 및 주석을 찾아보세요.",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:39.542Z"
+  },
+  {
+    "id": "openai-1780462600221-67",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "titleKo": "글로벌 리더십을 통해 청소년 안전과 기회 증진",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "summaryKo": "OpenAI는 청소년 AI 안전에 대한 글로벌 조치를 촉구하고 청소년을 위한 안전 장치, 표준 및 기회를 강화하기 위한 국제 기관을 제안합니다.",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:40.221Z"
+  },
+  {
+    "id": "openai-1780462600903-202",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "titleKo": "Codex는 모두를 위한 생산성 도구가 되고 있습니다",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "summaryKo": "차세대 지식 작업 보고서에서는 Codex가 AI 기반 연구, 데이터 분석, 작업 흐름 자동화 및 콘텐츠 생성을 통해 생산성을 어떻게 변화시키고 있는지 살펴봅니다.",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-03T04:56:40.903Z"
+  },
+  {
+    "id": "anthropic-1780462602007-935",
+    "title": "Expanding Project Glasswing",
+    "titleKo": "프로젝트 Glasswing 확장",
+    "summary": "Anthropic Official Update: Expanding Project Glasswing",
+    "summaryKo": "Anthropic 공식 업데이트: 프로젝트 Glasswing 확장",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "date": "2026-06-02",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-03T04:56:42.007Z"
   },
   {
     "id": "openai-1780363057881-784",
@@ -361,6 +614,17 @@
     "date": "2026-05-18",
     "source": "Cursor",
     "scrapedAt": "2026-06-02T01:18:21.301Z"
+  },
+  {
+    "id": "anthropic-1780718820655-724",
+    "title": "An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+    "titleKo": "선거 보호 조치에 대한 업데이트 Claude가 올해 미국 중간선거 및 기타 전 세계 주요 선거에서 긍정적인 역할을 할 수 있도록 하기 위해 우리가 무엇을 하고 있는지 설명합니다.",
+    "summary": "Anthropic Official Update: An update on our election safeguardsWe explain what we’re doing to ensure Claude plays a positive role in the US midterms and other major elections around the world this year.",
+    "summaryKo": "Anthropic 공식 업데이트: 선거 보호 조치에 대한 업데이트 Claude가 올해 미국 중간선거 및 기타 전 세계 주요 선거에서 긍정적인 역할을 할 수 있도록 하기 위해 우리가 무엇을 하고 있는지 설명합니다.",
+    "url": "https://www.anthropic.com/news/election-safeguards-update",
+    "date": "2026-04-24",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-06T04:07:00.655Z"
   },
   {
     "id": "anthropic-1780363077997-426",
