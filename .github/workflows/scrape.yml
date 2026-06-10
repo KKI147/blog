@@ -2,8 +2,10 @@ name: Daily AI & Dev News Scraper
 
 on:
   schedule:
-    # 매일 UTC 00:00 (한국 시간 오전 9:00)에 실행
-    - cron: '0 0 * * *'
+    # 매일 UTC 18:45 (한국 시간 새벽 3:45)에 실행
+    # GitHub cron은 혼잡 시 4~5시간까지 지연되므로, 최악의 경우에도
+    # 오전 9시 출근 전에 갱신이 끝나도록 여유를 두고 앞당겨 설정함
+    - cron: '45 18 * * *'
   workflow_dispatch: # GitHub 웹 UI에서 수동 실행 가능하도록 허용
 
 permissions:
