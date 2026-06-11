@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1781212159447-49",
+    "title": "OpenAI to acquire Ona",
+    "titleKo": "OpenAI, Ona 인수",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "summaryKo": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다.",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "date": "2026-06-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-11T21:09:19.447Z"
+  },
+  {
+    "id": "openai-1781212160124-853",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "titleKo": "신뢰할 수 있는 AI 생태계를 보장하기 위한 유럽의 노력을 지원합니다.",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "summaryKo": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다.",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "date": "2026-06-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-11T21:09:20.124Z"
+  },
+  {
+    "id": "openai-1781212160817-671",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "titleKo": "천체물리학자가 Codex를 사용하여 블랙홀을 시뮬레이션하는 방법",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "summaryKo": "천체 물리학자인 Chi-kwan Chan이 Codex를 사용하여 블랙홀 시뮬레이션을 구축하고 과학자들이 극한 물리학을 연구하고 아인슈타인의 일반 상대성 이론을 테스트하는 데 어떻게 도움이 되는지 알아보세요.",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "date": "2026-06-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-11T21:09:20.817Z"
+  },
+  {
+    "id": "openai-1781212163527-993",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "titleKo": "BBVA는 OpenAI를 통해 AI를 뱅킹의 핵심으로 활용합니다.",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "summaryKo": "BBVA가 ChatGPT Enterprise를 직원 100,000명으로 확장하고 OpenAI와 협력하여 전 세계적으로 AI 기반 은행 혁신을 가속화한 방법을 알아보세요.",
+    "url": "https://openai.com/index/bbva",
+    "date": "2026-06-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-11T21:09:23.527Z"
+  },
+  {
+    "id": "google-ai-1781212167197-681",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "titleKo": "버지니아에 대한 우리의 새로운 지역 사회 투자는 지역 일자리를 지원하고 에너지 경제성을 확대합니다.",
+    "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+    "summaryKo": "우리는 주의 차세대 인력 구축을 돕고 에너지 프로그램에 투자하고 있습니다.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "date": "2026-06-11",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-11T21:09:27.197Z"
+  },
+  {
+    "id": "anthropic-1781212169926-435",
+    "title": "Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "titleKo": "Claude Corps 소개우리는 AI의 혜택을 미국 전역의 커뮤니티로 확장하는 데 열정을 갖고 있는 경력 초기의 사람들을 위한 전국 펠로우십 프로그램인 Claude Corps를 시작합니다.",
+    "summary": "Anthropic Official Update: Introducing Claude CorpsWe’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "summaryKo": "Anthropic 공식 업데이트: Claude Corps 소개 AI의 혜택을 미국 전역의 커뮤니티에 확장하는 데 열정을 갖고 있는 경력 초기의 사람들을 위한 전국 펠로우십 프로그램인 Claude Corps를 출시합니다.",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "date": "2026-06-11",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-11T21:09:29.926Z"
+  },
+  {
+    "id": "anthropic-1781212172172-52",
+    "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "titleKo": "DXC는 Claude를 은행, 항공사 및 기타 규제 산업이 의존하는 시스템에 통합할 것입니다.",
+    "summary": "Anthropic Official Update: DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "summaryKo": "인류 공식 업데이트: DXC는 Claude를 은행, 항공사 및 기타 규제 산업이 의존하는 시스템에 통합할 예정입니다.",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "date": "2026-06-11",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-11T21:09:32.172Z"
+  },
+  {
     "id": "openai-1781126210028-101",
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "titleKo": "중국과 연계된 영향력 작전은 미국 내 AI 논쟁을 표적으로 삼고 있습니다.",
@@ -31,6 +108,17 @@
     "date": "2026-06-10",
     "source": "Cursor",
     "scrapedAt": "2026-06-10T21:16:52.719Z"
+  },
+  {
+    "id": "openai-1781212164201-954",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "titleKo": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요.",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "summaryKo": "엔터프라이즈 보안 및 거버넌스를 통해 AI를 구축하고 배포하기 위한 기존 약정을 사용하여 Oracle Cloud를 통해 OpenAI 모델 및 Codex에 액세스하세요.",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "date": "2026-06-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-11T21:09:24.201Z"
   },
   {
     "id": "openai-1781051558569-54",
