@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1781297763094-138",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "titleKo": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "summaryKo": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다.",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-12T20:56:03.094Z"
+  },
+  {
+    "id": "openai-1781297763786-98",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "titleKo": "Preply가 AI와 인간 교사를 결합하여 학습을 개인화하는 방법",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "summaryKo": "Preply는 OpenAI를 사용하여 AI로 생성된 강의 요약을 시작하고 맞춤형 피드백과 언어 학습 연습을 제공합니다.",
+    "url": "https://openai.com/index/preply",
+    "date": "2026-06-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-12T20:56:03.786Z"
+  },
+  {
+    "id": "anthropic-1781297766472-370",
+    "title": "Results from the first Anthropic Public Record",
+    "titleKo": "최초의 인류 공개 기록의 결과",
+    "summary": "Anthropic Official Update: Results from the first Anthropic Public Record",
+    "summaryKo": "인류 공식 업데이트: 최초의 인류 공공 기록의 결과",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "date": "2026-06-12",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-12T20:56:06.472Z"
+  },
+  {
+    "id": "anthropic-1781297769435-338",
+    "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "titleKo": "TCS와 Anthropic의 파트너십을 통해 Claude를 규제 산업에 도입",
+    "summary": "Anthropic Official Update: TCS and Anthropic partner to bring Claude to regulated industries",
+    "summaryKo": "Anthropic 공식 업데이트: TCS와 Anthropic 파트너십을 통해 Claude를 규제 산업에 도입",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "date": "2026-06-12",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-12T20:56:09.435Z"
+  },
+  {
     "id": "openai-1781212159447-49",
     "title": "OpenAI to acquire Ona",
     "titleKo": "OpenAI, Ona 인수",
