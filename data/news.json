@@ -1,5 +1,27 @@
 [
   {
+    "id": "google-ai-1781559409457-879",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "titleKo": "우리는 새로운 투자와 지역사회 지원을 통해 앨라배마에서의 입지를 강화하고 있습니다.",
+    "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+    "summaryKo": "Google은 앨라배마주 잭슨 카운티의 데이터 센터 캠퍼스를 확장하기 위해 2026년과 2027년에 15억 달러를 투자한다고 발표했습니다. 2019년부터 용도가 변경된 이전 모델로 운영 중…",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "date": "2026-06-15",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-15T21:36:49.457Z"
+  },
+  {
+    "id": "openai-1781559406929-416",
+    "title": "Introducing the OpenAI Partner Network",
+    "titleKo": "OpenAI 파트너 네트워크 소개",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "summaryKo": "OpenAI는 글로벌 파트너가 엔터프라이즈 AI 채택, 배포 및 혁신을 가속화할 수 있도록 1억 5천만 달러를 투자하는 파트너 네트워크를 출시합니다.",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "date": "2026-06-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-15T21:36:46.929Z"
+  },
+  {
     "id": "openai-1781297763094-138",
     "title": "New OpenAI Academy courses for the next era of work",
     "titleKo": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
