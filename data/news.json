@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1781645780568-732",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "titleKo": "배포 시뮬레이션을 통해 출시 전 모델 동작 예측",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "summaryKo": "OpenAI는 실제 대화 데이터를 사용하여 AI 모델 동작을 배포하기 전에 예측하여 안전성과 평가 정확도를 향상시키는 방법인 배포 시뮬레이션을 도입합니다.",
+    "url": "https://openai.com/index/deployment-simulation",
+    "date": "2026-06-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-16T21:36:20.568Z"
+  },
+  {
     "id": "google-ai-1781559409457-879",
     "title": "We’re strengthening our presence in Alabama through new investments and community support.",
     "titleKo": "우리는 새로운 투자와 지역사회 지원을 통해 앨라배마에서의 입지를 강화하고 있습니다.",
