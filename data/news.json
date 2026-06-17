@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1781729872825-263",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "titleKo": "거의 자율적인 AI 화학자는 의약화학 분야의 까다로운 반응을 개선합니다.",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "summaryKo": "OpenAI와 Molecule.one은 GPT-5.4를 사용하는 거의 자율적인 AI 화학자가 핵심 약물 제조 반응을 개선하여 의약 화학 연구를 발전시키는 방법을 보여줍니다.",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "date": "2026-06-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-17T20:57:52.825Z"
+  },
+  {
+    "id": "openai-1781729875033-58",
+    "title": "Introducing LifeSciBench",
+    "titleKo": "LifeSciBench 소개",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "summaryKo": "AI 시스템이 실제 생명 과학 연구 작업 및 결정을 처리하는 방법을 평가하기 위해 전문가가 작성하고 전문가가 검토한 벤치마크인 LifeSciBench를 소개합니다.",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "date": "2026-06-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-17T20:57:55.033Z"
+  },
+  {
+    "id": "google-ai-1781729877926-279",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "titleKo": "새로운 연구에 따르면 당사의 의료 AI인 AMIE가 건강 상태 관리에 어떻게 도움이 될 수 있는지 보여줍니다.",
+    "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+    "summaryKo": "“Nature”에 대한 연구에 따르면 당사의 대화형 AI 시스템은 복잡한 질병 관리 분야에서 주치의와 일치합니다.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "date": "2026-06-17",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-17T20:57:57.926Z"
+  },
+  {
+    "id": "anthropic-1781729880804-764",
+    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "titleKo": "Anthropic, 서울 사무소 개설 및 한국 AI 생태계 전반에 걸친 새로운 파트너십 발표",
+    "summary": "Anthropic Official Update: Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "summaryKo": "Anthropic 공식 업데이트: Anthropic, 서울 사무소 개설 및 한국 AI 생태계 전반에 걸친 새로운 파트너십 발표",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "date": "2026-06-17",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-17T20:58:00.804Z"
+  },
+  {
     "id": "openai-1781645780568-732",
     "title": "Predicting model behavior before release by simulating deployment",
     "titleKo": "배포 시뮬레이션을 통해 출시 전 모델 동작 예측",
