@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1781817264084-169",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "titleKo": "기업을 위한 새로운 사용량 분석 및 업데이트된 지출 관리",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "summaryKo": "OpenAI는 ChatGPT Enterprise에 대한 새로운 지출 제어 및 사용 분석을 도입하여 조직이 자신 있게 비용을 관리하고 AI를 확장할 수 있도록 돕습니다.",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-18T21:14:24.084Z"
+  },
+  {
+    "id": "openai-1781817264795-964",
+    "title": "Improving health intelligence in ChatGPT",
+    "titleKo": "ChatGPT의 건강 인텔리전스 개선",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "summaryKo": "GPT-5.5 Instant가 더 강력한 추론, 더 나은 상황, 더 명확한 의사소통, 의사 정보 평가를 통해 ChatGPT의 건강 및 웰니스 응답을 어떻게 개선하는지 알아보세요.",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "date": "2026-06-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-18T21:14:24.795Z"
+  },
+  {
+    "id": "openai-1781817265510-479",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "titleKo": "의사가 어린이에게 영향을 미치는 희귀 유전병을 진단하는 데 AI를 사용",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "summaryKo": "연구원들은 OpenAI 추론 모델을 사용하여 희귀 질환 진단을 돕고 이전에 해결되지 않은 사례에서 18개의 새로운 진단을 식별했습니다.",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "date": "2026-06-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-18T21:14:25.510Z"
+  },
+  {
+    "id": "cursor-1781817267605-537",
+    "title": "Improvements to Cursor Automations",
+    "titleKo": "커서 자동화 개선",
+    "summary": "Cursor Editor Changelog and feature updates: Improvements to Cursor Automations",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 커서 자동화 개선",
+    "url": "https://www.cursor.com/changelog/06-18-26",
+    "date": "2026-06-18",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-18T21:14:27.605Z"
+  },
+  {
     "id": "openai-1781729872825-263",
     "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
     "titleKo": "거의 자율적인 AI 화학자는 의약화학 분야의 까다로운 반응을 개선합니다.",
@@ -42,6 +86,17 @@
     "date": "2026-06-17",
     "source": "Anthropic",
     "scrapedAt": "2026-06-17T20:58:00.804Z"
+  },
+  {
+    "id": "cursor-1781817270082-892",
+    "title": "Cloud Environment Setup and Cloud Subagents in Agents Window",
+    "titleKo": "에이전트 창의 클라우드 환경 설정 및 클라우드 하위 에이전트",
+    "summary": "Cursor Editor Changelog and feature updates: Cloud Environment Setup and Cloud Subagents in Agents Window",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 클라우드 환경 설정 및 에이전트 창의 클라우드 하위 에이전트",
+    "url": "https://www.cursor.com/changelog/cloud-in-agents-window",
+    "date": "2026-06-17",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-18T21:14:30.082Z"
   },
   {
     "id": "openai-1781645780568-732",
