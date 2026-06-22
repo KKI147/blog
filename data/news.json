@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1782163792419-267",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다.",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "date": "2026-06-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-22T21:29:52.419Z"
+  },
+  {
+    "id": "openai-1782163793428-726",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "titleKo": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 돕는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다.",
+    "url": "https://openai.com/index/patch-the-planet",
+    "date": "2026-06-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-22T21:29:53.428Z"
+  },
+  {
+    "id": "openai-1782163795033-669",
+    "title": "Codex-maxxing for long-running work",
+    "titleKo": "장기 실행 작업을 위한 Codex-maxxing",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "summaryKo": "Jason Liu가 Codex를 사용하여 컨텍스트를 보존하고, 복잡한 프로젝트를 관리하고, 단일 프롬프트를 넘어 작업을 계속하도록 돕는 방법을 알아보세요.",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "date": "2026-06-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-22T21:29:55.033Z"
+  },
+  {
+    "id": "openai-1782163795750-314",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "titleKo": "삼성전자, 직원들에게 ChatGPT와 Codex 제공",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "summaryKo": "삼성전자는 전 세계 직원들에게 ChatGPT Enterprise와 Codex를 배포하여 OpenAI의 최대 규모의 엔터프라이즈 AI 출시 중 하나를 기록했습니다.",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "date": "2026-06-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-22T21:29:55.750Z"
+  },
+  {
     "id": "openai-1781817264084-169",
     "title": "New usage analytics and updated spend controls for enterprises",
     "titleKo": "기업을 위한 새로운 사용량 분석 및 업데이트된 지출 관리",
