@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1782248221008-996",
+    "title": "Helping build shared standards for advanced AI",
+    "titleKo": "고급 AI에 대한 공유 표준 구축 지원",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "summaryKo": "OpenAI는 고급 AI에 대한 공유 표준을 구축하고 Appia Foundation을 통해 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다.",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-23T20:57:01.008Z"
+  },
+  {
+    "id": "openai-1782248222931-317",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "titleKo": "GPT-5가 면역학자인 Derya Unutmaz가 3년 된 수수께끼를 풀도록 도운 방법",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "summaryKo": "GPT-5 Pro는 T 세포 행동에 대한 통찰력을 제공하여 3년간의 면역학 미스터리를 해결하는 데 도움을 주었습니다. 이 획기적인 발전은 암과 자가면역 연구를 지원할 수 있습니다.",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "date": "2026-06-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-23T20:57:02.931Z"
+  },
+  {
+    "id": "openai-1782248223608-916",
+    "title": "How Omio is building the future of conversational travel",
+    "titleKo": "Omio가 대화형 여행의 미래를 구축하는 방법",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "summaryKo": "Omio가 OpenAI를 사용하여 대화형 여행 경험을 강화하고 제품 개발을 가속화하며 AI 기반 회사로 변모하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/omio",
+    "date": "2026-06-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-23T20:57:03.608Z"
+  },
+  {
+    "id": "anthropic-1782248225803-392",
+    "title": "Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+    "titleKo": "Claude Tag 소개Claude Tag는 팀이 Claude와 함께 작업할 수 있는 새로운 방법입니다.",
+    "summary": "Anthropic Official Update: Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+    "summaryKo": "Anthropic 공식 업데이트: Claude Tag 소개Claude Tag는 팀이 Claude와 협력할 수 있는 새로운 방법입니다.",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "date": "2026-06-23",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-23T20:57:05.803Z"
+  },
+  {
     "id": "openai-1782163792419-267",
     "title": "Daybreak: Tools for securing every organization in the world",
     "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
@@ -31,6 +75,17 @@
     "date": "2026-06-22",
     "source": "OpenAI",
     "scrapedAt": "2026-06-22T21:29:55.033Z"
+  },
+  {
+    "id": "cursor-1782248227912-128",
+    "title": "Customize Cursor",
+    "titleKo": "커서 사용자 정의",
+    "summary": "Cursor Editor Changelog and feature updates: Customize Cursor",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 커서 사용자 정의",
+    "url": "https://www.cursor.com/changelog/customize",
+    "date": "2026-06-22",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-23T20:57:07.912Z"
   },
   {
     "id": "openai-1782163795750-314",
