@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1782332622396-799",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "titleKo": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "summaryKo": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다.",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-24T20:23:42.396Z"
+  },
+  {
     "id": "openai-1782248221008-996",
     "title": "Helping build shared standards for advanced AI",
     "titleKo": "고급 AI에 대한 공유 표준 구축 지원",
