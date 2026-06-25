@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1782420592413-848",
+    "title": "How agents are transforming work",
+    "titleKo": "상담원이 업무를 혁신하는 방법",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "summaryKo": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다.",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-25",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-25T20:49:52.413Z"
+  },
+  {
+    "id": "google-ai-1782420594319-100",
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "titleKo": "새로운 앱을 포함한 최신 Google Finance 업그레이드",
+    "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
+    "summaryKo": "새로운 Google Finance가 베타 단계를 마치고 새로운 Android 앱을 출시합니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "date": "2026-06-25",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-25T20:49:54.319Z"
+  },
+  {
     "id": "openai-1782332622396-799",
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "titleKo": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
