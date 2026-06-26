@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1782505389299-414",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "titleKo": "GPT-5.6 Sol 미리보기: 차세대 모델",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "summaryKo": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다.",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "date": "2026-06-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-26T20:23:09.299Z"
+  },
+  {
     "id": "openai-1782420592413-848",
     "title": "How agents are transforming work",
     "titleKo": "상담원이 업무를 혁신하는 방법",
