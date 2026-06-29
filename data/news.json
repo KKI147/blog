@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1782765125097-949",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "titleKo": "유럽의 AI 인력 기회 매핑",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "summaryKo": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다.",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "date": "2026-06-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-29T20:32:05.097Z"
+  },
+  {
+    "id": "google-ai-1782765127134-23",
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "titleKo": "AI 전문가에게 물어보세요: 풀 스택이란 정확히 무엇입니까?",
+    "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
+    "summaryKo": "Google 전문가가 AI에 대한 풀 스택 접근 방식을 취한다는 것이 무엇을 의미하는지, 그리고 그것이 왜 오랫동안 AI 작업의 기반이 되었는지 설명합니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "date": "2026-06-29",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-29T20:32:07.134Z"
+  },
+  {
+    "id": "cursor-1782765129743-548",
+    "title": "Cursor Mobile App for iOS",
+    "titleKo": "iOS용 커서 모바일 앱",
+    "summary": "Cursor Editor Changelog and feature updates: Cursor Mobile App for iOS",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: iOS용 커서 모바일 앱",
+    "url": "https://www.cursor.com/changelog/ios-mobile-app",
+    "date": "2026-06-29",
+    "source": "Cursor",
+    "scrapedAt": "2026-06-29T20:32:09.743Z"
+  },
+  {
+    "id": "openai-1782765125790-649",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "titleKo": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "summaryKo": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다.",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "date": "2026-06-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-29T20:32:05.790Z"
+  },
+  {
     "id": "openai-1782505389299-414",
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "titleKo": "GPT-5.6 Sol 미리보기: 차세대 모델",
