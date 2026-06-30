@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1782851595380-605",
+    "title": "How ChatGPT adoption has expanded",
+    "titleKo": "ChatGPT 채택이 확장된 방법",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "summaryKo": "새로운 OpenAI 신호 데이터는 사용자가 사용량을 늘리고 더 많은 기능을 탐색하며 지역과 언어 전반에 걸쳐 성장을 주도하면서 ChatGPT 채택이 전 세계적으로 어떻게 증가하고 있는지 보여줍니다.",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-30T20:33:15.380Z"
+  },
+  {
+    "id": "openai-1782851596046-569",
+    "title": "Introducing GeneBench-Pro",
+    "titleKo": "GeneBench-Pro 소개",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "summaryKo": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다.",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-06-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-30T20:33:16.046Z"
+  },
+  {
+    "id": "openai-1782851596714-73",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "titleKo": "코어 덤프 역학: 18년 된 버그 수정",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "summaryKo": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버그하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다.",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "date": "2026-06-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-30T20:33:16.714Z"
+  },
+  {
+    "id": "openai-1782851597344-306",
+    "title": "Inside Genebench-Pro",
+    "titleKo": "Genebench-Pro 내부",
+    "summary": "",
+    "summaryKo": "",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "date": "2026-06-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-06-30T20:33:17.344Z"
+  },
+  {
+    "id": "google-ai-1782851600119-435",
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "titleKo": "영국의 차세대 생산성 시대를 열다: AI 선구자의 국가 건설",
+    "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+    "summaryKo": "Google UK는 최신 경제 영향 보고서와 더 많은 사람들이 AI 기반 기술의 이점을 누릴 수 있도록 지원하는 방법을 공유합니다.",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "date": "2026-06-30",
+    "source": "Google AI",
+    "scrapedAt": "2026-06-30T20:33:20.119Z"
+  },
+  {
+    "id": "anthropic-1782851603036-342",
+    "title": "Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "titleKo": "Claude Sonnet 5 소개Sonnet 5는 대규모 코딩, 에이전트 및 전문 작업 전반에 걸쳐 최고의 성능을 제공합니다.",
+    "summary": "Anthropic Official Update: Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+    "summaryKo": "Anthropic 공식 업데이트: Claude Sonnet 5 소개Sonnet 5는 대규모 코딩, 에이전트 및 전문 작업 전반에 걸쳐 뛰어난 성능을 제공합니다.",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "date": "2026-06-30",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-30T20:33:23.036Z"
+  },
+  {
+    "id": "anthropic-1782851605975-620",
+    "title": "Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "titleKo": "과학자들을 위한 AI 워크벤치인 Claude Science를 이제 사용할 수 있습니다. Claude Science는 연구원들이 가장 자주 사용하는 도구와 패키지를 통합하고 감사 가능한 아티팩트를 생성하며 컴퓨팅 리소스에 대한 유연한 액세스를 제공하는 맞춤형 앱입니다.",
+    "summary": "Anthropic Official Update: Claude Science, an AI workbench for scientists, is now availableClaude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "summaryKo": "Anthropic 공식 업데이트: 과학자를 위한 AI 워크벤치인 Claude Science를 이제 사용할 수 있습니다. Claude Science는 연구원들이 가장 자주 사용하는 도구와 패키지를 통합하고 감사 가능한 아티팩트를 생성하며 컴퓨팅 리소스에 대한 유연한 액세스를 제공하는 맞춤형 앱입니다.",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "date": "2026-06-30",
+    "source": "Anthropic",
+    "scrapedAt": "2026-06-30T20:33:25.975Z"
+  },
+  {
     "id": "openai-1782765125097-949",
     "title": "Mapping Europe’s AI Workforce Opportunity",
     "titleKo": "유럽의 AI 인력 기회 매핑",
