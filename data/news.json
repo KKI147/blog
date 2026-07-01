@@ -1,5 +1,27 @@
 [
   {
+    "id": "google-ai-1782937795136-197",
+    "title": "The latest AI news we announced in June 2026",
+    "titleKo": "2026년 6월 발표한 AI 최신 소식",
+    "summary": "Here are Google’s latest AI updates from June 2026.",
+    "summaryKo": "Here are Google’s latest AI updates from June 2026.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "date": "2026-07-01",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-01T20:29:55.136Z"
+  },
+  {
+    "id": "google-ai-1782937795836-621",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "titleKo": "뉴욕시 교육자와 업계 리더들이 교실에서 AI의 미래를 만들기 위해 Google 사무실에 모였습니다.",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "summaryKo": "Google, New York Jobs CEO Council 및 Urban Assembly는 150명의 교육 및 업계 리더를 대상으로 AI 서밋을 개최했습니다.",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "date": "2026-07-01",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-01T20:29:55.836Z"
+  },
+  {
     "id": "openai-1782851595380-605",
     "title": "How ChatGPT adoption has expanded",
     "titleKo": "ChatGPT 채택이 확장된 방법",
@@ -75,6 +97,28 @@
     "date": "2026-06-30",
     "source": "Anthropic",
     "scrapedAt": "2026-06-30T20:33:25.975Z"
+  },
+  {
+    "id": "anthropic-1782937798082-778",
+    "title": "Redeploying Fable 5AnnouncementsFable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "titleKo": "Fable 5 재배포 공지Fable 5가 7월 1일 전 세계적으로 돌아옵니다. 또한 Amazon, Microsoft, Google 및 기타 Glasswing 파트너와 함께 탈옥 심각도를 평가하기 위한 업계 전반의 프레임워크를 제안하고 있습니다.",
+    "summary": "Anthropic Official Update: Redeploying Fable 5AnnouncementsFable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "summaryKo": "Anthropic Official Update: Redeploying Fable 5AnnouncementsFable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "date": "2026-06-30",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-01T20:29:58.082Z"
+  },
+  {
+    "id": "cursor-1782937801082-393",
+    "title": "MCPs and Organizations in Team Marketplaces",
+    "titleKo": "팀 마켓플레이스의 MCP 및 조직",
+    "summary": "Cursor Editor Changelog and feature updates: MCPs and Organizations in Team Marketplaces",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 팀 마켓플레이스의 MCP 및 조직",
+    "url": "https://www.cursor.com/changelog/team-marketplace-updates",
+    "date": "2026-06-30",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-01T20:30:01.082Z"
   },
   {
     "id": "openai-1782765125097-949",
