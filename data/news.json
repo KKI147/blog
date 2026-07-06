@@ -1,5 +1,16 @@
 [
   {
+    "id": "anthropic-1783370055144-826",
+    "title": "Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+    "titleKo": "사례 연구앨버타 정부는 Claude를 사용하여 정부 시스템 전반의 사이버 보안 취약성을 찾아 수정합니다.",
+    "summary": "Anthropic Official Update: Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+    "summaryKo": "Anthropic 공식 업데이트: 사례 연구앨버타 정부는 Claude를 사용하여 정부 시스템 전반의 사이버 보안 취약성을 찾아 수정합니다.",
+    "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+    "date": "2026-07-06",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-06T20:34:15.144Z"
+  },
+  {
     "id": "anthropic-1783109050480-933",
     "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
     "titleKo": "Fable 5의 사이버 보호 장치 및 탈옥 프레임워크에 대한 자세한 내용",
