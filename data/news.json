@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1783456302942-24",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "titleKo": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "summaryKo": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다.",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "date": "2026-07-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-07T20:31:42.942Z"
+  },
+  {
+    "id": "google-ai-1783456304962-602",
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "titleKo": "Gemini API에서 관리형 에이전트 확장: 백그라운드 작업, 원격 MCP 등",
+    "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "summaryKo": "개발자가 안정적이고 프로덕션에 바로 사용할 수 있는 에이전트를 구축할 수 있도록 Gemini API의 관리형 에이전트의 새로운 기능을 발표합니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "date": "2026-07-07",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-07T20:31:44.962Z"
+  },
+  {
     "id": "anthropic-1783370055144-826",
     "title": "Case StudyGovernment of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
     "titleKo": "사례 연구앨버타 정부는 Claude를 사용하여 정부 시스템 전반의 사이버 보안 취약성을 찾아 수정합니다.",
