@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1783541448583-837",
+    "title": "Separating signal from noise in coding evaluations",
+    "titleKo": "코딩 평가에서 신호와 잡음 분리",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "summaryKo": "OpenAI의 새로운 분석에서는 인기 있는 코딩 벤치마크인 SWE-Bench Pro의 문제를 밝혀 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 불러일으켰습니다.",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "date": "2026-07-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-08T20:10:48.583Z"
+  },
+  {
+    "id": "openai-1783541449269-403",
+    "title": "Helping K–12 educators build practical AI skills",
+    "titleKo": "K~12 교육자가 실용적인 AI 기술을 구축할 수 있도록 지원",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "summaryKo": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 선보입니다.",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "date": "2026-07-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-08T20:10:49.269Z"
+  },
+  {
+    "id": "openai-1783541449958-425",
+    "title": "Introducing GPT-Live",
+    "titleKo": "GPT-Live 소개",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "summaryKo": "자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델이 이제 ChatGPT Voice를 지원합니다.",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "date": "2026-07-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-08T20:10:49.958Z"
+  },
+  {
     "id": "openai-1783456302942-24",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "titleKo": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
