@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1783714020883-442",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "titleKo": "Deutsche Telekom이 AI를 통해 통신을 재배선하는 방법",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "summaryKo": "Deutsche Telekom이 OpenAI를 통해 고객 서비스, 직원 워크플로, 네트워크 운영 및 음성의 미래를 변화시키는 AI 기반 통신사가 되는 방법.",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "date": "2026-07-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-10T20:07:00.883Z"
+  },
+  {
+    "id": "cursor-1783714026701-637",
+    "title": "Side Chats and Conversation Search",
+    "titleKo": "사이드 채팅 및 대화 검색",
+    "summary": "Cursor Editor Changelog and feature updates: Side Chats and Conversation Search",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 사이드 채팅 및 대화 검색",
+    "url": "https://www.cursor.com/changelog/side-chat",
+    "date": "2026-07-10",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-10T20:07:06.701Z"
+  },
+  {
     "id": "openai-1783628944546-7",
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "titleKo": "GPT-5.6은 이제 Microsoft 365 Copilot의 기본 모델입니다.",
@@ -75,6 +97,17 @@
     "date": "2026-07-09",
     "source": "Anthropic",
     "scrapedAt": "2026-07-09T20:29:16.090Z"
+  },
+  {
+    "id": "anthropic-1783714023712-563",
+    "title": "Case StudyUST is bringing Claude to physical AI",
+    "titleKo": "사례 연구UST는 Claude를 물리적 AI에 도입하고 있습니다.",
+    "summary": "Anthropic Official Update: Case StudyUST is bringing Claude to physical AI",
+    "summaryKo": "인류 공식 업데이트: 사례 연구UST가 Claude를 물리적 AI에 도입",
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "date": "2026-07-09",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-10T20:07:03.712Z"
   },
   {
     "id": "openai-1783541448583-837",
