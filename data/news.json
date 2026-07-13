@@ -22,6 +22,17 @@
     "scrapedAt": "2026-07-10T20:07:06.701Z"
   },
   {
+    "id": "openai-1783973002367-267",
+    "title": "Getting started with ChatGPT",
+    "titleKo": "ChatGPT 시작하기",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "summaryKo": "ChatGPT 사용 방법을 배우고, 첫 대화를 시작하고, AI를 사용하여 작성하고, 브레인스토밍하고, 문제를 해결하는 간단한 방법을 알아보세요.",
+    "url": "https://openai.com/academy/getting-started",
+    "date": "2026-07-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-13T20:03:22.367Z"
+  },
+  {
     "id": "openai-1783628944546-7",
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "titleKo": "GPT-5.6은 이제 Microsoft 365 Copilot의 기본 모델입니다.",
