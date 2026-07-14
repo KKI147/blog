@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1784059013597-328",
+    "title": "How to manage AI investments in the agentic era",
+    "titleKo": "에이전트 시대의 AI 투자 관리 방법",
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "summaryKo": "기업이 달러당 유용한 작업량을 측정하고, 효율성을 개선하고, 고가치 워크플로를 확장하여 에이전트 시대에 AI 투자를 관리할 수 있는 방법을 알아보세요.",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "date": "2026-07-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-14T19:56:53.597Z"
+  },
+  {
+    "id": "openai-1784059014304-155",
+    "title": "How sales teams use ChatGPT Work",
+    "titleKo": "영업팀이 ChatGPT Work를 사용하는 방법",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "summaryKo": "영업팀이 ChatGPT 작업을 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요.",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-07-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-14T19:56:54.304Z"
+  },
+  {
+    "id": "openai-1784059015015-67",
+    "title": "How data science teams use ChatGPT Work",
+    "titleKo": "데이터 과학 팀이 ChatGPT 작업을 사용하는 방법",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "summaryKo": "데이터 과학 팀이 ChatGPT 작업을 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요.",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-14T19:56:55.015Z"
+  },
+  {
+    "id": "google-ai-1784059016063-759",
+    "title": "Celebrating 25 years of visual search innovation",
+    "titleKo": "시각적 검색 혁신 25주년 기념",
+    "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+    "summaryKo": "Google 이미지가 25주년을 맞이합니다. 다음은 몇 가지 주요 이정표와 시각적 콘텐츠를 탐색하고 생성하는 새로운 방법을 되돌아보는 것입니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "date": "2026-07-14",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-14T19:56:56.063Z"
+  },
+  {
+    "id": "anthropic-1784059017896-843",
+    "title": "Introducing Claude for Teachers",
+    "titleKo": "교사를 위한 Claude 소개",
+    "summary": "Anthropic Official Update: Introducing Claude for Teachers",
+    "summaryKo": "Anthropic 공식 업데이트: 교사를 위한 Claude 소개",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "date": "2026-07-14",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-14T19:56:57.896Z"
+  },
+  {
+    "id": "anthropic-1784059019780-808",
+    "title": "Anthropic commits $10 million to Canadian AI research",
+    "titleKo": "Anthropic은 캐나다 AI 연구에 천만 달러를 투자합니다.",
+    "summary": "Anthropic Official Update: Anthropic commits $10 million to Canadian AI research",
+    "summaryKo": "Anthropic 공식 업데이트: Anthropic은 캐나다 AI 연구에 천만 달러를 투자합니다.",
+    "url": "https://www.anthropic.com/news/canadian-ai-research",
+    "date": "2026-07-14",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-14T19:56:59.780Z"
+  },
+  {
     "id": "openai-1783714020883-442",
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "titleKo": "Deutsche Telekom이 AI를 통해 통신을 재배선하는 방법",
