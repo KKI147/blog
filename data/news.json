@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1784145238783-29",
+    "title": "The US is advancing AI safety through state and federal action",
+    "titleKo": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "summaryKo": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다.",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "date": "2026-07-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-15T19:53:58.783Z"
+  },
+  {
+    "id": "openai-1784145240724-87",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "titleKo": "GPT-Red: 견고성을 위한 자기 개선 잠금 해제",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "summaryKo": "셀프 플레이를 사용하여 AI 안전, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요.",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "date": "2026-07-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-15T19:54:00.724Z"
+  },
+  {
     "id": "openai-1784059013597-328",
     "title": "How to manage AI investments in the agentic era",
     "titleKo": "에이전트 시대의 AI 투자 관리 방법",
