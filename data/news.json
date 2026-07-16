@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1784231239508-161",
+    "title": "Why teens deserve access to safe AI",
+    "titleKo": "십대들이 안전한 AI에 접근할 자격이 있는 이유",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "summaryKo": "OpenAI가 연령에 맞는 보호, 학습 도구, 자녀 보호 기능, 전문가 파트너십을 통해 청소년을 위한 ChatGPT를 더욱 안전하게 만드는 방법을 알아보세요.",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "date": "2026-07-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-16T19:47:19.508Z"
+  },
+  {
+    "id": "openai-1784231240374-714",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
+    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다.",
+    "url": "https://openai.com/index/cars24",
+    "date": "2026-07-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-16T19:47:20.374Z"
+  },
+  {
+    "id": "google-ai-1784231242622-471",
+    "title": "Connect more of your apps to Search",
+    "titleKo": "더 많은 앱을 검색에 연결하세요",
+    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+    "summaryKo": "AI 모드에서 직접 원하는 서비스에 안전하게 연결하고 상호 작용할 수 있습니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "date": "2026-07-16",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-16T19:47:22.622Z"
+  },
+  {
+    "id": "google-ai-1784231244673-109",
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "titleKo": "두 가지 Google Vids 업데이트로 동영상 제작, 편집 및 별표 표시",
+    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+    "summaryKo": "Gemini Omni와 Google Vid의 개인 아바타를 사용하면 동영상 제작이 그 어느 때보다 쉬워집니다.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "date": "2026-07-16",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-16T19:47:24.674Z"
+  },
+  {
     "id": "openai-1784145238783-29",
     "title": "The US is advancing AI safety through state and federal action",
     "titleKo": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
