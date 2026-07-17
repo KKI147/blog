@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1784317785548-969",
+    "title": "A scorecard for the AI age",
+    "titleKo": "AI 시대의 스코어카드",
+    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "summaryKo": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다.",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-17T19:49:45.548Z"
+  },
+  {
+    "id": "cursor-1784317787695-276",
+    "title": "Improvements to Cursor in Slack",
+    "titleKo": "Slack의 커서 개선 사항",
+    "summary": "Cursor Editor Changelog and feature updates: Improvements to Cursor in Slack",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: Slack의 커서 개선",
+    "url": "https://www.cursor.com/changelog/slack-improvements",
+    "date": "2026-07-17",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-17T19:49:47.695Z"
+  },
+  {
     "id": "openai-1784231239508-161",
     "title": "Why teens deserve access to safe AI",
     "titleKo": "십대들이 안전한 AI에 접근할 자격이 있는 이유",
