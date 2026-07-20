@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1784578367525-570",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "titleKo": "장거리 모델 시대의 안전과 정렬",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "summaryKo": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다.",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-20T20:12:47.525Z"
+  },
+  {
+    "id": "anthropic-1784578370002-968",
+    "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+    "titleKo": "Anthropic의 AI for Science 희귀 질환 연구 보조금을 신청하세요",
+    "summary": "Anthropic Official Update: Apply for Anthropic’s AI for Science rare disease research grants",
+    "summaryKo": "Anthropic 공식 업데이트: Anthropic의 AI for Science 희귀 질환 연구 보조금 신청",
+    "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+    "date": "2026-07-20",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-20T20:12:50.002Z"
+  },
+  {
     "id": "openai-1784317785548-969",
     "title": "A scorecard for the AI age",
     "titleKo": "AI 시대의 스코어카드",
