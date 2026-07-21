@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1784664412667-300",
+    "title": "Introducing the ChatGPT for small business program",
+    "titleKo": "중소기업을 위한 ChatGPT 프로그램을 소개합니다",
+    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "summaryKo": "OpenAI는 중소기업을 위한 ChatGPT 프로그램을 출시하여 기업가가 AI 기술을 구축하고 작업을 자동화하며 ChatGPT Work를 통해 성장할 수 있도록 지원합니다.",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "date": "2026-07-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-21T20:06:52.667Z"
+  },
+  {
+    "id": "openai-1784664414010-891",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "titleKo": "OpenAI와 Hugging Face가 협력하여 모델 평가 중 보안 사고 해결",
+    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "summaryKo": "OpenAI와 Hugging Face는 AI 모델 평가 중 보안 사고의 초기 조사 결과를 공유하여 고급 사이버 기능과 방어자를 위한 교훈을 강조합니다.",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "date": "2026-07-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-21T20:06:54.010Z"
+  },
+  {
+    "id": "openai-1784664415891-249",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "titleKo": "David Vélez와 Robin Vince가 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류",
+    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "summaryKo": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC의 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다.",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "date": "2026-07-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-21T20:06:55.891Z"
+  },
+  {
     "id": "openai-1784578367525-570",
     "title": "Safety and alignment in an era of long-horizon models",
     "titleKo": "장거리 모델 시대의 안전과 정렬",
