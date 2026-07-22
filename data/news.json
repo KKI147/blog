@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1784750378969-680",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "summaryKo": "OpenAI는 조지아주 에핑햄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다.",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "date": "2026-07-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-22T19:59:38.969Z"
+  },
+  {
+    "id": "openai-1784750379643-396",
+    "title": "Advancing the next era of national science",
+    "titleKo": "국가과학의 다음 시대를 앞당기다",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하는 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다.",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "date": "2026-07-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-22T19:59:39.643Z"
+  },
+  {
+    "id": "openai-1784750380310-918",
+    "title": "Introducing OpenAI Presence",
+    "titleKo": "OpenAI 존재 소개",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "summaryKo": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다.",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "date": "2026-07-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-22T19:59:40.310Z"
+  },
+  {
+    "id": "google-ai-1784750382143-596",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "titleKo": "갤럭시 언팩 2026의 3가지 Google 업데이트",
+    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+    "summaryKo": "우리는 삼성 사용자가 생산성을 높이고 곧 출시될 새로운 폴더블, 시계, 안경에 대한 시간을 절약할 수 있는 방법을 공유했습니다.",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "date": "2026-07-22",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-22T19:59:42.143Z"
+  },
+  {
+    "id": "anthropic-1784750384498-725",
+    "title": "Economic ResearchA research agenda for the Economic Futures Research Fund",
+    "titleKo": "경제연구경제미래연구기금 연구과제",
+    "summary": "Anthropic Official Update: Economic ResearchA research agenda for the Economic Futures Research Fund",
+    "summaryKo": "인류 공식 업데이트: 경제 연구경제 미래 연구 기금을 위한 연구 의제",
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "date": "2026-07-22",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-22T19:59:44.498Z"
+  },
+  {
+    "id": "anthropic-1784750386501-567",
+    "title": "Ask Claude about the Anthropic Economic Index",
+    "titleKo": "클로드에게 인류경제지수에 대해 물어보세요",
+    "summary": "Anthropic Official Update: Ask Claude about the Anthropic Economic Index",
+    "summaryKo": "인류 공식 업데이트: 클로드에게 인류 경제 지수에 대해 물어보세요",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "date": "2026-07-22",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-22T19:59:46.502Z"
+  },
+  {
+    "id": "cursor-1784750390904-482",
+    "title": "Cursor Router",
+    "titleKo": "커서 라우터",
+    "summary": "Cursor Editor Changelog and feature updates: Cursor Router",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 커서 라우터",
+    "url": "https://www.cursor.com/changelog/router",
+    "date": "2026-07-22",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-22T19:59:50.904Z"
+  },
+  {
     "id": "openai-1784664412667-300",
     "title": "Introducing the ChatGPT for small business program",
     "titleKo": "중소기업을 위한 ChatGPT 프로그램을 소개합니다",
@@ -31,6 +108,17 @@
     "date": "2026-07-21",
     "source": "OpenAI",
     "scrapedAt": "2026-07-21T20:06:55.891Z"
+  },
+  {
+    "id": "anthropic-1784750389071-427",
+    "title": "Anthropic is donating another $20 million to Public First Action",
+    "titleKo": "Anthropic은 Public First Action에 2천만 달러를 추가로 기부했습니다.",
+    "summary": "Anthropic Official Update: Anthropic is donating another $20 million to Public First Action",
+    "summaryKo": "Anthropic 공식 업데이트: Anthropic은 Public First Action에 추가로 2천만 달러를 기부합니다.",
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "date": "2026-07-21",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-22T19:59:49.071Z"
   },
   {
     "id": "openai-1784578367525-570",
