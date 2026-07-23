@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1784836840304-225",
+    "title": "Launching Health in ChatGPT ",
+    "titleKo": "ChatGPT에서 건강 관리 시작하기",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "summaryKo": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다.",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-23T20:00:40.304Z"
+  },
+  {
     "id": "openai-1784750378969-680",
     "title": "Building AI infrastructure with the Effingham County community",
     "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
@@ -75,6 +86,28 @@
     "date": "2026-07-22",
     "source": "Cursor",
     "scrapedAt": "2026-07-22T19:59:50.904Z"
+  },
+  {
+    "id": "openai-1784836840998-579",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "titleKo": "언론 기관이 AI를 사용하여 중요한 임무를 수행하는 방법",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "summaryKo": "뉴스 조직은 전 세계 언론인과 출판사를 지원하는 OpenAI 도구를 통해 AI를 사용하여 보도를 강화하고, 청중을 늘리고, 비즈니스 운영을 개선하고 있습니다.",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "date": "2026-07-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-23T20:00:40.998Z"
+  },
+  {
+    "id": "openai-1784836841677-303",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "titleKo": "NTT DATA Group은 Codex를 사용하여 사건 분석을 30분으로 단축했습니다.",
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 보안 AI 채택을 확장하도록 지원합니다.",
+    "url": "https://openai.com/index/ntt-data",
+    "date": "2026-07-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-23T20:00:41.677Z"
   },
   {
     "id": "openai-1784664412667-300",
