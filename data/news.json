@@ -1,5 +1,16 @@
 [
   {
+    "id": "anthropic-1784923411082-708",
+    "title": "Introducing Claude Opus 5ProductOpus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "titleKo": "Claude Opus 5 소개ProductOpus 5는 코딩 및 전문 작업의 개선을 제공하는 동시에 장기 실행 에이전트를 지원하는 Opus 계층의 단계적 변화 개선입니다.",
+    "summary": "Anthropic Official Update: Introducing Claude Opus 5ProductOpus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "summaryKo": "Anthropic 공식 업데이트: Claude Opus 5 소개ProductOpus 5는 코딩 및 전문 작업의 개선을 제공하는 동시에 장기 실행 에이전트를 지원하는 Opus 계층의 단계적 변화 개선입니다.",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "date": "2026-07-24",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-24T20:03:31.082Z"
+  },
+  {
     "id": "openai-1784836840304-225",
     "title": "Launching Health in ChatGPT ",
     "titleKo": "ChatGPT에서 건강 관리 시작하기",
