@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1785182939024-908",
+    "title": "How AI is expanding what people do at work",
+    "titleKo": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
+    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "summaryKo": "새로운 OpenAI 연구는 ChatGPT 사용자가 역할 전반에 걸쳐 작업을 수행하고 작업 경계를 재형성하면서 AI가 작업자의 작업을 어떻게 확장하는지 보여줍니다.",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "date": "2026-07-27",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-27T20:08:59.024Z"
+  },
+  {
+    "id": "anthropic-1785182940859-825",
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "titleKo": "Cognizant와 Anthropic은 파트너십을 확장하여 Claude를 기업 고객에게 제공합니다.",
+    "summary": "Anthropic Official Update: Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "summaryKo": "Anthropic 공식 업데이트: Cognizant와 Anthropic은 Claude를 기업 고객에게 제공하기 위해 파트너십을 확장합니다.",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "date": "2026-07-27",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-27T20:09:00.859Z"
+  },
+  {
     "id": "anthropic-1784923411082-708",
     "title": "Introducing Claude Opus 5ProductOpus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "titleKo": "Claude Opus 5 소개ProductOpus 5는 코딩 및 전문 작업의 개선을 제공하는 동시에 장기 실행 에이전트를 지원하는 Opus 계층의 단계적 변화 개선입니다.",
