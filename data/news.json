@@ -1,5 +1,60 @@
 [
   {
+    "id": "openai-1785269210518-198",
+    "title": "Scientific computing in the age of agentic AI",
+    "titleKo": "에이전트 AI 시대의 과학 컴퓨팅",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "summaryKo": "새로운 현장 보고서는 과학자들이 AI 코딩 에이전트를 사용하여 과학 컴퓨팅을 현대화하고 유전체학 및 그 이상 분야의 소프트웨어 개발 및 발견을 가속화하는 방법을 보여줍니다.",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-28T20:06:50.518Z"
+  },
+  {
+    "id": "google-ai-1785269212692-434",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "titleKo": "Gemini API 관리 에이전트: 3.6 플래시, 후크 등",
+    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "summaryKo": "개발자가 안정적이고 프로덕션에 바로 사용할 수 있는 에이전트를 구축할 수 있도록 Gemini API의 관리형 에이전트에 훨씬 더 많은 새로운 기능을 발표합니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "date": "2026-07-28",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-28T20:06:52.692Z"
+  },
+  {
+    "id": "google-ai-1785269215270-408",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "titleKo": "검색의 AI 모드가 현실 세계를 즐기는 데 도움이 되는 5가지 방법",
+    "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "summaryKo": "직관에 어긋나게 들릴 수도 있지만 검색의 AI 도구는 콘서트 티켓을 예약하든, 좋은 장소를 찾든 오프라인에서 시간을 최대한 활용하는 데 실제로 도움이 될 수 있습니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "date": "2026-07-28",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-28T20:06:55.270Z"
+  },
+  {
+    "id": "google-ai-1785269217039-439",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "titleKo": "Google 검색으로 최고의 디너 파티를 주최하는 5가지 방법",
+    "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "summaryKo": "이러한 AI 기능은 메뉴 제작, 테이블 풍경 디자인 및 기타 파티 계획 작업을 처리하는 데 도움이 될 수 있습니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "date": "2026-07-28",
+    "source": "Google AI",
+    "scrapedAt": "2026-07-28T20:06:57.039Z"
+  },
+  {
+    "id": "cursor-1785269219135-293",
+    "title": "Cursor Start",
+    "titleKo": "커서 시작",
+    "summary": "Cursor Editor Changelog and feature updates: Cursor Start",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 커서 시작",
+    "url": "https://www.cursor.com/changelog/cursor-start",
+    "date": "2026-07-28",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-28T20:06:59.135Z"
+  },
+  {
     "id": "openai-1785182939024-908",
     "title": "How AI is expanding what people do at work",
     "titleKo": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
@@ -20,6 +75,17 @@
     "date": "2026-07-27",
     "source": "Anthropic",
     "scrapedAt": "2026-07-27T20:09:00.859Z"
+  },
+  {
+    "id": "anthropic-1785269218055-698",
+    "title": "Our position on open-weights models",
+    "titleKo": "개방형 가중치 모델에 대한 우리의 입장",
+    "summary": "Anthropic Official Update: Our position on open-weights models",
+    "summaryKo": "인류 공식 업데이트: 개방형 가중치 모델에 대한 우리의 입장",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "date": "2026-07-27",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-28T20:06:58.055Z"
   },
   {
     "id": "anthropic-1784923411082-708",
