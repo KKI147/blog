@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1785355363345-782",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "titleKo": "학술 연구원을 위한 ChatGPT를 통해 과학적 발견 가속화",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "summaryKo": "OpenAI는 과학 연구, 협업 및 발견을 가속화하기 위해 100,000명의 학술 연구원에게 ChatGPT의 가장 진보된 AI 모델에 대한 무료 액세스를 제공합니다.",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-29T20:02:43.345Z"
+  },
+  {
+    "id": "openai-1785355364452-439",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "titleKo": "GPT-5.6이 어떻게 프론티어 인텔리전스와 프론티어 효율성을 융합합니까?",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "summaryKo": "GPT-5.6은 모델, 추론, 에이전트 워크플로 전반에서 AI 효율성을 향상시켜 달러당 더 유용한 인텔리전스를 제공하도록 돕습니다.",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-29T20:02:44.452Z"
+  },
+  {
+    "id": "cursor-1785355366661-756",
+    "title": "Cursor, now on iPad",
+    "titleKo": "이제 iPad에서 커서를 만나보세요",
+    "summary": "Cursor Editor Changelog and feature updates: Cursor, now on iPad",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 이제 iPad에서 커서를 사용할 수 있습니다.",
+    "url": "https://www.cursor.com/changelog/ipad",
+    "date": "2026-07-29",
+    "source": "Cursor",
+    "scrapedAt": "2026-07-29T20:02:46.661Z"
+  },
+  {
     "id": "openai-1785269210518-198",
     "title": "Scientific computing in the age of agentic AI",
     "titleKo": "에이전트 AI 시대의 과학 컴퓨팅",
