@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1785441984816-253",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "titleKo": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "summaryKo": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 AI 워크플로를 대규모로 배포하는 데 어떻게 도움이 되는지 알아보세요.",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-30T20:06:24.816Z"
+  },
+  {
     "id": "openai-1785355363345-782",
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "titleKo": "학술 연구원을 위한 ChatGPT를 통해 과학적 발견 가속화",
@@ -31,6 +42,17 @@
     "date": "2026-07-29",
     "source": "Cursor",
     "scrapedAt": "2026-07-29T20:02:46.661Z"
+  },
+  {
+    "id": "openai-1785441985520-331",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "titleKo": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "summaryKo": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다.",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-30T20:06:25.520Z"
   },
   {
     "id": "openai-1785269210518-198",
