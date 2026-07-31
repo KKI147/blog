@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1785528587347-946",
+    "title": "Disrupting a Criminal Scam Operation",
+    "titleKo": "범죄적 사기 작전 방해",
+    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "summaryKo": "OpenAI는 투자, 로맨스, 도박, 사칭 계획을 지원하기 위해 ChatGPT를 사용하여 캄보디아 기반 사기 작전을 중단했습니다.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "date": "2026-08-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-31T20:09:47.347Z"
+  },
+  {
+    "id": "openai-1785528588017-498",
+    "title": "Advancing responsible AI across Europe",
+    "titleKo": "유럽 ​​전역에서 책임 있는 AI 발전",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "summaryKo": "OpenAI는 안전, 보안, 투명성 및 출처 관행이 유럽에서 책임감 있는 AI 거버넌스를 지원하는 방법을 공유합니다. EU AI법이 발전함에 따라 이 작업은 계속될 것입니다.",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-31T20:09:48.017Z"
+  },
+  {
+    "id": "openai-1785528588685-582",
+    "title": "Building abundant intelligence",
+    "titleKo": "풍부한 지능 구축",
+    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "summaryKo": "고급 AI를 더욱 유능하고 저렴하며 더욱 광범위하게 유용하게 만드는 풀 스택 접근 방식입니다.",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-31T20:09:48.685Z"
+  },
+  {
+    "id": "openai-1785528589356-678",
+    "title": "Univé builds an AI-ready workforce",
+    "titleKo": "Univé는 AI 지원 인력을 구축합니다.",
+    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "summaryKo": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요.",
+    "url": "https://openai.com/index/unive",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-31T20:09:49.356Z"
+  },
+  {
     "id": "openai-1785441984816-253",
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "titleKo": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
@@ -9,6 +53,28 @@
     "date": "2026-07-30",
     "source": "OpenAI",
     "scrapedAt": "2026-07-30T20:06:24.816Z"
+  },
+  {
+    "id": "openai-1785528590021-497",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "titleKo": "Avatarin이 GPT-Realtime을 사용하여 연중무휴 소매 에이전트를 구축한 방법",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "summaryKo": "아바타린은 OpenAI의 GPT-Realtime을 사용하여 Yamada Denki 쇼핑객에게 연중무휴 다국어 지원을 제공합니다. 2주 만에 30,000명이 에이전트를 사용했고 설문조사 응답의 92%가 긍정적이었습니다.",
+    "url": "https://openai.com/index/avatarin",
+    "date": "2026-07-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-07-31T20:09:50.021Z"
+  },
+  {
+    "id": "anthropic-1785528592982-851",
+    "title": "Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations",
+    "titleKo": "Frontier Red Team사이버 보안 평가에서 세 가지 실제 사건을 조사합니다.",
+    "summary": "Anthropic Official Update: Frontier Red TeamInvestigating three real-world incidents in our cybersecurity evaluations",
+    "summaryKo": "Anthropic 공식 업데이트: Frontier Red Team사이버 보안 평가에서 세 가지 실제 사건 조사",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "date": "2026-07-30",
+    "source": "Anthropic",
+    "scrapedAt": "2026-07-31T20:09:52.982Z"
   },
   {
     "id": "openai-1785355363345-782",
