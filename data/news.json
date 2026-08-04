@@ -11,6 +11,39 @@
     "scrapedAt": "2026-07-31T20:09:47.347Z"
   },
   {
+    "id": "openai-1785874382134-588",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "titleKo": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "summaryKo": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요.",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "date": "2026-08-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-04T20:13:02.134Z"
+  },
+  {
+    "id": "google-ai-1785874384775-104",
+    "title": "The latest AI news we announced in July 2026",
+    "titleKo": "2026년 7월에 발표한 최신 AI 뉴스",
+    "summary": "Here are Google’s latest AI updates from July 2026",
+    "summaryKo": "2026년 7월 Google의 최신 AI 업데이트는 다음과 같습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "date": "2026-08-04",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-04T20:13:04.776Z"
+  },
+  {
+    "id": "anthropic-1785874386611-365",
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "titleKo": "Mariano-Florentino (Tino) Cuéllar, 최고 글로벌 업무 책임자로 Anthropic에 합류",
+    "summary": "Anthropic Official Update: Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "summaryKo": "Anthropic 공식 업데이트: Mariano-Florentino (Tino) Cuéllar, 최고 글로벌 업무 책임자로 Anthropic에 합류",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "date": "2026-08-04",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-04T20:13:06.611Z"
+  },
+  {
     "id": "cursor-1785788304232-105",
     "title": "Google Workspace Plugins",
     "titleKo": "Google Workspace 플러그인",
@@ -20,6 +53,50 @@
     "date": "2026-08-03",
     "source": "Cursor",
     "scrapedAt": "2026-08-03T20:18:24.232Z"
+  },
+  {
+    "id": "openai-1785874382790-286",
+    "title": "Apple is getting this wrong",
+    "titleKo": "애플이 잘못하고 있다",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "summaryKo": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다.",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-04T20:13:02.790Z"
+  },
+  {
+    "id": "openai-1785874383449-559",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "titleKo": "6개월 만에 반응형 음성 AI를 위한 실시간 시스템을 구축한 방법",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 무회전 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다.",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-04T20:13:03.449Z"
+  },
+  {
+    "id": "openai-1785874384114-263",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "titleKo": "Circles는 OpenAI 기술로 통신사 개인화를 강화합니다.",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "summaryKo": "Circles는 OpenAI API 및 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다.",
+    "url": "https://openai.com/index/circles",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-04T20:13:04.114Z"
+  },
+  {
+    "id": "google-ai-1785874385433-740",
+    "title": "Inside our 353,000-person vibe coding course",
+    "titleKo": "353,000명의 바이브 코딩 코스 내부",
+    "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "summaryKo": "Kaggle의 AI Agents Intensive with Google은 학습자를 무료 과정으로 모아 AI의 차세대 영역을 구축하고 배포합니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "date": "2026-08-03",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-04T20:13:05.433Z"
   },
   {
     "id": "openai-1785614271779-813",
