@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1786131588648-392",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "titleKo": "중요한 사이버 역량의 차세대 개척에 대응",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "summaryKo": "OpenAI는 Astra에 대한 예비 사이버 보안 평가와 보호 장치 및 보안 제어를 강화하기 위해 취하고 있는 조치를 공유하고 있습니다.",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-07T19:39:48.648Z"
+  },
+  {
+    "id": "openai-1786131589324-564",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "titleKo": "HSP GRUPPE가 세무 자문을 위한 AI 기능을 구축하는 방법",
+    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "summaryKo": "HSP GRUPPE가 어떻게 ChatGPT Enterprise를 사용하여 생산성을 높이고 작업 품질을 개선하며 세금 자문 및 고객 서비스를 위한 더 많은 역량을 창출하는지 알아보세요.",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "date": "2026-08-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-07T19:39:49.324Z"
+  },
+  {
+    "id": "anthropic-1786131591127-697",
+    "title": "Improving Fable 5's biology safeguards",
+    "titleKo": "Fable 5의 생물학적 보호 장치 개선",
+    "summary": "Anthropic Official Update: Improving Fable 5's biology safeguards",
+    "summaryKo": "Anthropic 공식 업데이트: Fable 5의 생물학적 보호 장치 개선",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "date": "2026-08-07",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-07T19:39:51.127Z"
+  },
+  {
     "id": "openai-1786062718475-126",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "titleKo": "ChatGPT에서 GPT‑5.6 Sol을 개선하고 무료 사용자를 위한 GPT-5.6 Luna에 대한 액세스 확대",
