@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1786062718475-126",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "titleKo": "ChatGPT에서 GPT‑5.6 Sol을 개선하고 무료 사용자를 위한 GPT-5.6 Luna에 대한 액세스 확대",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "summaryKo": "ChatGPT는 향상된 정확성과 일관성을 갖춘 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다.",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-07T00:31:58.475Z"
+  },
+  {
+    "id": "openai-1786062719196-344",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "titleKo": "청소년 정신 건강 및 AI에 관해 미국 심리학 협회와 협력",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "summaryKo": "OpenAI와 미국심리학회(American Psychological Association)는 책임감 있는 AI 사용과 청소년 정신 건강을 위한 증거 기반 지침, 리소스 및 보호 장치를 발전시킵니다.",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-07T00:31:59.196Z"
+  },
+  {
+    "id": "openai-1786062719910-966",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "titleKo": "요청에서 실행까지: 전 세계가 ChatGPT를 작동시키는 방법",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "summaryKo": "새로운 OpenAI 신호 데이터는 채택, 사용 추세 및 진화하는 행동에 대한 국가 수준의 통찰력을 통해 전 세계 사람들이 ChatGPT를 사용하는 방법을 보여줍니다.",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-07T00:31:59.910Z"
+  },
+  {
     "id": "openai-1785528587347-946",
     "title": "Disrupting a Criminal Scam Operation",
     "titleKo": "범죄적 사기 작전 방해",
