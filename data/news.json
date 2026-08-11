@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1786477659189-737",
+    "title": "Testing ads in ChatGPT",
+    "titleKo": "ChatGPT에서 광고 테스트",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "summaryKo": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다.",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-11T19:47:39.189Z"
+  },
+  {
+    "id": "google-ai-1786477661606-402",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "titleKo": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
+    "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+    "summaryKo": "Google은 시뮬레이션된 설정에서 실시간 임상 영상 상담을 위해 AMIE를 도입했습니다.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "date": "2026-08-11",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-11T19:47:41.606Z"
+  },
+  {
     "id": "openai-1786391001757-296",
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
     "titleKo": "텍사스의 책임 있는 AI 인프라에 관해 OpenAI가 Abbott 주지사에게 보낸 서한",
@@ -75,6 +97,28 @@
     "date": "2026-08-10",
     "source": "Google AI",
     "scrapedAt": "2026-08-10T19:43:26.573Z"
+  },
+  {
+    "id": "openai-1786477659863-418",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "titleKo": "Zapier가 ChatGPT Work를 통해 핵심 마케팅 프로세스를 혁신한 방법",
+    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "summaryKo": "Zapier의 엔터프라이즈 마케팅 팀은 ChatGPT Work를 사용하여 리드 퍼널에서 이탈자 수를 줄이고, 캠페인 자산을 구축하고, 보고를 자동화합니다.",
+    "url": "https://openai.com/index/zapier",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-11T19:47:39.863Z"
+  },
+  {
+    "id": "openai-1786477660533-171",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "titleKo": "Virgin Atlantic은 ChatGPT Work를 통해 고객 여정을 개선합니다.",
+    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "summaryKo": "Virgin Atlantic은 ChatGPT Work를 통해 연구, 제품 계획 및 의사 결정을 가속화하여 팀이 고객 여정 전반에 걸쳐 신호를 연결할 수 있도록 돕습니다.",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-11T19:47:40.533Z"
   },
   {
     "id": "openai-1786131588648-392",
