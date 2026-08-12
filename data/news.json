@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1786564144865-35",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "titleKo": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "summaryKo": "OpenAI 연구는 기업이 ChatGPT 및 Codex를 사용하여 에이전트 AI를 채택하는 방법과 선구적인 기업이 AI 채택을 앞당기는 방법을 보여줍니다.",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-12T19:49:04.865Z"
+  },
+  {
     "id": "openai-1786477659189-737",
     "title": "Testing ads in ChatGPT",
     "titleKo": "ChatGPT에서 광고 테스트",
@@ -20,6 +31,17 @@
     "date": "2026-08-11",
     "source": "Google AI",
     "scrapedAt": "2026-08-11T19:47:41.606Z"
+  },
+  {
+    "id": "openai-1786564145567-833",
+    "title": "Daybreak models are now available on AWS",
+    "titleKo": "이제 AWS에서 Daybreak 모델을 사용할 수 있습니다.",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "summaryKo": "OpenAI와 AWS는 기업 보안 워크플로를 지원하기 위해 Amazon Bedrock을 통해 Daybreak 사이버 보안 기능을 제공하고 있습니다.",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "date": "2026-08-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-12T19:49:05.567Z"
   },
   {
     "id": "openai-1786391001757-296",
