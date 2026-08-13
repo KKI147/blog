@@ -1,5 +1,60 @@
 [
   {
+    "id": "openai-1786650337444-726",
+    "title": "The builder’s guide to GPT‑5.6",
+    "titleKo": "GPT‑5.6 제작 가이드",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "summaryKo": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-13T19:45:37.444Z"
+  },
+  {
+    "id": "openai-1786650338901-700",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "titleKo": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "summaryKo": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다.",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-13T19:45:38.901Z"
+  },
+  {
+    "id": "openai-1786650340386-655",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "titleKo": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "summaryKo": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다.",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-13T19:45:40.386Z"
+  },
+  {
+    "id": "google-ai-1786650343315-620",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "titleKo": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "summaryKo": "시트 캔버스는 간단한 프롬프트를 통해 데이터를 대화형 대시보드, 맞춤형 학습 추적기, 좌석 배치도 등으로 변환합니다.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "date": "2026-08-13",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-13T19:45:43.315Z"
+  },
+  {
+    "id": "cursor-1786650345163-862",
+    "title": "Cloud Agents Start 3x Faster with Builds",
+    "titleKo": "클라우드 에이전트는 빌드를 통해 3배 더 빠르게 시작합니다",
+    "summary": "Cursor Editor Changelog and feature updates: Cloud Agents Start 3x Faster with Builds",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 클라우드 에이전트가 빌드를 통해 3배 더 빠르게 시작됩니다.",
+    "url": "https://www.cursor.com/changelog/08-13-26",
+    "date": "2026-08-13",
+    "source": "Cursor",
+    "scrapedAt": "2026-08-13T19:45:45.163Z"
+  },
+  {
     "id": "openai-1786564144865-35",
     "title": "From assistance to execution: How enterprises put AI to work",
     "titleKo": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
@@ -9,6 +64,17 @@
     "date": "2026-08-12",
     "source": "OpenAI",
     "scrapedAt": "2026-08-12T19:49:04.865Z"
+  },
+  {
+    "id": "openai-1786650341052-347",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "titleKo": "RingCentral이 엔지니어링부터 운영까지 AI 기반 작업을 구축하는 방법",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "summaryKo": "RingCentral이 ChatGPT Work 및 Codex를 사용하여 AI 제품 개발을 가속화하고 엔지니어링 및 운영 전반에 걸쳐 운영 인텔리전스를 중앙 집중화하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/ringcentral",
+    "date": "2026-08-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-13T19:45:41.052Z"
   },
   {
     "id": "openai-1786477659189-737",
