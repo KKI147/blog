@@ -1,5 +1,16 @@
 [
   {
+    "id": "anthropic-1786736309447-254",
+    "title": "How Claude’s text watermark works",
+    "titleKo": "Claude의 텍스트 워터마크 작동 방식",
+    "summary": "Anthropic Official Update: How Claude’s text watermark works",
+    "summaryKo": "Anthropic 공식 업데이트: Claude의 텍스트 워터마크 작동 방식",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "date": "2026-08-14",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-14T19:38:29.447Z"
+  },
+  {
     "id": "openai-1786650337444-726",
     "title": "The builder’s guide to GPT‑5.6",
     "titleKo": "GPT‑5.6 제작 가이드",
