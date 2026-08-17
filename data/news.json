@@ -1,5 +1,60 @@
 [
   {
+    "id": "openai-1786994168125-290",
+    "title": "The Defender’s Window",
+    "titleKo": "수비수의 창",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "summaryKo": "AI는 공격자와 방어자 모두를 위해 사이버 보안을 재편하고 있습니다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 무엇을 할 수 있는지 알아보세요.",
+    "url": "https://openai.com/index/the-defenders-window",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-17T19:16:08.125Z"
+  },
+  {
+    "id": "openai-1786994168890-434",
+    "title": "OpenAI joins PORTS-Pike project",
+    "titleKo": "OpenAI, PORTS-Pike 프로젝트에 합류",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "summaryKo": "OpenAI, PORTS-Pike 프로젝트에 합류하여 지역사회 투자 확대 및 수천 개의 남부 오하이오 일자리 지원",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-17T19:16:08.890Z"
+  },
+  {
+    "id": "openai-1786994169586-329",
+    "title": "New policy ideas for the Intelligence Age",
+    "titleKo": "지능시대를 위한 새로운 정책 아이디어",
+    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "summaryKo": "OpenAI는 지능 시대의 경제적 기회를 확대하고 사회적 탄력성을 강화하기 위해 새로운 AI 정책 아이디어를 탐구하는 14개의 독립적인 프로젝트에 자금을 지원합니다.",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-17T19:16:09.587Z"
+  },
+  {
+    "id": "google-ai-1786994171213-419",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "titleKo": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
+    "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
+    "summaryKo": "Google Gemini와 Pixel은 5개 글로벌 축구 클럽과 제휴하여 AI와 스마트폰 기술을 통해 팬 매치데이 경험을 향상합니다.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "date": "2026-08-17",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-17T19:16:11.213Z"
+  },
+  {
+    "id": "cursor-1786994173162-482",
+    "title": "Origin Code Hosting",
+    "titleKo": "원본 코드 호스팅",
+    "summary": "Cursor Editor Changelog and feature updates: Origin Code Hosting",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 원본 코드 호스팅",
+    "url": "https://www.cursor.com/changelog/origin-code-hosting",
+    "date": "2026-08-17",
+    "source": "Cursor",
+    "scrapedAt": "2026-08-17T19:16:13.162Z"
+  },
+  {
     "id": "anthropic-1786736309447-254",
     "title": "How Claude’s text watermark works",
     "titleKo": "Claude의 텍스트 워터마크 작동 방식",
