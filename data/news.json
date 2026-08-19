@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1787166668593-708",
+    "title": "Offering Zero Data Retention for frontier models",
+    "titleKo": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "summaryKo": "OpenAI는 적격 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다.",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "date": "2026-08-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-19T19:11:08.593Z"
+  },
+  {
+    "id": "openai-1787166669263-164",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "titleKo": "Replit, GPT-5.6 Luna를 통해 소프트웨어 생성에 대한 액세스 확장",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "summaryKo": "Replit는 GPT-5.6 Luna를 기반으로 하는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다.",
+    "url": "https://openai.com/index/replit",
+    "date": "2026-08-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-19T19:11:09.263Z"
+  },
+  {
+    "id": "google-ai-1787166674175-131",
+    "title": "5 new ways to level up your learning with Search",
+    "titleKo": "검색을 통해 학습 수준을 높이는 5가지 새로운 방법",
+    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+    "summaryKo": "Google 검색 도구를 사용하여 수업 및 표준화된 시험을 공부하는 방법은 다음과 같습니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "date": "2026-08-19",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-19T19:11:14.175Z"
+  },
+  {
+    "id": "cursor-1787166676479-575",
+    "title": "Cloud Agents and Cursor Harness Improvements",
+    "titleKo": "클라우드 에이전트 및 커서 하네스 개선 사항",
+    "summary": "Cursor Editor Changelog and feature updates: Cloud Agents and Cursor Harness Improvements",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 클라우드 에이전트 및 커서 하네스 개선",
+    "url": "https://www.cursor.com/changelog/08-19-26",
+    "date": "2026-08-19",
+    "source": "Cursor",
+    "scrapedAt": "2026-08-19T19:11:16.479Z"
+  },
+  {
     "id": "openai-1787080594940-98",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "titleKo": "첫 번째 AI 세대를 준비하기 위해 CodeAI와 협력",
@@ -42,6 +86,39 @@
     "date": "2026-08-18",
     "source": "OpenAI",
     "scrapedAt": "2026-08-18T19:16:37.719Z"
+  },
+  {
+    "id": "openai-1787166669943-516",
+    "title": "ChatGPT Ads expands across Europe",
+    "titleKo": "ChatGPT 광고가 유럽 전역으로 확장됩니다.",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "summaryKo": "ChatGPT 광고는 31개 유럽 시장으로 확장됩니다. 광고주가 옵션을 탐색하고, 비교하고, 결정을 내릴 때 사람들에게 다가갈 수 있는 방법을 알아보세요.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-19T19:11:09.943Z"
+  },
+  {
+    "id": "openai-1787166670625-871",
+    "title": "Strengthening democratic oversight in national security",
+    "titleKo": "국가 안보에 대한 민주적 감독 강화",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "summaryKo": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하기 위한 이니셔티브를 시작합니다.",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-19T19:11:10.625Z"
+  },
+  {
+    "id": "openai-1787166671728-989",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "titleKo": "NVIDIA가 ChatGPT Work를 통해 전문성을 확장하는 방법",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "summaryKo": "NVIDIA 팀은 ChatGPT Work를 사용하여 수동 작업을 줄이고 빠르게 움직이는 신호를 연결하며 성공적인 워크플로를 전 세계적으로 확장합니다.",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-19T19:11:11.728Z"
   },
   {
     "id": "openai-1786994168125-290",
