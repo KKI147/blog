@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1787253548598-185",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "titleKo": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "summaryKo": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다.",
+    "url": "https://openai.com/index/stampli",
+    "date": "2026-08-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-20T19:19:08.598Z"
+  },
+  {
     "id": "openai-1787166668593-708",
     "title": "Offering Zero Data Retention for frontier models",
     "titleKo": "프론티어 모델을 위한 제로 데이터 보존 제공",
@@ -42,6 +53,17 @@
     "date": "2026-08-19",
     "source": "Cursor",
     "scrapedAt": "2026-08-19T19:11:16.479Z"
+  },
+  {
+    "id": "openai-1787253549297-777",
+    "title": "Offering Zero Data Retention for frontier models",
+    "titleKo": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "summaryKo": "OpenAI는 적격 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다.",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date": "2026-08-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-20T19:19:09.297Z"
   },
   {
     "id": "openai-1787080594940-98",
