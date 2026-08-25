@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1787685491476-265",
+    "title": "The full stack behind abundant intelligence",
+    "titleKo": "The full stack behind abundant intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "summaryKo": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-25T19:18:11.476Z"
+  },
+  {
+    "id": "openai-1787685492942-76",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "titleKo": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "summaryKo": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-25T19:18:12.942Z"
+  },
+  {
+    "id": "openai-1787685494334-376",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "titleKo": "Disrupting a new covert influence campaign from Russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "summaryKo": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-25T19:18:14.334Z"
+  },
+  {
+    "id": "openai-1787685495640-144",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "titleKo": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "summaryKo": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-25T19:18:15.640Z"
+  },
+  {
+    "id": "google-ai-1787685498367-400",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "titleKo": "5 ways to upgrade your home decor with Google Search",
+    "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+    "summaryKo": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "date": "2026-08-25",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-25T19:18:18.367Z"
+  },
+  {
+    "id": "anthropic-1787685499883-752",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "titleKo": "Funding better evaluations of AI’s impact on wellbeing",
+    "summary": "Anthropic Official Update: Funding better evaluations of AI’s impact on wellbeing",
+    "summaryKo": "Anthropic Official Update: Funding better evaluations of AI’s impact on wellbeing",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "date": "2026-08-25",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-25T19:18:19.883Z"
+  },
+  {
+    "id": "openai-1787685497111-472",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "titleKo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "summaryKo": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "date": "2026-08-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-25T19:18:17.111Z"
+  },
+  {
     "id": "openai-1787253548598-185",
     "title": "How ChatGPT Work helps Stampli move ideas to market",
     "titleKo": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
