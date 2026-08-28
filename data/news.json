@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1787883674728-782",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "titleKo": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "summaryKo": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-27",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-28T02:21:14.728Z"
+  },
+  {
+    "id": "openai-1787883676218-10",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "titleKo": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "summaryKo": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "date": "2026-08-27",
+    "source": "OpenAI",
+    "scrapedAt": "2026-08-28T02:21:16.218Z"
+  },
+  {
+    "id": "google-ai-1787883677725-496",
+    "title": "3 new ways to plan and book travel in Search",
+    "titleKo": "3 new ways to plan and book travel in Search",
+    "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "summaryKo": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "date": "2026-08-27",
+    "source": "Google AI",
+    "scrapedAt": "2026-08-28T02:21:17.725Z"
+  },
+  {
+    "id": "anthropic-1787883678895-155",
+    "title": "Previewing the Model Hardware StandardAnnouncementsWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "titleKo": "Previewing the Model Hardware StandardAnnouncementsWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "summary": "Anthropic Official Update: Previewing the Model Hardware StandardAnnouncementsWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "summaryKo": "Anthropic Official Update: Previewing the Model Hardware StandardAnnouncementsWe’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "date": "2026-08-27",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-28T02:21:18.895Z"
+  },
+  {
+    "id": "anthropic-1787883680237-932",
+    "title": "Expanding our support for scientists",
+    "titleKo": "Expanding our support for scientists",
+    "summary": "Anthropic Official Update: Expanding our support for scientists",
+    "summaryKo": "Anthropic Official Update: Expanding our support for scientists",
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "date": "2026-08-27",
+    "source": "Anthropic",
+    "scrapedAt": "2026-08-28T02:21:20.237Z"
+  },
+  {
+    "id": "cursor-1787883681390-64",
+    "title": "Start from scratch, without a repo",
+    "titleKo": "Start from scratch, without a repo",
+    "summary": "Cursor Editor Changelog and feature updates: Start from scratch, without a repo",
+    "summaryKo": "Cursor Editor Changelog and feature updates: Start from scratch, without a repo",
+    "url": "https://www.cursor.com/changelog/start-from-scratch",
+    "date": "2026-08-27",
+    "source": "Cursor",
+    "scrapedAt": "2026-08-28T02:21:21.390Z"
+  },
+  {
     "id": "openai-1787778937554-710",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "titleKo": "Bringing ChatGPT for Teachers to more U.S. school districts",
