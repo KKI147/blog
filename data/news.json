@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1788297794965-313",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "titleKo": "How AI-native companies turn workflows into operating capability",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "summaryKo": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "date": "2026-09-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-01T21:23:14.965Z"
+  },
+  {
+    "id": "openai-1788297796270-186",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "titleKo": "Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "summaryKo": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "url": "https://openai.com/index/path-to-astra",
+    "date": "2026-09-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-01T21:23:16.270Z"
+  },
+  {
+    "id": "openai-1788297797647-978",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "titleKo": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "summaryKo": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "date": "2026-09-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-01T21:23:17.647Z"
+  },
+  {
+    "id": "google-ai-1788297801843-249",
+    "title": "The latest AI news we announced in August 2026",
+    "titleKo": "The latest AI news we announced in August 2026",
+    "summary": "Here are Google’s latest AI updates from August 2026",
+    "summaryKo": "Here are Google’s latest AI updates from August 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "date": "2026-09-01",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-01T21:23:21.843Z"
+  },
+  {
+    "id": "google-ai-1788297803174-733",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "titleKo": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "summaryKo": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "date": "2026-09-01",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-01T21:23:23.174Z"
+  },
+  {
+    "id": "anthropic-1788297804635-137",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "titleKo": "Developing Enterprise Frontier Safeguards with our customers",
+    "summary": "Anthropic Official Update: Developing Enterprise Frontier Safeguards with our customers",
+    "summaryKo": "Anthropic Official Update: Developing Enterprise Frontier Safeguards with our customers",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "date": "2026-09-01",
+    "source": "Anthropic",
+    "scrapedAt": "2026-09-01T21:23:24.635Z"
+  },
+  {
     "id": "openai-1788217332331-197",
     "title": "A milestone in expanding access to AI",
     "titleKo": "A milestone in expanding access to AI",
@@ -20,6 +86,28 @@
     "date": "2026-08-31",
     "source": "Anthropic",
     "scrapedAt": "2026-08-31T23:02:13.629Z"
+  },
+  {
+    "id": "openai-1788297799057-628",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "titleKo": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "summaryKo": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-01T21:23:19.057Z"
+  },
+  {
+    "id": "openai-1788297800441-304",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "titleKo": "Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "summaryKo": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "url": "https://openai.com/index/polimill",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-01T21:23:20.441Z"
   },
   {
     "id": "openai-1787968488552-121",
