@@ -1,5 +1,27 @@
 [
   {
+    "id": "google-ai-1788384043043-265",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "titleKo": "Proactive cyber defense for governments and enterprises",
+    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "summaryKo": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "date": "2026-09-02",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-02T21:20:43.044Z"
+  },
+  {
+    "id": "cursor-1788384044421-873",
+    "title": "Self-hosted machines",
+    "titleKo": "Self-hosted machines",
+    "summary": "Cursor Editor Changelog and feature updates: Self-hosted machines",
+    "summaryKo": "Cursor Editor Changelog and feature updates: Self-hosted machines",
+    "url": "https://www.cursor.com/changelog/self-hosted-machines",
+    "date": "2026-09-02",
+    "source": "Cursor",
+    "scrapedAt": "2026-09-02T21:20:44.421Z"
+  },
+  {
     "id": "openai-1788297794965-313",
     "title": "How AI-native companies turn workflows into operating capability",
     "titleKo": "How AI-native companies turn workflows into operating capability",
@@ -64,6 +86,17 @@
     "date": "2026-09-01",
     "source": "Anthropic",
     "scrapedAt": "2026-09-01T21:23:24.635Z"
+  },
+  {
+    "id": "openai-1788384041686-691",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "titleKo": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "summaryKo": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "date": "2026-09-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-02T21:20:41.687Z"
   },
   {
     "id": "openai-1788217332331-197",
