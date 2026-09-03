@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1788470553955-357",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "titleKo": "최전선 수비수를 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "summaryKo": "OpenAI는 최전선 수비수를 위한 Daybreak를 도입합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다.",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-03T21:22:33.955Z"
+  },
+  {
+    "id": "openai-1788470556187-908",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "titleKo": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토했습니다.",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "summaryKo": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토하고, 심어진 오류 4개를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다.",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-03T21:22:36.187Z"
+  },
+  {
+    "id": "openai-1788470557633-974",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "titleKo": "Playco는 GPT-6 Astra를 사용하여 프로토타입 게임의 50%를 수동으로 수정했습니다.",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "summaryKo": "Playco는 GPT-6 Astra를 사용하여 하나의 회색 상자 기반으로 3개의 테마 게임 프로토타입을 제작했으며 이전 모델보다 수동 수정이 50% 적다고 보고했습니다.",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-03T21:22:37.633Z"
+  },
+  {
+    "id": "openai-1788470560408-994",
+    "title": "Safety overview: GPT-6 Astra",
+    "titleKo": "안전 개요: GPT-6 Astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "summaryKo": "GPT-6 Astra는 당사의 가장 유능하고 광범위하게 배포된 모델이며 당사의 준비 프레임워크에 따라 사이버 보안 기능의 중요 수준에 도달한 최초의 모델입니다.",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-03T21:22:40.408Z"
+  },
+  {
     "id": "google-ai-1788384043043-265",
     "title": "Proactive cyber defense for governments and enterprises",
     "titleKo": "Proactive cyber defense for governments and enterprises",
@@ -20,6 +64,17 @@
     "date": "2026-09-02",
     "source": "Cursor",
     "scrapedAt": "2026-09-02T21:20:44.421Z"
+  },
+  {
+    "id": "openai-1788470561115-128",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "titleKo": "ATV Big Air Tour는 ChatGPT를 사용하여 3일의 작업을 3시간으로 단축했습니다.",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "summaryKo": "ATV Big Air Tour는 ChatGPT 작업을 사용하여 마케팅, 상품화 등의 속도를 높입니다. 심지어 15분 만에 상품 사진을 재고 웹사이트로 전환했습니다.",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "date": "2026-09-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-03T21:22:41.115Z"
   },
   {
     "id": "openai-1788297794965-313",
