@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1788727918476-21",
+    "title": "An Alien Mind",
+    "titleKo": "An Alien Mind",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "summaryKo": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "url": "https://openai.com/index/an-alien-mind",
+    "date": "2026-09-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-06T20:51:58.476Z"
+  },
+  {
+    "id": "openai-1788727919974-283",
+    "title": "Research acceleration: The view inside OpenAI",
+    "titleKo": "Research acceleration: The view inside OpenAI",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "summaryKo": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "date": "2026-09-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-06T20:51:59.974Z"
+  },
+  {
     "id": "openai-1788470553955-357",
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "titleKo": "최전선 수비수를 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
