@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1788902831168-120",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "titleKo": "GPT-5.6 Sol이 양자 컴퓨팅 실험을 실행하는 데 어떻게 도움이 됩니까?",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "summaryKo": "MIT 연구원이 Codex와 함께 GPT-5.6 Sol을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:11.168Z"
+  },
+  {
+    "id": "openai-1788902831906-509",
+    "title": "The Work Now Within Reach",
+    "titleKo": "이제 작업이 눈앞에 다가왔습니다",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "summaryKo": "더 유능하고 저렴한 AI가 어떻게 사람과 기업이 달성할 수 있는 작업을 확장하고 더욱 경제적으로 성장할 수 있는지 알아보세요.",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:11.906Z"
+  },
+  {
+    "id": "openai-1788902833909-420",
+    "title": "Introducing ChatGPT Images 2.5",
+    "titleKo": "ChatGPT 이미지 2.5 소개",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "summaryKo": "ChatGPT 이미지 2.5는 귀하의 아이디어, 스케치 및 참조 사진을 귀하의 아이디어를 더 잘 반영하는 보다 개인화되고 세련된 이미지로 바꾸는 데 도움이 됩니다.",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:13.909Z"
+  },
+  {
+    "id": "openai-1788902836791-368",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "titleKo": "나비에-스토크스 밀레니엄상 문제에 대하여",
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "summaryKo": "우리는 Lean의 글과 공식 증명을 포함하여 Navier-Stokes Millennium Prize 문제에 대한 AI 생성 솔루션을 공유하고 있습니다.",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:16.791Z"
+  },
+  {
+    "id": "openai-1788902837470-729",
+    "title": "Funding grants for new research into AI and teen development",
+    "titleKo": "AI 및 청소년 발달에 대한 새로운 연구를 위한 자금 지원",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "summaryKo": "생성 AI가 청소년 발달, 웰빙 및 안전에 어떤 영향을 미치는지에 대한 독립적인 연구를 지원하는 OpenAI의 500만 달러 보조금 프로그램을 지금 신청하세요.",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:17.470Z"
+  },
+  {
+    "id": "openai-1788902838133-537",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "titleKo": "OpenAI, 교실에서 뉴스룸까지 저널리즘 지원 이니셔티브 확장",
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "summaryKo": "OpenAI는 학생, 교육자, 언론인 및 언론 기관을 위한 도구, 교육 및 파트너십을 통해 저널리즘에 대한 지원을 확대하고 있습니다.",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:18.133Z"
+  },
+  {
+    "id": "openai-1788902841224-715",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "titleKo": "1Password는 Codex를 통해 엔지니어링 생산성을 21% 높입니다.",
+    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "summaryKo": "1Password의 엔지니어는 Codex를 사용하여 새로운 기능과 내부 도구를 신속하게 구축하여 엄격한 보안 정책을 유지하면서 생산 준비 상태에 도달합니다.",
+    "url": "https://openai.com/index/1password",
+    "date": "2026-09-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-08T21:27:21.224Z"
+  },
+  {
     "id": "openai-1788817636006-405",
     "title": "Supporting independent journalism in Ukraine",
     "titleKo": "Supporting independent journalism in Ukraine",
