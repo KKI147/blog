@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1788988450225-595",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "titleKo": "Paul Christiano joins OpenAI Foundation Board",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "summaryKo": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "date": "2026-09-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-09T21:14:10.225Z"
+  },
+  {
+    "id": "google-ai-1788988451530-445",
+    "title": "Get ready for the game with new football features in Search",
+    "titleKo": "Get ready for the game with new football features in Search",
+    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "summaryKo": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "date": "2026-09-09",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-09T21:14:11.530Z"
+  },
+  {
+    "id": "google-ai-1788988452724-419",
+    "title": "Recreating a 70-year love story frame by frame",
+    "titleKo": "Recreating a 70-year love story frame by frame",
+    "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+    "summaryKo": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "date": "2026-09-09",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-09T21:14:12.724Z"
+  },
+  {
     "id": "openai-1788902831168-120",
     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
     "titleKo": "GPT-5.6 Sol이 양자 컴퓨팅 실험을 실행하는 데 어떻게 도움이 됩니까?",
