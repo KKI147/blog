@@ -1,5 +1,93 @@
 [
   {
+    "id": "openai-1789074800342-361",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "titleKo": "연구원이 Codex와 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "summaryKo": "César de la Fuente의 연구실에서는 Codex와 ChatGPT를 사용하여 살아있는 게놈과 멸종된 게놈에서 약물 내성 감염과 싸우기 위한 항균제 후보를 검색합니다.",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:20.342Z"
+  },
+  {
+    "id": "openai-1789074801008-399",
+    "title": "Now everyone can put data to work",
+    "titleKo": "이제 누구나 데이터를 업무에 활용할 수 있습니다.",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 회사 데이터를 연결하고 통찰력을 발견하며 자연어를 사용하는 AI로 대화형 대시보드를 구축하세요.",
+    "url": "https://openai.com/index/put-data-to-work",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:21.008Z"
+  },
+  {
+    "id": "openai-1789074803774-811",
+    "title": "Introducing ChatGPT for Financial Services",
+    "titleKo": "금융 서비스용 ChatGPT 소개",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "summaryKo": "내장된 금융 데이터와 연구, 모델링 및 고객 지원 자료를 위한 GPT-6 Astra를 결합한 금융 서비스용 ChatGPT를 소개합니다.",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:23.774Z"
+  },
+  {
+    "id": "openai-1789074804446-756",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "titleKo": "연방, 주, 지방, 부족 정부를 위한 AI 액세스 및 사이버 방어 확장",
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "summaryKo": "OpenAI와 GSA는 적격 연방, 주, 지방, 부족 정부에 라이선스 비용 0달러, 사용량 50% 할인, 확장된 사이버 방어 지원을 제공합니다.",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:24.446Z"
+  },
+  {
+    "id": "openai-1789074805123-774",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "titleKo": "API에서 GPT‑Live‑1을 사용하여 보다 자연스러운 음성 환경 구축",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "summaryKo": "GPT‑Live‑1은 더 강력한 지침 따르기, 맞춤형 음성 및 전화 통신 지원을 통해 자연스러운 전이중 음성 대화를 API에 제공합니다.",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:25.123Z"
+  },
+  {
+    "id": "openai-1789074807452-167",
+    "title": "Introducing the Agents API",
+    "titleKo": "에이전트 API 소개",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 Codex 하네스로 구동되는 관리형 서비스인 Agents API를 사용하여 클라우드 에이전트를 구축하고 실행하세요.",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:27.452Z"
+  },
+  {
+    "id": "google-ai-1789074812051-889",
+    "title": "3 ways to prep for your next big race with Search",
+    "titleKo": "검색을 통해 다음 번 대규모 경주를 준비하는 3가지 방법",
+    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+    "summaryKo": "검색은 등록 알림, 맞춤형 훈련 계획 등을 통해 주자가 경주 당일을 준비하는 데 도움이 될 수 있습니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "date": "2026-09-10",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-10T21:13:32.051Z"
+  },
+  {
+    "id": "cursor-1789074813976-75",
+    "title": "Cursor Projects",
+    "titleKo": "커서 프로젝트",
+    "summary": "Cursor Editor Changelog and feature updates: Cursor Projects",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 커서 프로젝트",
+    "url": "https://www.cursor.com/changelog/projects",
+    "date": "2026-09-10",
+    "source": "Cursor",
+    "scrapedAt": "2026-09-10T21:13:33.976Z"
+  },
+  {
     "id": "openai-1788988450225-595",
     "title": "Paul Christiano joins OpenAI Foundation Board",
     "titleKo": "Paul Christiano joins OpenAI Foundation Board",
@@ -31,6 +119,28 @@
     "date": "2026-09-09",
     "source": "Google AI",
     "scrapedAt": "2026-09-09T21:14:12.724Z"
+  },
+  {
+    "id": "openai-1789074809571-651",
+    "title": "The AI policy window is open. We need to act.",
+    "titleKo": "AI 정책 창이 열립니다. 우리는 행동해야 합니다.",
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "summaryKo": "Chris Lehane은 더 강력한 AI 기능에는 정책 창이 열려 있는 동안 더 강력한 안전 증거, 공유 표준, 지속 가능한 정책 조치가 필요하다고 주장합니다.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "date": "2026-09-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:29.571Z"
+  },
+  {
+    "id": "openai-1789074811040-806",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "titleKo": "GPT-6 Astra: 차세대 업무용 인텔리전스",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "summaryKo": "고급 추론, 컴퓨터 사용, 강력한 글쓰기 및 디자인 판단력을 갖춘 OpenAI의 가장 유능한 비즈니스 모델인 GPT-6 Astra를 만나보세요.",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "date": "2026-09-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-10T21:13:31.040Z"
   },
   {
     "id": "openai-1788902831168-120",
