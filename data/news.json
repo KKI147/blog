@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1789161653232-288",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "titleKo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "summaryKo": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "date": "2026-09-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-11T21:20:53.232Z"
+  },
+  {
     "id": "openai-1789074800342-361",
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "titleKo": "연구원이 Codex와 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
