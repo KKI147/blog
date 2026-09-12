@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1789246771956-922",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "titleKo": "Perplexity는 엔드투엔드 시스템으로 GPT-6 Astra를 신뢰합니다.",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "summaryKo": "Perplexity는 Astra를 사용하여 커뮤니케이션을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 덜 자주 체크인합니다.",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-12T20:59:31.956Z"
+  },
+  {
     "id": "openai-1789161653232-288",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "titleKo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -9,6 +20,17 @@
     "date": "2026-09-11",
     "source": "OpenAI",
     "scrapedAt": "2026-09-11T21:20:53.232Z"
+  },
+  {
+    "id": "openai-1789246772634-991",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "titleKo": "Cognition은 Devin이 GPT-6 Astra로 자체 작업을 테스트하는 데 도움이 됩니다.",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "summaryKo": "GPT‑6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 제품을 출시할 수 있도록 돕기 위해 소프트웨어를 테스트하고 작동 여부를 보여주는 Devin의 능력을 향상시킵니다.",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "date": "2026-09-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-12T20:59:32.635Z"
   },
   {
     "id": "openai-1789074800342-361",
