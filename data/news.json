@@ -11,6 +11,39 @@
     "scrapedAt": "2026-09-12T20:59:31.956Z"
   },
   {
+    "id": "openai-1789423545203-817",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "summaryKo": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 받은 편지함을 정리하고 각 사용자의 목소리로 이메일 초안을 작성합니다.",
+    "url": "https://openai.com/index/fyxer",
+    "date": "2026-09-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-14T22:05:45.203Z"
+  },
+  {
+    "id": "google-ai-1789423547497-281",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "titleKo": "우주비행사 Christina Koch와 Google의 James Manyika가 우주, 기술 및 발견에 관해 토론하는 모습을 시청하세요.",
+    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "summaryKo": "Christina Koch가 Google의 연구, 연구실, 기술 및 사회 담당 수석 부사장인 James Manyika와 함께 앉아 있습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "date": "2026-09-14",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-14T22:05:47.497Z"
+  },
+  {
+    "id": "google-ai-1789423548788-717",
+    "title": "DevFest is back",
+    "titleKo": "DevFest가 돌아왔습니다",
+    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "summaryKo": "DevFest 2026이 돌아왔습니다. 에이전트 AI 시대에 구축, 보안 및 확장을 위해 800개 이상의 글로벌 이벤트 중 하나에 연결하는 방법은 다음과 같습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "date": "2026-09-14",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-14T22:05:48.788Z"
+  },
+  {
     "id": "openai-1789161653232-288",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "titleKo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
