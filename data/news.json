@@ -1,5 +1,49 @@
 [
   {
+    "id": "google-ai-1789508820413-765",
+    "title": "AI for Societal Impact",
+    "titleKo": "AI for Societal Impact",
+    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "summaryKo": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "date": "2026-09-15",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-15T21:47:00.413Z"
+  },
+  {
+    "id": "google-ai-1789508821789-974",
+    "title": "Building AI to accelerate science and improve lives",
+    "titleKo": "Building AI to accelerate science and improve lives",
+    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "summaryKo": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "date": "2026-09-15",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-15T21:47:01.789Z"
+  },
+  {
+    "id": "google-ai-1789508823093-747",
+    "title": "AI for everyone in every language",
+    "titleKo": "AI for everyone in every language",
+    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "summaryKo": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "date": "2026-09-15",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-15T21:47:03.093Z"
+  },
+  {
+    "id": "google-ai-1789508824421-881",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "titleKo": "New insights from Google’s AI & Economy ATLAS",
+    "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "summaryKo": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "date": "2026-09-15",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-15T21:47:04.421Z"
+  },
+  {
     "id": "openai-1789246771956-922",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "titleKo": "Perplexity는 엔드투엔드 시스템으로 GPT-6 Astra를 신뢰합니다.",
