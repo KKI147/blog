@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1789595070639-522",
+    "title": "Helping older adults use AI in everyday life",
+    "titleKo": "노인들이 일상생활에서 AI를 활용할 수 있도록 지원",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시의 노인 1,000명에게 무료 실습 ChatGPT 워크숍을 제공하고 있습니다.",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-16T21:44:30.639Z"
+  },
+  {
+    "id": "openai-1789595072532-11",
+    "title": "Reimagining advertising with AI",
+    "titleKo": "AI로 광고를 재구성하다",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "summaryKo": "후원 에이전트, 마케팅 담당자를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요.",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-16T21:44:32.533Z"
+  },
+  {
+    "id": "openai-1789595075433-464",
+    "title": "How to connect AI usage to business value",
+    "titleKo": "AI 활용을 비즈니스 가치에 연결하는 방법",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "summaryKo": "ChatGPT 작업 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구 사항을 식별하고, 채택을 비즈니스 결과에 연결하는 데 어떻게 도움이 되는지 알아보세요.",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-16T21:44:35.433Z"
+  },
+  {
+    "id": "openai-1789595077686-797",
+    "title": "How workers are unlocking new ways of working",
+    "titleKo": "직원들이 새로운 업무 방식을 여는 방법",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "summaryKo": "새로운 OpenAI 경제 연구에서는 작업자가 전통적인 역할을 넘어 AI를 어떻게 사용하는지, 그리고 어떤 새로운 활동이 업무의 반복적인 부분이 되는지 보여줍니다.",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-16T21:44:37.686Z"
+  },
+  {
     "id": "google-ai-1789508820413-765",
     "title": "AI for Societal Impact",
     "titleKo": "AI for Societal Impact",
