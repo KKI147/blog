@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1789681661931-459",
+    "title": "Introducing Astra for Law",
+    "titleKo": "Introducing Astra for Law",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "summaryKo": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "url": "https://openai.com/index/astra-for-law",
+    "date": "2026-09-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-17T21:47:41.931Z"
+  },
+  {
+    "id": "google-ai-1789681664389-299",
+    "title": "Making global data easier to explore",
+    "titleKo": "Making global data easier to explore",
+    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "summaryKo": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "date": "2026-09-17",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-17T21:47:44.389Z"
+  },
+  {
+    "id": "anthropic-1789681665827-766",
+    "title": "Introducing the Life Sciences Verification Program",
+    "titleKo": "Introducing the Life Sciences Verification Program",
+    "summary": "Anthropic Official Update: Introducing the Life Sciences Verification Program",
+    "summaryKo": "Anthropic Official Update: Introducing the Life Sciences Verification Program",
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "date": "2026-09-17",
+    "source": "Anthropic",
+    "scrapedAt": "2026-09-17T21:47:45.827Z"
+  },
+  {
     "id": "openai-1789595070639-522",
     "title": "Helping older adults use AI in everyday life",
     "titleKo": "노인들이 일상생활에서 AI를 활용할 수 있도록 지원",
@@ -42,6 +75,17 @@
     "date": "2026-09-16",
     "source": "OpenAI",
     "scrapedAt": "2026-09-16T21:44:37.686Z"
+  },
+  {
+    "id": "openai-1789681663144-36",
+    "title": "Our framework for reporting model misalignment",
+    "titleKo": "Our framework for reporting model misalignment",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "summaryKo": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-17T21:47:43.144Z"
   },
   {
     "id": "google-ai-1789508820413-765",
