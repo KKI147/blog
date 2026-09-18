@@ -1,5 +1,38 @@
 [
   {
+    "id": "google-ai-1789766216332-599",
+    "title": "New experts join Google’s AI & Economy team",
+    "titleKo": "New experts join Google’s AI & Economy team",
+    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "summaryKo": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "date": "2026-09-18",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-18T21:16:56.332Z"
+  },
+  {
+    "id": "google-ai-1789766217686-524",
+    "title": "Co-creating the future of fashion with Google",
+    "titleKo": "Co-creating the future of fashion with Google",
+    "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "summaryKo": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "date": "2026-09-18",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-18T21:16:57.686Z"
+  },
+  {
+    "id": "anthropic-1789766219005-530",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "titleKo": "Partnering with Accenture on embedded evaluation",
+    "summary": "Anthropic Official Update: Partnering with Accenture on embedded evaluation",
+    "summaryKo": "Anthropic Official Update: Partnering with Accenture on embedded evaluation",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "date": "2026-09-18",
+    "source": "Anthropic",
+    "scrapedAt": "2026-09-18T21:16:59.005Z"
+  },
+  {
     "id": "openai-1789681661931-459",
     "title": "Introducing Astra for Law",
     "titleKo": "Introducing Astra for Law",
@@ -31,6 +64,17 @@
     "date": "2026-09-17",
     "source": "Anthropic",
     "scrapedAt": "2026-09-17T21:47:45.827Z"
+  },
+  {
+    "id": "openai-1789766215129-177",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "titleKo": "How Cooley is accelerating IPO work with ChatGPT",
+    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "summaryKo": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "date": "2026-09-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-18T21:16:55.129Z"
   },
   {
     "id": "openai-1789595070639-522",
