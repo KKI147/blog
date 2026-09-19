@@ -33,6 +33,17 @@
     "scrapedAt": "2026-09-18T21:16:59.005Z"
   },
   {
+    "id": "openai-1789851829028-756",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "titleKo": "Introducing the Australian Youth Safety Blueprint",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "summaryKo": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "date": "2026-09-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-19T21:03:49.028Z"
+  },
+  {
     "id": "openai-1789681661931-459",
     "title": "Introducing Astra for Law",
     "titleKo": "Introducing Astra for Law",
@@ -130,6 +141,17 @@
     "date": "2026-09-16",
     "source": "OpenAI",
     "scrapedAt": "2026-09-17T21:47:43.144Z"
+  },
+  {
+    "id": "openai-1789851830429-146",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "titleKo": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "summaryKo": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-19T21:03:50.429Z"
   },
   {
     "id": "google-ai-1789508820413-765",
