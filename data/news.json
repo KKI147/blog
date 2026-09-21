@@ -1,5 +1,60 @@
 [
   {
+    "id": "openai-1790028997860-319",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "titleKo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "summaryKo": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-21T22:16:37.860Z"
+  },
+  {
+    "id": "openai-1790028999160-295",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "titleKo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "summaryKo": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-21T22:16:39.160Z"
+  },
+  {
+    "id": "openai-1790029000197-596",
+    "title": "Building standards for the next phase of AI",
+    "titleKo": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "summaryKo": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-21T22:16:40.197Z"
+  },
+  {
+    "id": "openai-1790029001607-348",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "titleKo": "Expanding OpenAI Academy with new learning paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "summaryKo": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-21T22:16:41.608Z"
+  },
+  {
+    "id": "openai-1790029002939-541",
+    "title": "How V7 gives AI agents institutional memory",
+    "titleKo": "How V7 gives AI agents institutional memory",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "summaryKo": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "url": "https://openai.com/index/v7",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-21T22:16:42.939Z"
+  },
+  {
     "id": "google-ai-1789766216332-599",
     "title": "New experts join Google’s AI & Economy team",
     "titleKo": "New experts join Google’s AI & Economy team",
