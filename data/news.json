@@ -1,5 +1,137 @@
 [
   {
+    "id": "openai-1790200104566-338",
+    "title": "Two years of OpenAI Academy",
+    "titleKo": "OpenAI 아카데미 2년",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "summaryKo": "OpenAI Academy의 2주년을 기념하고 더 많은 커뮤니티에 AI 기술을 제공합니다.",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:24.566Z"
+  },
+  {
+    "id": "openai-1790200105237-902",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "titleKo": "OpenAI, 민간 방어를 위해 우크라이나로 사이버 액세스 확장",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "summaryKo": "OpenAI는 민간 인프라의 사이버 방어를 지원하기 위해 Daybreak 프로그램에 대한 액세스를 우크라이나 정부로 확장하고 있습니다.",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:25.237Z"
+  },
+  {
+    "id": "openai-1790200105931-682",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "titleKo": "유엔 안전보장이사회에서 샘 알트먼의 발언",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "summaryKo": "OpenAI CEO 샘 알트만(Sam Altman)이 유엔 안보리 연설에서 AI 안전, 인간 통제 및 국제 협력에 대해 논의합니다.",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:25.931Z"
+  },
+  {
+    "id": "openai-1790200106610-769",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "titleKo": "Harvey는 GPT-6 Astra를 통해 법적 맥락을 더욱 강력한 초안으로 전환합니다.",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "summaryKo": "GPT-6 Astra는 보다 구조화되고 상황을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 해줍니다.",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:26.610Z"
+  },
+  {
+    "id": "openai-1790200107307-719",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "titleKo": "인비디오가 GPT‑6 Astra를 사용하여 컬러 그레이딩을 3배 향상한 방법",
+    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "summaryKo": "GPT‑6 Astra를 사용하면 invideo에서 더욱 정밀하게 편집을 계획하고, 색상 교정 및 그레이딩을 3배 향상하고, 하루에 50개의 사용자 정의 효과를 생성할 수 있습니다.",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:27.307Z"
+  },
+  {
+    "id": "openai-1790200107975-865",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "titleKo": "Ringg의 AI 에이전트는 OpenAI를 통해 고객 통화의 최대 65%를 해결합니다.",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "summaryKo": "Ringg는 GPT-5.6을 사용하여 GPT-4.1에 비해 90% 저렴한 비용으로 음성, 채팅, WhatsApp, 웹 전반에 걸쳐 다국어 에이전트를 지원합니다.",
+    "url": "https://openai.com/index/ringg",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:27.975Z"
+  },
+  {
+    "id": "openai-1790200109885-61",
+    "title": "Introducing MentalHealthBench",
+    "titleKo": "MentalHealthBench 소개",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "summaryKo": "MentalHealthBench는 현실적인 정신 건강 대화 전반에 걸쳐 유용하고 안전한 AI 반응을 평가하기 위한 전문가 정보 벤치마크입니다.",
+    "url": "https://openai.com/index/introducing-mentalhealthbench",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:29.885Z"
+  },
+  {
+    "id": "openai-1790200110554-366",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "titleKo": "Airbnb, GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 접근성 확대",
+    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+    "summaryKo": "Airbnb가 GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 액세스를 확장하여 엔지니어링 팀이 버그를 해결하고 시스템을 설계하며 더 빠르게 출시할 수 있도록 지원하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:30.554Z"
+  },
+  {
+    "id": "openai-1790200112177-109",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "titleKo": "Grab과 OpenAI가 동남아시아에 실용적인 AI 기술을 제공합니다.",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "summaryKo": "OpenAI와 Grab은 30,000명의 파트너가 동남아시아 전역에서 실용적인 AI 기술을 구축하도록 돕는 지역 프로그램인 GO Forward with AI를 출시합니다.",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-23T21:48:32.177Z"
+  },
+  {
+    "id": "google-ai-1790200113315-554",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "titleKo": "Google Beam은 새로운 지역, 파트너, 고객으로 확장됩니다.",
+    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "summaryKo": "우리는 Google Beam을 5개 새로운 국가로 확장하고 확장된 네트워크를 위해 Industrious와 제휴하고 있습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "date": "2026-09-23",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-23T21:48:33.315Z"
+  },
+  {
+    "id": "anthropic-1790200115388-430",
+    "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "titleKo": "Science Claude는 CRISPR 유사 반복을 통해 새로운 효소 시스템을 발견했습니다.",
+    "summary": "Anthropic Official Update: Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "summaryKo": "인류 공식 업데이트: Science Claude는 CRISPR와 유사한 반복을 통해 새로운 효소 시스템을 발견했습니다.",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "date": "2026-09-23",
+    "source": "Anthropic",
+    "scrapedAt": "2026-09-23T21:48:35.388Z"
+  },
+  {
+    "id": "cursor-1790200117724-136",
+    "title": "Rollouts and Security Review",
+    "titleKo": "출시 및 보안 검토",
+    "summary": "Cursor Editor Changelog and feature updates: Rollouts and Security Review",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 출시 및 보안 검토",
+    "url": "https://www.cursor.com/changelog/rollouts-and-security-reviewer",
+    "date": "2026-09-23",
+    "source": "Cursor",
+    "scrapedAt": "2026-09-23T21:48:37.724Z"
+  },
+  {
     "id": "openai-1790113261252-54",
     "title": "Better prompt caching for GPT-6",
     "titleKo": "Better prompt caching for GPT-6",
