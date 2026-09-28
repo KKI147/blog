@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1790638343191-947",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "titleKo": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "summaryKo": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-28T23:32:23.191Z"
+  },
+  {
+    "id": "openai-1790638344416-176",
+    "title": "Are you a Codex Original?",
+    "titleKo": "Are you a Codex Original?",
+    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "summaryKo": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "url": "https://openai.com/form/codex-originals",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-28T23:32:24.416Z"
+  },
+  {
+    "id": "openai-1790638345847-748",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "titleKo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "summaryKo": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-28T23:32:25.847Z"
+  },
+  {
+    "id": "google-ai-1790638347009-634",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "titleKo": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summaryKo": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "date": "2026-09-28",
+    "source": "Google AI",
+    "scrapedAt": "2026-09-28T23:32:27.009Z"
+  },
+  {
     "id": "openai-1790373042034-320",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "titleKo": "Codex를 통해 Proaction으로 매출이 60% 증가하고 75시간 이상 절약",
