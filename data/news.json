@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1790721576355-167",
+    "title": "Introducing GPT-6.1 Sol",
+    "titleKo": "Introducing GPT-6.1 Sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "summaryKo": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-29T22:39:36.355Z"
+  },
+  {
+    "id": "openai-1790721577820-127",
+    "title": "DevDay 2026 Recap",
+    "titleKo": "DevDay 2026 Recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "summaryKo": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-29T22:39:37.820Z"
+  },
+  {
+    "id": "openai-1790721579003-772",
+    "title": "Introducing dots",
+    "titleKo": "Introducing dots",
+    "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "summaryKo": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "url": "https://openai.com/index/introducing-dots",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-29T22:39:39.003Z"
+  },
+  {
     "id": "openai-1790638343191-947",
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
     "titleKo": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -42,6 +75,28 @@
     "date": "2026-09-28",
     "source": "Google AI",
     "scrapedAt": "2026-09-28T23:32:27.009Z"
+  },
+  {
+    "id": "openai-1790721580503-217",
+    "title": "Towards safety cases for frontier AI training",
+    "titleKo": "Towards safety cases for frontier AI training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "summaryKo": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-29T22:39:40.503Z"
+  },
+  {
+    "id": "openai-1790721581811-357",
+    "title": "How we will do better for Australia",
+    "titleKo": "How we will do better for Australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "summaryKo": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-29T22:39:41.811Z"
   },
   {
     "id": "openai-1790373042034-320",
