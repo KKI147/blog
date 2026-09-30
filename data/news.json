@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1790807932249-671",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "titleKo": "Disrupting a coordinated model-distillation campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "summaryKo": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "date": "2026-09-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-30T22:38:52.249Z"
+  },
+  {
+    "id": "openai-1790807933341-758",
+    "title": "Helping small businesses put AI to work",
+    "titleKo": "Helping small businesses put AI to work",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "summaryKo": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "date": "2026-09-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-09-30T22:38:53.341Z"
+  },
+  {
     "id": "openai-1790721576355-167",
     "title": "Introducing GPT-6.1 Sol",
     "titleKo": "Introducing GPT-6.1 Sol",
