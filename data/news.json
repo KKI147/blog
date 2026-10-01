@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1790895336077-483",
+    "title": "The eternal complement",
+    "titleKo": "The eternal complement",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "summaryKo": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "date": "2026-10-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-01T22:55:36.077Z"
+  },
+  {
+    "id": "openai-1790895337280-505",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "titleKo": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "summaryKo": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "date": "2026-10-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-01T22:55:37.280Z"
+  },
+  {
+    "id": "openai-1790895338572-389",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "titleKo": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "summaryKo": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "url": "https://openai.com/index/the-den-family-social",
+    "date": "2026-10-01",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-01T22:55:38.572Z"
+  },
+  {
+    "id": "anthropic-1790895339893-693",
+    "title": "Barclays scales Claude to upgrade operations and improve client experience",
+    "titleKo": "Barclays scales Claude to upgrade operations and improve client experience",
+    "summary": "Anthropic Official Update: Barclays scales Claude to upgrade operations and improve client experience",
+    "summaryKo": "Anthropic Official Update: Barclays scales Claude to upgrade operations and improve client experience",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "date": "2026-10-01",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-01T22:55:39.893Z"
+  },
+  {
     "id": "openai-1790807932249-671",
     "title": "Disrupting a coordinated model-distillation campaign",
     "titleKo": "Disrupting a coordinated model-distillation campaign",
