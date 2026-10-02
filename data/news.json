@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1790980514374-162",
+    "title": "A model guide for the GPT-6 family",
+    "titleKo": "A model guide for the GPT-6 family",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "summaryKo": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-02T22:35:14.374Z"
+  },
+  {
+    "id": "openai-1790980515691-306",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "titleKo": "Chatham scales its capital markets expertise with OpenAI",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "summaryKo": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "url": "https://openai.com/index/chatham-financial",
+    "date": "2026-10-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-02T22:35:15.692Z"
+  },
+  {
+    "id": "google-ai-1790980517214-364",
+    "title": "The latest AI news we announced in September 2026",
+    "titleKo": "The latest AI news we announced in September 2026",
+    "summary": "Here are Google’s latest AI updates from September 2026",
+    "summaryKo": "Here are Google’s latest AI updates from September 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "date": "2026-10-02",
+    "source": "Google AI",
+    "scrapedAt": "2026-10-02T22:35:17.214Z"
+  },
+  {
+    "id": "anthropic-1790980518693-185",
+    "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "titleKo": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "summary": "Anthropic Official Update: Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "summaryKo": "Anthropic Official Update: Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "date": "2026-10-02",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-02T22:35:18.693Z"
+  },
+  {
     "id": "openai-1790895336077-483",
     "title": "The eternal complement",
     "titleKo": "The eternal complement",
