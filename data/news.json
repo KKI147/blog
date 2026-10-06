@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1791246121705-447",
+    "title": "Our approach to EU text provenance rules",
+    "titleKo": "Our approach to EU text provenance rules",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "summaryKo": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "date": "2026-10-05",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-06T00:22:01.705Z"
+  },
+  {
+    "id": "openai-1791246123041-69",
+    "title": "Building advertising for the way people use AI",
+    "titleKo": "Building advertising for the way people use AI",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "summaryKo": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "date": "2026-10-05",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-06T00:22:03.041Z"
+  },
+  {
     "id": "openai-1790980514374-162",
     "title": "A model guide for the GPT-6 family",
     "titleKo": "A model guide for the GPT-6 family",
