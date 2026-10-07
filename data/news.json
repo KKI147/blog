@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1791415178977-296",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "titleKo": "Helping teens learn, plan, and shape the future of AI",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "summaryKo": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "date": "2026-10-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-07T23:19:38.977Z"
+  },
+  {
+    "id": "openai-1791415180410-641",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "titleKo": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "summaryKo": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "url": "https://openai.com/index/radisson",
+    "date": "2026-10-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-07T23:19:40.410Z"
+  },
+  {
+    "id": "openai-1791415181701-104",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "titleKo": "GPT-6 and Intelligent UI for everyone",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "summaryKo": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "date": "2026-10-07",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-07T23:19:41.701Z"
+  },
+  {
+    "id": "google-ai-1791415184294-720",
+    "title": "Introducing Playground: Create and play custom games",
+    "titleKo": "Introducing Playground: Create and play custom games",
+    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "summaryKo": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "date": "2026-10-07",
+    "source": "Google AI",
+    "scrapedAt": "2026-10-07T23:19:44.294Z"
+  },
+  {
     "id": "openai-1791326905543-162",
     "title": "Sharing AI progress in mathematics",
     "titleKo": "Sharing AI progress in mathematics",
@@ -42,6 +86,28 @@
     "date": "2026-10-06",
     "source": "Anthropic",
     "scrapedAt": "2026-10-06T22:48:29.506Z"
+  },
+  {
+    "id": "openai-1791415183213-485",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "titleKo": "How Jump Trading is scaling quant research with ChatGPT",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "summaryKo": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "url": "https://openai.com/index/jump-trading",
+    "date": "2026-10-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-07T23:19:43.213Z"
+  },
+  {
+    "id": "cursor-1791415185683-760",
+    "title": "Remote control for local agents",
+    "titleKo": "Remote control for local agents",
+    "summary": "Cursor Editor Changelog and feature updates: Remote control for local agents",
+    "summaryKo": "Cursor Editor Changelog and feature updates: Remote control for local agents",
+    "url": "https://www.cursor.com/changelog/remote-control-local-agents",
+    "date": "2026-10-06",
+    "source": "Cursor",
+    "scrapedAt": "2026-10-07T23:19:45.683Z"
   },
   {
     "id": "openai-1791246121705-447",
