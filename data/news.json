@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1791502449078-515",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "titleKo": "Oracle이 ChatGPT 및 Codex를 통해 며칠의 작업 시간을 몇 분으로 단축하는 방법",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "summaryKo": "채용, 엔지니어링 및 운영 전반에 걸쳐 Oracle은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다.",
+    "url": "https://openai.com/index/oracle",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-08T23:34:09.078Z"
+  },
+  {
+    "id": "openai-1791502451764-526",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "titleKo": "Pollo AI는 OpenAI를 통해 창의적인 아이디어를 캠페인으로 전환합니다.",
+    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "summaryKo": "GPT-5.6, GPT-6 Astra 및 GPT-Image-2.5를 통해 Pollo AI는 제작자가 대담한 아이디어를 상세한 이미지와 영화 같은 비디오 광고로 전환할 수 있도록 도와줍니다.",
+    "url": "https://openai.com/index/pollo-ai",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-08T23:34:11.764Z"
+  },
+  {
+    "id": "openai-1791502454532-711",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "titleKo": "AI 기반 \"허위 전선\" 작전 방해",
+    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "summaryKo": "OpenAI는 허위 언론인과 싱크 탱크를 사용하여 지정학적 메시지를 전파하는 두 가지 AI 기반 영향력 운영을 방해했습니다.",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-08T23:34:14.532Z"
+  },
+  {
+    "id": "anthropic-1791502457346-975",
+    "title": "2026 Usage Policy update",
+    "titleKo": "2026년 사용 정책 업데이트",
+    "summary": "Anthropic Official Update: 2026 Usage Policy update",
+    "summaryKo": "Anthropic 공식 업데이트: 2026년 사용 정책 업데이트",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "date": "2026-10-08",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-08T23:34:17.346Z"
+  },
+  {
+    "id": "anthropic-1791502460222-559",
+    "title": "Building on our commitment to American scientific discovery",
+    "titleKo": "미국의 과학적 발견에 대한 헌신을 바탕으로",
+    "summary": "Anthropic Official Update: Building on our commitment to American scientific discovery",
+    "summaryKo": "인류 공식 업데이트: 미국의 과학적 발견에 대한 우리의 헌신을 바탕으로",
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "date": "2026-10-08",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-08T23:34:20.222Z"
+  },
+  {
+    "id": "anthropic-1791502461936-642",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "titleKo": "인류학 사이버 미션을 소개합니다",
+    "summary": "Anthropic Official Update: Introducing the Anthropic Cyber Mission",
+    "summaryKo": "Anthropic 공식 업데이트: Anthropic Cyber ​​Mission 소개",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "date": "2026-10-08",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-08T23:34:21.936Z"
+  },
+  {
     "id": "openai-1791415178977-296",
     "title": "Helping teens learn, plan, and shape the future of AI",
     "titleKo": "Helping teens learn, plan, and shape the future of AI",
