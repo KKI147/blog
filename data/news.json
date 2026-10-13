@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1791932864980-958",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "titleKo": "Higgsfield takes AI video from 1 minute to over 10",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "summaryKo": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "date": "2026-10-13",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-13T23:07:44.980Z"
+  },
+  {
+    "id": "google-ai-1791932866182-413",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "titleKo": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "summaryKo": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "date": "2026-10-13",
+    "source": "Google AI",
+    "scrapedAt": "2026-10-13T23:07:46.182Z"
+  },
+  {
+    "id": "cursor-1791932867516-278",
+    "title": "Origin App Marketplace",
+    "titleKo": "Origin App Marketplace",
+    "summary": "Cursor Editor Changelog and feature updates: Origin App Marketplace",
+    "summaryKo": "Cursor Editor Changelog and feature updates: Origin App Marketplace",
+    "url": "https://www.cursor.com/changelog/origin-app-marketplace",
+    "date": "2026-10-13",
+    "source": "Cursor",
+    "scrapedAt": "2026-10-13T23:07:47.516Z"
+  },
+  {
     "id": "openai-1791586494538-664",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "titleKo": "Sophos는 OpenAI Daybreak를 통해 위협 조사 시간을 96% 단축했습니다.",
