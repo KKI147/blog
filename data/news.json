@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1792015057867-527",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "titleKo": "Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "summaryKo": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-14T21:57:37.867Z"
+  },
+  {
+    "id": "openai-1792015059243-549",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "titleKo": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "summaryKo": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "url": "https://openai.com/index/sentinelone",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-14T21:57:39.243Z"
+  },
+  {
+    "id": "openai-1792015060468-598",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "titleKo": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "summaryKo": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "url": "https://openai.com/index/third-moment-research",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-14T21:57:40.468Z"
+  },
+  {
+    "id": "openai-1792015061639-123",
+    "title": "The EU’s next chapter in AI is agentic",
+    "titleKo": "The EU’s next chapter in AI is agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "summaryKo": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-14T21:57:41.639Z"
+  },
+  {
+    "id": "anthropic-1792015063000-839",
+    "title": "PolicyPreparing for the 2026 US midterms",
+    "titleKo": "PolicyPreparing for the 2026 US midterms",
+    "summary": "Anthropic Official Update: PolicyPreparing for the 2026 US midterms",
+    "summaryKo": "Anthropic Official Update: PolicyPreparing for the 2026 US midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "date": "2026-10-14",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-14T21:57:43.000Z"
+  },
+  {
+    "id": "anthropic-1792015064105-373",
+    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "titleKo": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "summary": "Anthropic Official Update: Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "summaryKo": "Anthropic Official Update: Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "date": "2026-10-14",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-14T21:57:44.105Z"
+  },
+  {
     "id": "openai-1791932864980-958",
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "titleKo": "Higgsfield takes AI video from 1 minute to over 10",
