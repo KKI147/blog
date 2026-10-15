@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1792100914420-842",
+    "title": "Teaching students to think and learn through questions",
+    "titleKo": "학생들에게 질문을 통해 생각하고 배우는 법을 가르치기",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "summaryKo": "교육자를 위한 AI를 통해 브라질 포르투갈어로 스승의 날을 축하하고 학습 모드가 교사가 적극적이고 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요.",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-15T21:48:34.420Z"
+  },
+  {
+    "id": "anthropic-1792100916294-844",
+    "title": "An update on independent evaluators",
+    "titleKo": "독립 평가자에 대한 업데이트",
+    "summary": "Anthropic Official Update: An update on independent evaluators",
+    "summaryKo": "Anthropic 공식 업데이트: 독립 평가자에 대한 업데이트",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "date": "2026-10-15",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-15T21:48:36.294Z"
+  },
+  {
     "id": "openai-1792015057867-527",
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
     "titleKo": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -64,6 +86,17 @@
     "date": "2026-10-14",
     "source": "Anthropic",
     "scrapedAt": "2026-10-14T21:57:44.105Z"
+  },
+  {
+    "id": "openai-1792100915091-918",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "titleKo": "Block이 OpenAI 기술로 AI 기반 보안을 구축하는 방법",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "summaryKo": "Block은 OpenAI를 통해 AI 기반 보안을 구축하고 있습니다. 보안팀은 위협을 더 빠르게 조사하고 몇 분 안에 패치를 제안합니다.",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-15T21:48:35.091Z"
   },
   {
     "id": "openai-1791932864980-958",
