@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1792187061648-686",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "titleKo": "ChatGPT 플러그인을 사용하면 상담원용 스택 오버플로 가입 수가 3배 증가합니다.",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "summaryKo": "두 명의 엔지니어가 Codex를 통해 몇 주 만에 Agents용 Stack Overflow를 출시했으며, ChatGPT 플러그인은 에이전트 생성을 최대 10배까지 증가시키는 데 도움이 되었습니다.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-16T21:44:21.648Z"
+  },
+  {
+    "id": "cursor-1792187065885-155",
+    "title": "Cloud Agent Canvases and Environment Improvements",
+    "titleKo": "클라우드 에이전트 캔버스 및 환경 개선",
+    "summary": "Cursor Editor Changelog and feature updates: Cloud Agent Canvases and Environment Improvements",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: 클라우드 에이전트 캔버스 및 환경 개선",
+    "url": "https://www.cursor.com/changelog/cloud-agent-canvases-and-environments",
+    "date": "2026-10-16",
+    "source": "Cursor",
+    "scrapedAt": "2026-10-16T21:44:25.885Z"
+  },
+  {
     "id": "openai-1792100914420-842",
     "title": "Teaching students to think and learn through questions",
     "titleKo": "학생들에게 질문을 통해 생각하고 배우는 법을 가르치기",
@@ -20,6 +42,28 @@
     "date": "2026-10-15",
     "source": "Anthropic",
     "scrapedAt": "2026-10-15T21:48:36.294Z"
+  },
+  {
+    "id": "openai-1792187062323-147",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "titleKo": "학술 연구실에 GPT-Rosalind 도입",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "summaryKo": "Rosalind 학업 계획을 소개합니다. 자격을 갖춘 학술 연구실에 GPT-Rosalind에 대한 액세스 권한과 생명 과학 연구를 발전시키는 도구를 후원하도록 제공합니다.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-16T21:44:22.323Z"
+  },
+  {
+    "id": "openai-1792187062996-991",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "titleKo": "Sullivan & Cromwell은 법률 전문 지식을 계약 검토에 활용합니다.",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "summaryKo": "Sullivan & Cromwell은 OpenAI와 협력하여 초안 계약서의 문제를 식별하기 위한 AI 도구인 계약 분석기를 개발했습니다.",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-16T21:44:22.996Z"
   },
   {
     "id": "openai-1792015057867-527",
