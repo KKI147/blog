@@ -22,6 +22,28 @@
     "scrapedAt": "2026-10-16T21:44:25.885Z"
   },
   {
+    "id": "openai-1792270811951-86",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "titleKo": "Itaú가 전체 고객 기반을 위해 생성 AI를 구축하는 방법",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "summaryKo": "대화형 인터페이스인 ia.i와 IARA 거버넌스 플랫폼을 통해 Itaú는 브라질에서 가장 규제가 심한 부문 중 하나인 고객과 직원에게 AI 우선 전략을 적용하고 있습니다.",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-17T21:00:11.951Z"
+  },
+  {
+    "id": "openai-1792270813597-250",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "titleKo": "Benefit Street Partners는 Codex를 통해 질문에 더 빠르게 답변합니다.",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "summaryKo": "Anant Kumar는 코드 검토 및 빠른 후속 조치를 위해 Codex를 사용하여 대출 가치를 비교하고 신용 계약을 분석하는 도구를 구축합니다.",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-17T21:00:13.597Z"
+  },
+  {
     "id": "openai-1792100914420-842",
     "title": "Teaching students to think and learn through questions",
     "titleKo": "학생들에게 질문을 통해 생각하고 배우는 법을 가르치기",
