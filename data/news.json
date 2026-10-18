@@ -1,5 +1,16 @@
 [
   {
+    "id": "anthropic-1792357431976-899",
+    "title": "Investing in the public benefit",
+    "titleKo": "공익을 위한 투자",
+    "summary": "Anthropic Official Update: Investing in the public benefit",
+    "summaryKo": "인류 공식 업데이트: 공익을 위한 투자",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "date": "2026-10-18",
+    "source": "Anthropic",
+    "scrapedAt": "2026-10-18T21:03:51.976Z"
+  },
+  {
     "id": "openai-1792187061648-686",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "titleKo": "ChatGPT 플러그인을 사용하면 상담원용 스택 오버플로 가입 수가 3배 증가합니다.",
