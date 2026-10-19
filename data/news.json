@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1792449540235-498",
+    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "titleKo": "저자원 프로그래밍 언어의 코딩 향상",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "summaryKo": "OpenAI가 소프트웨어 엔지니어링, SQLite 및 COBOL 마이그레이션에 대한 새로운 평가를 통해 저자원 프로그래밍 언어 전반에서 ChatGPT를 어떻게 개선하는지 알아보세요.",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "date": "2026-10-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-19T22:39:00.235Z"
+  },
+  {
     "id": "anthropic-1792357431976-899",
     "title": "Investing in the public benefit",
     "titleKo": "공익을 위한 투자",
