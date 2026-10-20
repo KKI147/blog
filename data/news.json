@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1792533307245-953",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "titleKo": "프랜차이즈 가맹점은 ChatGPT Work를 통해 94% 단축된 시간으로 현금을 조정합니다.",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "summaryKo": "독립 Schlotzsky's와 Cinnabon 프랜차이즈는 메뉴 가격 조정 시간을 95% 줄이고 현금 흐름에서 10만 달러를 확보할 수 있는 워크플로우를 구축했습니다.",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "date": "2026-10-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-20T21:55:07.245Z"
+  },
+  {
+    "id": "openai-1792533309116-969",
+    "title": "OpenAI acquires Orchestra Bio",
+    "titleKo": "OpenAI, 오케스트라 바이오 인수",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "summaryKo": "OpenAI는 Orchestra Bio를 인수하여 AI 기반 운영을 생명 과학 R&D에 도입하여 바이오제약 팀이 약물 개발을 가속화하고 새로운 치료법을 발전시킬 수 있도록 지원합니다.",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "date": "2026-10-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-20T21:55:09.116Z"
+  },
+  {
     "id": "openai-1792449540235-498",
     "title": "Advancing Coding in Low-Resource Programming Languages",
     "titleKo": "저자원 프로그래밍 언어의 코딩 향상",
