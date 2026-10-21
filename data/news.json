@@ -1,5 +1,93 @@
 [
   {
+    "id": "openai-1792619968196-547",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "titleKo": "How AT&T is rethinking in-house legal work with OpenAI",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "summaryKo": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "url": "https://openai.com/index/att-legal",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:28.196Z"
+  },
+  {
+    "id": "openai-1792619969356-561",
+    "title": "OpenAI models are coming to Google Cloud",
+    "titleKo": "OpenAI models are coming to Google Cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "summaryKo": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:29.356Z"
+  },
+  {
+    "id": "openai-1792619970568-968",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "titleKo": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "summaryKo": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:30.569Z"
+  },
+  {
+    "id": "openai-1792619971811-128",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "titleKo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "summaryKo": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:31.811Z"
+  },
+  {
+    "id": "openai-1792619973071-92",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "titleKo": "Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "summaryKo": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:33.071Z"
+  },
+  {
+    "id": "openai-1792619974460-953",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "titleKo": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "summaryKo": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:34.460Z"
+  },
+  {
+    "id": "openai-1792619975538-224",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "titleKo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "summaryKo": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:35.538Z"
+  },
+  {
+    "id": "google-ai-1792619978128-131",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "titleKo": "Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "summaryKo": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "date": "2026-10-21",
+    "source": "Google AI",
+    "scrapedAt": "2026-10-21T21:59:38.128Z"
+  },
+  {
     "id": "openai-1792533307245-953",
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "titleKo": "프랜차이즈 가맹점은 ChatGPT Work를 통해 94% 단축된 시간으로 현금을 조정합니다.",
@@ -20,6 +108,17 @@
     "date": "2026-10-20",
     "source": "OpenAI",
     "scrapedAt": "2026-10-20T21:55:09.116Z"
+  },
+  {
+    "id": "openai-1792619976865-150",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "titleKo": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "summaryKo": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
+    "date": "2026-10-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-21T21:59:36.865Z"
   },
   {
     "id": "openai-1792449540235-498",
