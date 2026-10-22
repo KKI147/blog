@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1792706163256-835",
+    "title": "Build more responsive apps with the Decisions API",
+    "titleKo": "Decisions API로 반응성이 뛰어난 앱 구축",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "summaryKo": "모든 애플리케이션에 대해 빠르고 집중적이며 저렴한 결정을 내릴 수 있습니다.",
+    "url": "https://openai.com/index/decisions-api",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-22T21:56:03.256Z"
+  },
+  {
+    "id": "openai-1792706164117-282",
+    "title": "What FDE means at OpenAI",
+    "titleKo": "OpenAI에서 FDE가 의미하는 것",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "summaryKo": "OpenAI에서 전방 배포 엔지니어링의 의미",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-22T21:56:04.117Z"
+  },
+  {
+    "id": "openai-1792706165995-927",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "titleKo": "Uber는 OpenAI를 통해 모든 직원에게 ChatGPT 작업을 제공합니다.",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "summaryKo": "Uber는 ChatGPT Work를 30,000명 이상의 직원에게 출시하여 팀이 조사하고, 데이터를 분석하고, 프레젠테이션을 작성하고, 복잡한 워크플로를 완료할 수 있도록 지원합니다.",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-22T21:56:05.995Z"
+  },
+  {
     "id": "openai-1792619968196-547",
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "titleKo": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -86,6 +119,28 @@
     "date": "2026-10-21",
     "source": "Google AI",
     "scrapedAt": "2026-10-21T21:59:38.128Z"
+  },
+  {
+    "id": "openai-1792706166687-545",
+    "title": "Broad access through consistent standards",
+    "titleKo": "일관된 표준을 통한 광범위한 액세스",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "summaryKo": "OpenAI가 배포 파트너와 협력하여 일관된 보호 장치를 유지하고 책임 있는 액세스를 지원하며 사용 정책에 대한 기대치를 명확히 하는 방법입니다.",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-22T21:56:06.687Z"
+  },
+  {
+    "id": "openai-1792706167388-581",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "titleKo": "Cloudflare는 OpenAI를 통해 취약점 발견과 방어를 연결합니다.",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "summaryKo": "Cloudflare는 OpenAI Daybreak를 사용하여 취약점을 조사하고 검토할 수정 사항을 제안합니다. 개발자는 Codex를 사용하여 더 빠르게 빌드하고 코드 품질을 향상시킵니다.",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-22T21:56:07.388Z"
   },
   {
     "id": "openai-1792533307245-953",
