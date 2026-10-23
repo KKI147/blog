@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1792791723948-185",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "titleKo": "10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장(2부)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "summaryKo": "OpenAI가 안정적인 다중 테넌시, 글로벌 캐싱 및 Azure Cosmos DB를 통해 Habitat를 확장하여 ChatGPT에 대해 12배 더 빠른 읽기를 제공하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "date": "2026-10-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-23T21:42:03.948Z"
+  },
+  {
+    "id": "openai-1792791724614-401",
+    "title": "Securing our frontier model training environment",
+    "titleKo": "프론티어 모델 교육 환경 확보",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "summaryKo": "OpenAI는 오프라인 환경과 높은 컴퓨팅 레드팀 구성을 포함하여 프론티어 모델 훈련 및 평가에 대한 억제를 어떻게 강화했는지 설명합니다.",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "date": "2026-10-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-23T21:42:04.614Z"
+  },
+  {
+    "id": "openai-1792791725294-527",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "titleKo": "OpenAI와 폴란드의 NASK 파트너십으로 AI 안전 및 보안 향상",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "summaryKo": "OpenAI와 폴란드의 NASK는 안전 장치를 강화하고 보다 탄력적인 디지털 생태계를 지원하기 위해 AI 안전, 보안 및 기술 연구에 협력하고 있습니다.",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "date": "2026-10-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-23T21:42:05.294Z"
+  },
+  {
     "id": "openai-1792706163256-835",
     "title": "Build more responsive apps with the Decisions API",
     "titleKo": "Decisions API로 반응성이 뛰어난 앱 구축",
