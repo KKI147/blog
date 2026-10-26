@@ -1,5 +1,93 @@
 [
   {
+    "id": "openai-1793055208441-483",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "titleKo": "Greptile은 GPT-6 Astra를 사용하여 코드 검토 이상의 버그 탐지 기능을 제공합니다.",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "summaryKo": "Greptile이 GPT-6 Astra를 사용하여 사용자 워크플로를 테스트하고 Daybreak를 사용하여 보안을 강화하고 Codex를 사용하여 재작업을 줄이는 방법.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:28.441Z"
+  },
+  {
+    "id": "openai-1793055210224-839",
+    "title": "Working with academic communities to build scientific understanding",
+    "titleKo": "과학적 이해를 구축하기 위해 학계와 협력",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "summaryKo": "OpenAI는 Kakeya 추측, 지수 시간 가설, 양자 색역학에 대한 모델 결과와 연구자가 이를 검증하고 구축할 수 있는 방법을 공유합니다.",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:30.224Z"
+  },
+  {
+    "id": "openai-1793055212063-344",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "titleKo": "GPT-6.1 Sol은 CodeRabbit이 복잡한 코드베이스 전반에 걸쳐 보안을 강화하도록 돕습니다.",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "summaryKo": "CodeRabbit은 GPT-6.1 Sol을 사용하여 복잡한 코드베이스의 보안 위험을 조사합니다. 보안 에이전트는 개발자가 발견 사항과 제안된 수정 사항을 검토하는 데 도움을 줍니다.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:32.063Z"
+  },
+  {
+    "id": "openai-1793055212751-478",
+    "title": "ChatGPT’s expanding world of work",
+    "titleKo": "ChatGPT의 확장되는 업무 세계",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "summaryKo": "거의 100개 국가의 165개 업무 활동에 대한 OpenAI Signals 데이터를 탐색하여 사람들이 업무에 ChatGPT를 사용하는 방법과 시간에 따른 사용량 변화를 보여줍니다.",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:32.751Z"
+  },
+  {
+    "id": "openai-1793055213434-528",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "titleKo": "Fanatics와 OpenAI가 팬 경험을 간소화하는 방법",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "summaryKo": "Fanatics는 OpenAI를 사용하여 팬들이 Shop the Look을 통해 경기 당일 의상을 완성하도록 돕습니다. 약 30,000개의 MLB 제품에 대한 테스트에서 참여도가 10% 더 높은 것으로 나타났습니다.",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:33.434Z"
+  },
+  {
+    "id": "openai-1793055214727-935",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "titleKo": "Ultrafast가 OpenAI에서 사고 조사를 몇 시간에서 몇 분으로 단축한 방법",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "summaryKo": "OpenAI 엔지니어가 Codex Ultrafast를 사용하여 몇 분 만에 사고를 조사하는 방법을 알아보세요. 더 빠른 보안 분석, 코드 리팩토링 및 일일 워크플로를 살펴보세요.",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:34.727Z"
+  },
+  {
+    "id": "openai-1793055217251-795",
+    "title": "Introducing GPT-6.1 Terra",
+    "titleKo": "GPT-6.1 테라 소개",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "summaryKo": "모든 사람이 빠르고 유능한 컴퓨터를 사용할 수 있도록 지원",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "date": "2026-10-26",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-26T22:53:37.251Z"
+  },
+  {
+    "id": "google-ai-1793055218380-887",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "titleKo": "최신 AI 퀘스트: 인간 두뇌 매핑",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "summaryKo": "신경과학에 관한 Google의 최신 AI 퀘스트 강의 'Polar Peaks'를 통해 AI 활용 능력을 알아보세요.",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "date": "2026-10-26",
+    "source": "Google AI",
+    "scrapedAt": "2026-10-26T22:53:38.380Z"
+  },
+  {
     "id": "openai-1792791723948-185",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "titleKo": "10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장(2부)",
@@ -207,6 +295,17 @@
     "date": "2026-10-20",
     "source": "OpenAI",
     "scrapedAt": "2026-10-21T21:59:36.865Z"
+  },
+  {
+    "id": "cursor-1793055220425-35",
+    "title": "Agent SDK",
+    "titleKo": "에이전트 SDK",
+    "summary": "Cursor Editor Changelog and feature updates: Agent SDK",
+    "summaryKo": "커서 편집기 변경 로그 및 기능 업데이트: Agent SDK",
+    "url": "https://www.cursor.com/changelog/agent-sdk",
+    "date": "2026-10-20",
+    "source": "Cursor",
+    "scrapedAt": "2026-10-26T22:53:40.425Z"
   },
   {
     "id": "openai-1792449540235-498",
