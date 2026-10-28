@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1793227965633-21",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "titleKo": "OpenAI와 ServiceNow, 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십 확장",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "summaryKo": "OpenAI와 ServiceNow는 OpenAI 모델과 에이전트를 ServiceNow로, ServiceNow 워크플로를 ChatGPT 및 Codex로 가져오기 위해 파트너십을 확장합니다.",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "date": "2026-10-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-28T22:52:45.633Z"
+  },
+  {
+    "id": "openai-1793227966395-680",
+    "title": "The future of the firm",
+    "titleKo": "회사의 미래",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "summaryKo": "AI가 조직도에 어떻게 들어갈 수 있는지(우리 아래, 옆, 우리 사이).",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "date": "2026-10-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-28T22:52:46.395Z"
+  },
+  {
+    "id": "openai-1793227967078-626",
+    "title": "Legora is building the agentic operating system for legal work",
+    "titleKo": "레고라는 법률 업무를 위한 에이전트 운영 체제를 구축하고 있습니다.",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "summaryKo": "Legora가 OpenAI 모델, ChatGPT 및 Codex를 사용하여 법률 워크플로를 가속화하고, 계약 분석을 확장하고, 무료 변호사를 고용하여 더 높은 가치의 업무에 집중하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/legora",
+    "date": "2026-10-28",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-28T22:52:47.078Z"
+  },
+  {
     "id": "openai-1793140730328-651",
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "titleKo": "OpenAI, Oracle과의 파트너십을 확대하여 앱을 ChatGPT에 도입",
@@ -20,6 +53,17 @@
     "date": "2026-10-27",
     "source": "OpenAI",
     "scrapedAt": "2026-10-27T22:38:51.022Z"
+  },
+  {
+    "id": "openai-1793227967757-630",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "titleKo": "Retell은 OpenAI 모델을 사용하여 월간 통화 1억 건을 지원합니다.",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "summaryKo": "GPT-6 Astra는 Retell의 음성 에이전트 벤치마크에서 1위를 차지하고 Codex는 직원당 연간 160만 달러의 수익을 달성하는 데 도움을 줍니다.",
+    "url": "https://openai.com/index/retell-ai",
+    "date": "2026-10-27",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-28T22:52:47.757Z"
   },
   {
     "id": "openai-1793055208441-483",
