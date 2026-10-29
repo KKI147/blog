@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1793314760632-891",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "titleKo": "더욱 유능하고 유익한 AI를 위해 업데이트된 모델 사양",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "summaryKo": "OpenAI의 업데이트된 모델 사양은 더 유능한 AI가 건전한 판단, 인간 주체성 및 인간 의도에 대한 충실성을 향해 나아가도록 안내하는 5가지 핵심 가치를 설명합니다.",
+    "url": "https://openai.com/index/updated-model-spec",
+    "date": "2026-10-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-29T22:59:20.632Z"
+  },
+  {
+    "id": "openai-1793314761308-845",
+    "title": "How we detect frontier model misalignment",
+    "titleKo": "프론티어 모델의 불일치를 감지하는 방법",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬과 승인되지 않은 에이전트 동작을 감지하므로 대응자는 사고가 확대되기 전에 개입할 수 있습니다.",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "date": "2026-10-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-29T22:59:21.308Z"
+  },
+  {
+    "id": "openai-1793314761994-908",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "titleKo": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "summaryKo": "Ropes & Gray는 OpenAI를 통해 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언을 하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다.",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "date": "2026-10-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-29T22:59:21.994Z"
+  },
+  {
     "id": "openai-1793227965633-21",
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "titleKo": "OpenAI와 ServiceNow, 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십 확장",
