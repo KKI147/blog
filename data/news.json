@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1793399984432-384",
+    "title": "Making it easier for websites to express AI training preferences",
+    "titleKo": "웹사이트에서 AI 훈련 선호도를 더 쉽게 표현하도록 만들기",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "summaryKo": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹사이트 운영자가 AI 교육 선호도를 참여 제공업체에 전달할 수 있도록 돕습니다.",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-30T22:39:44.432Z"
+  },
+  {
+    "id": "openai-1793399985160-182",
+    "title": "Community safety report and new protections for teens",
+    "titleKo": "지역사회 안전 보고서 및 청소년을 위한 새로운 보호 조치",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "summaryKo": "OpenAI는 확장된 보호 장치, 조기 개입, 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다.",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-30T22:39:45.160Z"
+  },
+  {
+    "id": "openai-1793399985874-203",
+    "title": "Fair use benefits everyone",
+    "titleKo": "공정한 사용은 모두에게 이익이 됩니다",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "summaryKo": "OpenAI는 공정 사용이 AI 교육 및 혁신을 어떻게 지원하는지에 대해 창작자, 학자, 접근성 옹호자, 법률 전문가 등이 작성한 법원 브리핑에서 발췌한 내용을 공유합니다.",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-30T22:39:45.874Z"
+  },
+  {
     "id": "openai-1793314760632-891",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "titleKo": "더욱 유능하고 유익한 AI를 위해 업데이트된 모델 사양",
@@ -31,6 +64,17 @@
     "date": "2026-10-29",
     "source": "OpenAI",
     "scrapedAt": "2026-10-29T22:59:21.994Z"
+  },
+  {
+    "id": "openai-1793399986597-592",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "titleKo": "Credit Saison은 ChatGPT Enterprise 파일럿에서 954% ROI를 달성했습니다.",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+    "summaryKo": "Credit Saison의 ChatGPT Enterprise 파일럿은 954%의 ROI를 달성했습니다. 리더와 직원이 결과를 전사적 채택으로 전환하는 데 어떻게 도움이 되었는지 알아보세요.",
+    "url": "https://openai.com/index/credit-saison",
+    "date": "2026-10-29",
+    "source": "OpenAI",
+    "scrapedAt": "2026-10-30T22:39:46.597Z"
   },
   {
     "id": "openai-1793227965633-21",
