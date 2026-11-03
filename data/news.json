@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1793749389411-379",
+    "title": "Accelerating engineering for the physical world",
+    "titleKo": "물리적 세계를 위한 엔지니어링 가속화",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "summaryKo": "ChatGPT와 Codex가 엔지니어가 물리적 세계 전반에 걸쳐 CAD, PCB 설계, 시뮬레이션 및 기타 워크플로우를 가속화하는 데 어떻게 도움이 되는지 알아보세요.",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:09.411Z"
+  },
+  {
+    "id": "openai-1793749391176-229",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "titleKo": "Cisco가 OpenAI를 통해 기계 속도로 방어하는 방법",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "summaryKo": "Cisco는 네트워크 인텔리전스와 OpenAI 모델을 결합하여 엔터프라이즈 보안을 강화합니다. 더 많은 적응형 방어를 구축하는 방법을 알아보세요.",
+    "url": "https://openai.com/index/cisco-cyber",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:11.176Z"
+  },
+  {
+    "id": "openai-1793749392974-210",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "titleKo": "Heimstaden은 AI로 주거용 부동산 관리를 바꾸고 있습니다.",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "summaryKo": "Heimstaden이 어떻게 OpenAI의 ChatGPT Enterprise 및 Codex를 사용하여 자산 관리를 혁신하고 비용을 절감하며 유럽 전역의 직원 역량을 강화하는지 알아보세요.",
+    "url": "https://openai.com/index/heimstaden",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:12.974Z"
+  },
+  {
+    "id": "openai-1793749393981-180",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "titleKo": "OpenAI, 최고 기업 업무 책임자로 Jill Hazelbaker 임명",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "summaryKo": "Jill Hazelbaker는 OpenAI에 최고 기업 업무 책임자로 합류하여 회사의 글로벌 커뮤니케이션과 기업 포지셔닝을 이끌게 됩니다.",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:13.981Z"
+  },
+  {
     "id": "openai-1793668701421-696",
     "title": "Scaling Git at OpenAI",
     "titleKo": "Git 및 OpenAI 확장",
@@ -64,6 +108,28 @@
     "date": "2026-11-02",
     "source": "Google AI",
     "scrapedAt": "2026-11-03T01:18:26.293Z"
+  },
+  {
+    "id": "openai-1793749396305-846",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "titleKo": "OpenAI 강화를 위한 다음 보안 스프린트 준비",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "summaryKo": "OpenAI는 AI를 사용하여 방어를 테스트하고 강화하기 위해 Cathedral Systems와 함께 다음 내부 보안 스프린트를 준비하고 있습니다.",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:16.305Z"
+  },
+  {
+    "id": "openai-1793749399248-399",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "titleKo": "더 큰 버그 현상금으로 방어자에게 보상",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "summaryKo": "OpenAI는 보안 버그 바운티 보상을 높이고 독립적인 보안 연구원을 위한 보고서 품질, 충성도 및 우선 순위 캠페인 보너스를 도입하고 있습니다.",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T23:43:19.248Z"
   },
   {
     "id": "openai-1793399984432-384",
