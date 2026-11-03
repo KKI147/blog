@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1793668701421-696",
+    "title": "Scaling Git at OpenAI",
+    "titleKo": "Git 및 OpenAI 확장",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "summaryKo": "OpenAI가 Codex가 가능하게 하는 개발 규모에 맞게 설계된 Git 호환 백엔드인 Pando를 구축한 방법입니다.",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T01:18:21.421Z"
+  },
+  {
+    "id": "openai-1793668702091-408",
+    "title": "Introducing the Grid Protectors Program",
+    "titleKo": "그리드 프로텍터 프로그램 소개",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "summaryKo": "OpenAI의 그리드 보호 프로그램(Grid Protectors Program)은 유틸리티와 협력하여 미래의 컴퓨팅 캠퍼스가 그리드 안정성을 지원하고 소비자 전기 비용을 보호할 수 있도록 돕습니다.",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T01:18:22.091Z"
+  },
+  {
+    "id": "openai-1793668702773-277",
+    "title": "LifeVal",
+    "titleKo": "LifeVal",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "summaryKo": "AI가 보육 시설 찾기부터 재정 및 정부 서류 관리에 이르기까지 일상적인 작업을 완료하는 데 얼마나 도움이 되는지 측정하는 벤치마크인 LifeVal을 소개합니다.",
+    "url": "https://openai.com/index/lifeval",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T01:18:22.773Z"
+  },
+  {
+    "id": "openai-1793668703460-454",
+    "title": "Qodo builds context into AI code review with Codex",
+    "titleKo": "Qodo는 Codex를 통해 AI 코드 검토에 컨텍스트를 구축합니다.",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "summaryKo": "Qodo는 회사 지식과 코딩 표준을 Codex에 제공하여 개발자가 끌어오기 요청을 열기 전에 저장소 전체에서 P0 문제를 파악할 수 있도록 돕습니다.",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T01:18:23.460Z"
+  },
+  {
+    "id": "openai-1793668705619-171",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "titleKo": "OpenAI, 국가 안보 현대화 수석 고문으로 Dan Driscoll 임명",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "summaryKo": "OpenAI는 국가 안보 현대화, 사이버 탄력성 및 미국 동맹국과의 협력을 위한 책임 있는 AI에 대한 조언을 제공하기 위해 Dan Driscoll을 임명했습니다.",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-03T01:18:25.619Z"
+  },
+  {
+    "id": "google-ai-1793668706293-498",
+    "title": "The latest AI news we announced in October 2026",
+    "titleKo": "2026년 10월 발표한 AI 최신 소식",
+    "summary": "Here are Google’s latest AI updates from October 2026",
+    "summaryKo": "2026년 10월 Google의 최신 AI 업데이트는 다음과 같습니다.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "date": "2026-11-02",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-03T01:18:26.293Z"
+  },
+  {
     "id": "openai-1793399984432-384",
     "title": "Making it easier for websites to express AI training preferences",
     "titleKo": "웹사이트에서 AI 훈련 선호도를 더 쉽게 표현하도록 만들기",
