@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1793836589394-860",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "titleKo": "OpenAI, Pierre Computer Company, Inc. 인수",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "summaryKo": "OpenAI는 Pierre Computer Company를 인수하여 코드 구축, 이해 및 검토를 위한 Codex의 도구를 확장할 예정입니다.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "date": "2026-11-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-04T23:56:29.394Z"
+  },
+  {
+    "id": "openai-1793836590673-798",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "titleKo": "이제 Daybreak Red를 AWS GovCloud(미국 동부)에서 사용할 수 있습니다.",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "summaryKo": "Daybreak Red는 승인된 사이버 보안 작업을 위해 Amazon Bedrock을 통해 AWS GovCloud(미국 동부)의 승인된 고객에게 GPT-5.6 Cyber를 제공합니다.",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "date": "2026-11-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-04T23:56:30.673Z"
+  },
+  {
+    "id": "openai-1793836592751-800",
+    "title": "A thousand fewer paths to root",
+    "titleKo": "루트로 가는 경로가 천 개 더 적음",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "summaryKo": "OpenAI는 Linux 커널에서 948개의 로컬 권한 상승 취약점에 대한 패치를 발견, 검증 및 생성하는 자율 파이프라인을 구축했습니다.",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "date": "2026-11-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-04T23:56:32.751Z"
+  },
+  {
+    "id": "openai-1793836595097-594",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "titleKo": "DevRev는 GPT-6.1 Sol을 통해 자율 셀프 서비스를 제공합니다.",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "summaryKo": "DevRev는 GPT-6.1 Sol을 사용하여 컴퓨터와 운영자를 지원하고 엔터프라이즈 서비스에 대한 추론, 속도 및 비용의 균형을 유지합니다.",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "date": "2026-11-04",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-04T23:56:35.097Z"
+  },
+  {
     "id": "openai-1793749389411-379",
     "title": "Accelerating engineering for the physical world",
     "titleKo": "물리적 세계를 위한 엔지니어링 가속화",
