@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1794007912559-398",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "titleKo": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "summaryKo": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "date": "2026-11-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-06T23:31:52.559Z"
+  },
+  {
+    "id": "openai-1794007913944-327",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "titleKo": "Measuring how AI agents handle everyday wet-lab science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "summaryKo": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "date": "2026-11-06",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-06T23:31:53.944Z"
+  },
+  {
+    "id": "cursor-1794007919079-289",
+    "title": "Voice Chat with Agents",
+    "titleKo": "Voice Chat with Agents",
+    "summary": "Cursor Editor Changelog and feature updates: Voice Chat with Agents",
+    "summaryKo": "Cursor Editor Changelog and feature updates: Voice Chat with Agents",
+    "url": "https://www.cursor.com/changelog/voice-chat",
+    "date": "2026-11-06",
+    "source": "Cursor",
+    "scrapedAt": "2026-11-06T23:31:59.079Z"
+  },
+  {
     "id": "openai-1793922664914-90",
     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "titleKo": "GPT-6 사이버: 연계된 사이버 보안 에이전트의 최전선 발전",
@@ -64,6 +97,39 @@
     "date": "2026-11-05",
     "source": "Cursor",
     "scrapedAt": "2026-11-05T23:51:13.677Z"
+  },
+  {
+    "id": "openai-1794007915417-637",
+    "title": "Australian universities are creating AI-native graduates",
+    "titleKo": "Australian universities are creating AI-native graduates",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "summaryKo": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "date": "2026-11-05",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-06T23:31:55.417Z"
+  },
+  {
+    "id": "openai-1794007916680-887",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "titleKo": "Cult.fit builds operational muscle with Codex",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "summaryKo": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "date": "2026-11-05",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-06T23:31:56.680Z"
+  },
+  {
+    "id": "openai-1794007917747-64",
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "titleKo": "Franklin Templeton uses OpenAI to support investment research",
+    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "summaryKo": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "url": "https://openai.com/index/franklin-templeton",
+    "date": "2026-11-05",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-06T23:31:57.747Z"
   },
   {
     "id": "openai-1793836589394-860",
