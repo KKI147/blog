@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1794354281139-308",
+    "title": "Helping caregivers use AI in everyday life",
+    "titleKo": "간병인이 일상생활에서 AI를 사용할 수 있도록 지원",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "summaryKo": "OpenAI Academy는 미국 5개 도시의 간병인에게 무료 실습 ChatGPT 워크숍을 제공하여 일상 생활에 실용적인 AI 기술을 구축하도록 돕습니다.",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T23:44:41.139Z"
+  },
+  {
+    "id": "openai-1794354281817-971",
+    "title": "Introducing Businesses in ChatGPT",
+    "titleKo": "ChatGPT에 비즈니스 소개",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "summaryKo": "ChatGPT에서 비즈니스 정보를 관리하고, 비즈니스가 어떻게 표시되는지에 대한 통찰력을 얻고, 관심을 행동으로 전환하세요.",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T23:44:41.817Z"
+  },
+  {
+    "id": "openai-1794354282491-795",
+    "title": "Closing the AI guidance gap in education",
+    "titleKo": "교육에서 AI 지도 격차 해소",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "summaryKo": "교사, AI 활용 능력 및 독립적 학습 지원에 관한 OpenAI의 EMEA 교육 파트너십에서 얻은 새로운 ThinkYoung 연구 및 교훈입니다.",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T23:44:42.491Z"
+  },
+  {
+    "id": "openai-1794354283161-782",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "titleKo": "프론티어에서의 작업: AI가 프리랜서 작업에 미치는 영향",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "summaryKo": "OpenAI와 Upwork의 새로운 연구에 따르면 프리랜서 작업, 새로운 기술 조합, AI 관련 프로젝트에 대한 더 많은 예산과 더 많은 시간에 대한 수요가 변화하고 있는 것으로 나타났습니다.",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T23:44:43.161Z"
+  },
+  {
+    "id": "google-ai-1794354284219-805",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "titleKo": "Gemini Intelligence: 더 많은 장치에 새로운 기능 추가",
+    "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "summaryKo": "Gemini Intelligence는 더 많은 장치에 출시됩니다. 이러한 장치 전반에 걸쳐 확장된 기능이 어떻게 더 많은 작업을 수행하는 데 도움이 되는지 알아보세요.",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "date": "2026-11-10",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-10T23:44:44.219Z"
+  },
+  {
+    "id": "google-ai-1794354284890-929",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "titleKo": "우리는 Adobe의 창의적 및 생산성 도구를 일상적인 Google 앱에 더 가까이 가져오고 있습니다.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "summaryKo": "Google과 Adobe는 창의적 도구와 생산성 도구를 통합하고 있습니다. Drive에서 PDF를 편집하고 Gemini에서 Adobe AI를 사용하세요. 이 파트너십의 새로운 소식을 확인하세요.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "date": "2026-11-10",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-10T23:44:44.890Z"
+  },
+  {
+    "id": "google-ai-1794354285566-894",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "titleKo": "Google Cloud가 의료용 Gemini를 출시했습니다.",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "summaryKo": "Google Cloud는 임상 데이터를 통합하고 워크플로를 자동화하기 위해 의료용 Gemini를 출시했습니다. 행정적 소진을 줄입니다. 어떻게 작동하는지 확인하세요.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "date": "2026-11-10",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-10T23:44:45.566Z"
+  },
+  {
     "id": "openai-1794275179117-422",
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "titleKo": "ChatGPT Enterprise now available in AWS Marketplace",
