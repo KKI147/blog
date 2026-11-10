@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1794275179117-422",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "titleKo": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "summaryKo": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T01:46:19.117Z"
+  },
+  {
+    "id": "openai-1794275180545-547",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "titleKo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "summaryKo": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "url": "https://openai.com/index/control-room",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T01:46:20.545Z"
+  },
+  {
+    "id": "openai-1794275182102-657",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "titleKo": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "summaryKo": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T01:46:22.102Z"
+  },
+  {
+    "id": "openai-1794275183593-118",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "titleKo": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "summaryKo": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "url": "https://openai.com/index/kuken",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-10T01:46:23.593Z"
+  },
+  {
     "id": "openai-1794007912559-398",
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "titleKo": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
