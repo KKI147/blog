@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1794445283419-427",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "titleKo": "Gilbert + Tobin은 AI를 통해 법률 비즈니스를 다시 생각합니다.",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "summaryKo": "Gilbert + Tobin의 파트너이자 CEO인 Sam Nickless와의 대화.",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T01:01:23.419Z"
+  },
+  {
+    "id": "openai-1794445284557-896",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "titleKo": "재향군인과 군인을 위한 ChatGPT Plus",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "summaryKo": "20,000명 이상의 재향군인과 예비군 회원이 ChatGPT Plus 1년 무료 이용권을 요청했습니다. 민간인 직업을 준비하기 위해 이를 어떻게 사용하는지 알아보세요.",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "date": "2026-11-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T01:01:24.557Z"
+  },
+  {
+    "id": "openai-1794445285216-595",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "titleKo": "5억 사용자 규모의 AI 발견을 위한 JioStar의 수석 설계자",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "summaryKo": "JioStar의 Vijay Seshadri가 5억 사용자 규모의 AI 발견에 대해 설명합니다. 평가, 가드레일, AI를 프로덕션에 적용하는 방법에 대한 강의를 읽어보세요.",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "date": "2026-11-11",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T01:01:25.216Z"
+  },
+  {
+    "id": "google-ai-1794445290076-595",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "titleKo": "Gemini Decisions API: 빠르고 보정된 다중 모드 결정",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "summaryKo": "빠르고 보정된 다중 모드 의사결정을 위한 최첨단 모델 Gemini Decision을 기반으로 하는 Gemini Decisions API를 만나보세요.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "date": "2026-11-11",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-12T01:01:30.076Z"
+  },
+  {
+    "id": "google-ai-1794445290737-262",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "titleKo": "Tabletop을 사용해 보세요. 그룹이 함께 계획하고 플레이하며 더 많은 일을 할 수 있는 맞춤형 공동 작업 공간입니다.",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "summaryKo": "Tabletop은 그룹 공동작업을 위한 새로운 Google Labs 실험입니다. 팀과 함께 대화형 여행 일정, 여론 조사, 대진표를 작성하세요. 대기자 명단에 등록하세요.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "date": "2026-11-11",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-12T01:01:30.737Z"
+  },
+  {
+    "id": "google-ai-1794445292675-962",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "titleKo": "Esther Mahlangu 박사의 예술과 유산을 경험해보세요",
+    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "summaryKo": "Esther Mahlangu의 삶과 예술에 대한 새로운 온라인 아카이브가 이제 Google Arts & Culture에 있습니다.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "date": "2026-11-11",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-12T01:01:32.675Z"
+  },
+  {
     "id": "openai-1794354281139-308",
     "title": "Helping caregivers use AI in everyday life",
     "titleKo": "간병인이 일상생활에서 AI를 사용할 수 있도록 지원",
@@ -75,6 +141,28 @@
     "date": "2026-11-10",
     "source": "Google AI",
     "scrapedAt": "2026-11-10T23:44:45.566Z"
+  },
+  {
+    "id": "openai-1794445288241-181",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "titleKo": "싱가포르항공, OpenAI 기술로 여행 및 업무 수준 향상",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "summaryKo": "Singapore Airlines가 어떻게 OpenAI 모델과 API를 사용하여 고객 지원, 여행 검색, 직원 생산성을 향상하고 Kris 챗봇의 CSAT를 두 배로 늘렸는지 알아보세요.",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T01:01:28.241Z"
+  },
+  {
+    "id": "openai-1794445289414-486",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "titleKo": "Cogent와 OpenAI가 기업을 위한 사이버 방어 공장을 구축합니다.",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "summaryKo": "Cogent는 OpenAI 모델을 엔터프라이즈 컨텍스트와 결합하여 에이전트를 통해 자동으로 취약점을 해결하도록 돕습니다.",
+    "url": "https://openai.com/index/cogent-security",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T01:01:29.414Z"
   },
   {
     "id": "openai-1794275179117-422",
