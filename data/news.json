@@ -11,6 +11,61 @@
     "scrapedAt": "2026-11-12T01:01:23.419Z"
   },
   {
+    "id": "openai-1794527602239-830",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "titleKo": "Amplitude가 OpenAI를 통해 1~2일 만에 제품 개선 사항을 제공하는 방법",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "summaryKo": "주로 OpenAI 모델을 기반으로 구축된 Amplitude의 사전 예방적 제품 에이전트인 Wave는 무엇을 구축할지 식별하고 팀이 코딩 에이전트를 통해 변경 사항을 제공하도록 지원하며 영향을 측정합니다.",
+    "url": "https://openai.com/index/amplitude",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T23:53:22.239Z"
+  },
+  {
+    "id": "openai-1794527603539-770",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "titleKo": "Codex를 통해 팀이 더 많은 것을 구축함에 따라 Gondola는 수익을 두 배로 늘렸습니다.",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "summaryKo": "Gondola는 Codex가 수석 엔지니어의 성과를 50% 높이고 ChatGPT가 일상 작업을 단순화하여 크리에이티브가 신용을 얻고 채용되도록 돕습니다.",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T23:53:23.539Z"
+  },
+  {
+    "id": "openai-1794527604274-589",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "titleKo": "Holiday Extras는 Codex로 무엇을 만들 수 있는지 다시 생각하고 있습니다.",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "summaryKo": "Codex를 통해 Holiday Extras는 고객 전문 지식을 더 나은 앱, 더 높은 예약 전환율 및 새로운 성장 가능성으로 전환하고 있습니다.",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T23:53:24.274Z"
+  },
+  {
+    "id": "openai-1794527604986-985",
+    "title": "Supporting research on AI and children’s safety",
+    "titleKo": "AI 및 어린이 안전 연구 지원",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "summaryKo": "OpenAI는 AI와 어린이 안전 연구에 200만 달러를 투자합니다. 이 작업은 젊은이들을 위한 위험과 기회를 측정하기 위한 공유 도구를 지원합니다.",
+    "url": "https://openai.com/index/children-first-declaration",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-12T23:53:24.986Z"
+  },
+  {
+    "id": "google-ai-1794527606583-941",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "titleKo": "Google 검색은 Gemini 4 Hydrogen으로 크게 업그레이드되었습니다.",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "summaryKo": "보다 유용하고 시각적이며 직관적인 응답을 제공하기 위해 Gemini 4 Hydrogen을 전 세계적으로 Google 검색에 도입할 예정입니다.",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "date": "2026-11-12",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-12T23:53:26.583Z"
+  },
+  {
     "id": "openai-1794445284557-896",
     "title": "ChatGPT Plus for veterans and servicemembers",
     "titleKo": "재향군인과 군인을 위한 ChatGPT Plus",
