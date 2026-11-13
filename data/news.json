@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1794614094525-186",
+    "title": "Introducing ChatGPT Wallet",
+    "titleKo": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "summaryKo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "date": "2026-11-13",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-13T23:54:54.525Z"
+  },
+  {
     "id": "openai-1794445283419-427",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "titleKo": "Gilbert + Tobin은 AI를 통해 법률 비즈니스를 다시 생각합니다.",
@@ -64,6 +75,17 @@
     "date": "2026-11-12",
     "source": "Google AI",
     "scrapedAt": "2026-11-12T23:53:26.583Z"
+  },
+  {
+    "id": "openai-1794614095935-126",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "titleKo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "summaryKo": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "date": "2026-11-12",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-13T23:54:55.935Z"
   },
   {
     "id": "openai-1794445284557-896",
