@@ -1,5 +1,27 @@
 [
   {
+    "id": "openai-1794784276072-663",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "titleKo": "격자에 대한 표준 모델을 정의하기 위한 단계",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "summaryKo": "표준 모델의 비섭동 격자 정의 후보와 GPT-6 Astra가 아이디어를 상세한 증거로 전환하는 데 어떻게 도움이 되었는지 살펴보세요.",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "date": "2026-11-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-15T23:11:16.072Z"
+  },
+  {
+    "id": "openai-1794784278424-762",
+    "title": "Our new blog for science",
+    "titleKo": "과학을 위한 새로운 블로그",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "summaryKo": "OpenAI 과학 블로그는 AI를 사용하여 과학적 발견을 발전시키는 연구자들의 새로운 발견, 실용적인 방법 및 직접적인 설명을 공유합니다.",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "date": "2026-11-15",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-15T23:11:18.424Z"
+  },
+  {
     "id": "openai-1794614094525-186",
     "title": "Introducing ChatGPT Wallet",
     "titleKo": "Introducing ChatGPT Wallet",
