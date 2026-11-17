@@ -1,5 +1,115 @@
 [
   {
+    "id": "openai-1794881188907-786",
+    "title": "Broadening access to AI for scientists",
+    "titleKo": "과학자들을 위한 AI에 대한 접근성 확대",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "summaryKo": "우리는 전 세계 200,000명의 연구원에게 우리의 개척 모델에 대한 무료 액세스를 제공하기 위해 학술 연구원용 ChatGPT 프로그램을 확장하고 있습니다.",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:28.907Z"
+  },
+  {
+    "id": "openai-1794881191436-127",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "titleKo": "새로운 도구와 지원을 통해 온라인 아동 성적 학대와의 싸움 강화",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "summaryKo": "새로운 도구, 실용적인 지침 및 파트너십은 온라인 아동 성적 착취 및 학대를 예방, 감지 및 대응하는 데 도움이 될 것입니다.",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:31.436Z"
+  },
+  {
+    "id": "openai-1794881192210-993",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "titleKo": "개척지의 과학: 과학자들이 ChatGPT를 사용하는 방법",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "summaryKo": "1,800명이 넘는 과학자들이 연구에 ChatGPT를 어떻게 사용하는지 알아보세요. 일일 워크플로, 보고된 생산성, 발견에 대한 기대치에 대한 결과를 확인하세요.",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:32.210Z"
+  },
+  {
+    "id": "openai-1794881194847-517",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "titleKo": "LVMH 미디어 사업부, OpenAI와의 전략적 파트너십 발표",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "summaryKo": "LVMH의 미디어 사업부와 OpenAI는 AI를 통해 저널리즘을 지원하고 ChatGPT를 통해 출판물의 접근성을 높이기 위한 파트너십을 발표했습니다.",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:34.847Z"
+  },
+  {
+    "id": "openai-1794881197196-267",
+    "title": "Our first phase of embedded assessments",
+    "titleKo": "내장된 평가의 첫 번째 단계",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "summaryKo": "OpenAI는 Apollo Research, METR, Transluce 및 Goodfire를 통해 내장형 평가를 시작하여 모델 정렬, 보호 장치 및 모니터링 시스템을 독립적으로 평가합니다.",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:37.196Z"
+  },
+  {
+    "id": "openai-1794881198617-149",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "titleKo": "의료팀을 위한 컴퓨터 사용 에이전트 발전",
+    "summary": "",
+    "summaryKo": "",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:38.618Z"
+  },
+  {
+    "id": "openai-1794881201816-158",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "titleKo": "의료용 ChatGPT를 통해 치료를 발전시키는 다양한 방법",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "summaryKo": "실제 작업을 완료하기 위해 의료 소프트웨어 전체에서 작동하는 컴퓨터 사용 에이전트, 개선된 임상 답변 및 새로운 의료 플러그인을 소개합니다.",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:41.816Z"
+  },
+  {
+    "id": "openai-1794881204768-774",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "titleKo": "King's Trust와 OpenAI, £1m 파트너십 시작",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "summaryKo": "King's Trust와 OpenAI는 영국 전역 최대 25,000명의 젊은이들이 업무에 실용적인 AI 기술을 구축할 수 있도록 돕기 위해 £1m 파트너십을 시작했습니다.",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:44.768Z"
+  },
+  {
+    "id": "openai-1794881207311-616",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "titleKo": "Holiday Extras에서는 누군가가 묻기도 전에 도트가 작동합니다.",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "summaryKo": "Dots는 즉각적으로 출시 보고서를 전달하고, 사람들이 놓칠 수 있는 문제를 표시하고, 출근길에 예정된 회의에 대해 이야기합니다.",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-17T02:06:47.311Z"
+  },
+  {
+    "id": "google-ai-1794881210254-542",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "titleKo": "휴가 여행 및 준비에 도움이 되는 새로운 Ask Maps 기능",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "summaryKo": "새로운 Ask Maps 기능을 사용하여 휴가 여행을 계획하고, 경로 정보를 얻고, 지역 약속을 찾고, 저장된 목록을 검색할 수 있습니다.",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "date": "2026-11-16",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-17T02:06:50.254Z"
+  },
+  {
     "id": "openai-1794784276072-663",
     "title": "A step toward defining the Standard Model on a lattice",
     "titleKo": "격자에 대한 표준 모델을 정의하기 위한 단계",
