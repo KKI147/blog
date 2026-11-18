@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1794964757466-7",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "titleKo": "GPT-6.2 Astra 및 Sol 소개",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "summaryKo": "ChatGPT Work, Codex 및 API 전반에 걸쳐 더 나은 전문 출력, 코딩, 컴퓨터 사용 및 효율성을 저렴한 비용으로 제공하는 GPT‑6.2 Astra 및 Sol을 소개합니다.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "date": "2026-11-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:17.466Z"
+  },
+  {
+    "id": "openai-1794964758150-896",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "titleKo": "AI를 통해 NATO 및 동맹 사이버 방어 강화",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "summaryKo": "OpenAI가 NATO 및 동맹 사이버 기관과 협력하여 신뢰할 수 있는 방어자가 취약점을 찾고, 수정 사항을 테스트하고, 필수 시스템을 보호할 수 있도록 돕는 방법입니다.",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "date": "2026-11-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:18.150Z"
+  },
+  {
+    "id": "openai-1794964758818-389",
+    "title": "Introducing ChatGPT for Sales",
+    "titleKo": "영업용 ChatGPT 소개",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "summaryKo": "ChatGPT에서 새로운 영업 플러그인과 30개 이상의 신규 및 확장 파트너 플러그인을 탐색하여 잠재 고객을 조사하고, 프레젠테이션을 준비하고, CRM을 업데이트하고, 거래를 진행하세요.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "date": "2026-11-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:18.818Z"
+  },
+  {
+    "id": "openai-1794964760507-468",
+    "title": "Astra for Law leads in legal intelligence",
+    "titleKo": "Astra for Law는 법률 정보 분야를 선도합니다.",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "summaryKo": "Astra for Law는 24개 법률 분야에 걸친 출시 평가에서 1위를 차지했습니다. 이제 모든 ChatGPT Enterprise 고객이 액세스를 요청할 수 있습니다.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "date": "2026-11-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:20.507Z"
+  },
+  {
+    "id": "openai-1794964762999-45",
+    "title": "Introducing OpenAI for Chile",
+    "titleKo": "칠레용 OpenAI 소개",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "summaryKo": "OpenAI와 칠레 정부는 책임 있는 AI 채택을 지원하고, 공공 부문 기술을 구축하며, 현지 스타트업의 AI 애플리케이션 개발을 지원하기 위해 협력하고 있습니다.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "date": "2026-11-17",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:22.999Z"
+  },
+  {
+    "id": "google-ai-1794964764338-336",
+    "title": "Put Gemini to work for you",
+    "titleKo": "Gemini를 당신을 위해 일하게 하세요",
+    "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "summaryKo": "Gemini의 Tasks는 이제 6개국에서 무료로 제공됩니다. 미국에서 시작되는 새로운 기능과 더욱 심층적인 Google Workspace 통합으로 사용자를 대신해 작업을 완료할 수 있습니다.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "date": "2026-11-17",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-18T01:19:24.338Z"
+  },
+  {
     "id": "openai-1794881188907-786",
     "title": "Broadening access to AI for scientists",
     "titleKo": "과학자들을 위한 AI에 대한 접근성 확대",
@@ -108,6 +174,17 @@
     "date": "2026-11-16",
     "source": "Google AI",
     "scrapedAt": "2026-11-17T02:06:50.254Z"
+  },
+  {
+    "id": "openai-1794964763673-799",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "titleKo": "Revolut가 기준을 낮추지 않고 야망을 높이는 방법",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "summaryKo": "Revolut이 어떻게 OpenAI 모델과 Codex를 사용하여 코딩 시간을 30~60% 단축하고, 금융 범죄 수사를 확장하고, 보안을 손상시키지 않고 혁신하는지 알아보세요.",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-18T01:19:23.673Z"
   },
   {
     "id": "openai-1794784276072-663",
