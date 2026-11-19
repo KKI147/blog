@@ -1,5 +1,93 @@
 [
   {
+    "id": "openai-1795049045874-394",
+    "title": "The Silent Consensus",
+    "titleKo": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "summaryKo": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:05.874Z"
+  },
+  {
+    "id": "openai-1795049047063-929",
+    "title": "Research acceleration: The jagged frontier",
+    "titleKo": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "summaryKo": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:07.063Z"
+  },
+  {
+    "id": "openai-1795049048375-329",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "titleKo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "summaryKo": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:08.375Z"
+  },
+  {
+    "id": "openai-1795049049641-217",
+    "title": "Inside the Codex sandbox",
+    "titleKo": "Inside the Codex sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "summaryKo": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:09.641Z"
+  },
+  {
+    "id": "openai-1795049050900-682",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "titleKo": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "summaryKo": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:10.900Z"
+  },
+  {
+    "id": "openai-1795049052416-697",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "titleKo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "summaryKo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:12.416Z"
+  },
+  {
+    "id": "openai-1795049053570-466",
+    "title": "Advancing chip design with OpenAI models",
+    "titleKo": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "summaryKo": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-19T00:44:13.570Z"
+  },
+  {
+    "id": "google-ai-1795049054860-820",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "titleKo": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "summaryKo": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "date": "2026-11-18",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-19T00:44:14.860Z"
+  },
+  {
     "id": "openai-1794964757466-7",
     "title": "Introducing GPT-6.2 Astra and Sol",
     "titleKo": "GPT-6.2 Astra 및 Sol 소개",
