@@ -1,5 +1,82 @@
 [
   {
+    "id": "openai-1795136169296-192",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "titleKo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "summaryKo": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "date": "2026-11-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-20T00:56:09.296Z"
+  },
+  {
+    "id": "openai-1795136170552-359",
+    "title": "Deploying Daybreak Red",
+    "titleKo": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "summaryKo": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "date": "2026-11-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-20T00:56:10.552Z"
+  },
+  {
+    "id": "openai-1795136171760-142",
+    "title": "See PR scans in action",
+    "titleKo": "See PR scans in action",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "summaryKo": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "date": "2026-11-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-20T00:56:11.760Z"
+  },
+  {
+    "id": "openai-1795136173079-545",
+    "title": "Explore the Codex Security Plugin",
+    "titleKo": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "summaryKo": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "date": "2026-11-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-20T00:56:13.079Z"
+  },
+  {
+    "id": "openai-1795136174191-743",
+    "title": "Get started with Daybreak Blue",
+    "titleKo": "Get started with Daybreak Blue",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "summaryKo": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "date": "2026-11-19",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-20T00:56:14.191Z"
+  },
+  {
+    "id": "google-ai-1795136175560-366",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "titleKo": "Introducing Tool Retrieval in the Gemini API",
+    "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "summaryKo": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "date": "2026-11-19",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-20T00:56:15.560Z"
+  },
+  {
+    "id": "google-ai-1795136176674-961",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "titleKo": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "summaryKo": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "date": "2026-11-19",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-20T00:56:16.674Z"
+  },
+  {
     "id": "openai-1795049045874-394",
     "title": "The Silent Consensus",
     "titleKo": "The Silent Consensus",
