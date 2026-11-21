@@ -1,5 +1,38 @@
 [
   {
+    "id": "openai-1795220315734-442",
+    "title": "Combatting adversarial distillation",
+    "titleKo": "적대적 증류에 맞서기",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "summaryKo": "적대적 증류에 대한 OpenAI의 계층적 접근 방식은 모델 훈련, 보호 장치, 탐지 및 시행을 결합하여 기능 추출로부터 보호합니다.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-21T00:18:35.734Z"
+  },
+  {
+    "id": "openai-1795220318113-607",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "titleKo": "Hebbia, GPT-6 Astra를 통해 금융 연구 개선",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "summaryKo": "Hebbia는 금융 연구를 위해 GPT-6 Astra를 테스트했습니다. 출시 전 평가에서는 소스 범위, 인용 관련성 및 프레젠테이션 품질이 향상된 것으로 나타났습니다.",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-21T00:18:38.114Z"
+  },
+  {
+    "id": "openai-1795220320868-203",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "titleKo": "AI가 과학자들이 유망한 약물 후보를 식별하는 데 도움을 줄 수 있습니까?",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "summaryKo": "MedChemBench는 AI 모델이 분자 구조를 얼마나 잘 해석하고, 실험적 증거를 토대로 추론하고, 초기 약물 발견에서 화합물을 선택하는지 평가합니다.",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-21T00:18:40.868Z"
+  },
+  {
     "id": "openai-1795136169296-192",
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "titleKo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
