@@ -1,5 +1,16 @@
 [
   {
+    "id": "openai-1795391529321-562",
+    "title": "Perplexity and Intelligence",
+    "titleKo": "당혹감과 지능",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "summaryKo": "Perplexity가 AI 모델의 진행 상황을 측정하는 방법과 개발자가 새로운 기능을 평가하기 위한 공유 접근 방식을 확립하는 데 도움이 될 수 있는 이유.",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "date": "2026-11-22",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-22T23:52:09.321Z"
+  },
+  {
     "id": "openai-1795220315734-442",
     "title": "Combatting adversarial distillation",
     "titleKo": "적대적 증류에 맞서기",
