@@ -1,5 +1,49 @@
 [
   {
+    "id": "openai-1795493139862-357",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "titleKo": "OpenAI와 Cisco, Shirudo 소개",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "summaryKo": "OpenAI와 Cisco는 Linux용 오픈 소스 런타임인 Shirudo를 출시합니다. 이는 팀이 패치를 출시하는 동안 실행 중인 시스템을 보호하는 데 도움이 됩니다.",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "date": "2026-11-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-24T04:05:39.862Z"
+  },
+  {
+    "id": "openai-1795493142522-581",
+    "title": "Connected intelligence for in-house legal",
+    "titleKo": "사내 법률을 위한 연결된 인텔리전스",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "summaryKo": "OpenAI의 Stacey Wang, Craig Bruney, LECG의 Mary O'Carroll, Cooley의 Richard Segal이 사내 법무팀이 비즈니스 컨텍스트를 연결하고 재사용 가능한 워크플로를 구축하며 외부 변호사로부터 더 많은 것을 얻는 데 AI가 어떻게 도움이 되는지 살펴보세요.",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "date": "2026-11-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-24T04:05:42.522Z"
+  },
+  {
+    "id": "openai-1795493144444-954",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "titleKo": "Richpanel은 기업이 30일 만에 지원의 50%를 자동화하도록 돕습니다.",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "summaryKo": "Richpanel은 GPT-6 Astra 및 GPT-6.1 Sol을 사용하여 AI 지원 에이전트에 도구와 절차를 제공하고 GPT-6 Luna를 사용하여 대화합니다.",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "date": "2026-11-23",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-24T04:05:44.444Z"
+  },
+  {
+    "id": "google-ai-1795493145117-911",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "titleKo": "나만을 위한 더욱 맞춤화된 Google 검색",
+    "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "summaryKo": "AI 모드에서 Google Wallet, Drive, Gemini 앱을 개인 지능에 안전하게 연결하도록 선택하여 더 유용한 검색 응답을 받으세요.",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "date": "2026-11-23",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-24T04:05:45.117Z"
+  },
+  {
     "id": "openai-1795391529321-562",
     "title": "Perplexity and Intelligence",
     "titleKo": "당혹감과 지능",
