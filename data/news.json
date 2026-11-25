@@ -1,5 +1,71 @@
 [
   {
+    "id": "openai-1795574924174-905",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "titleKo": "GPT-6 모델은 고유한 단백질 설계 기능을 보여줍니다.",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "summaryKo": "GPT-6 모델은 추론과 코드를 사용하여 단백질 구조와 서열을 설계합니다. 실험실 테스트에서는 5개 표적에 걸쳐 결합 증거가 발견되었습니다.",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-25T02:48:44.174Z"
+  },
+  {
+    "id": "openai-1795574924838-76",
+    "title": "Searching for distant planets with Astra",
+    "titleKo": "Astra로 먼 행성 찾기",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "summaryKo": "두 명의 아마추어 천문학자가 Codex와 Astra를 사용하여 NASA의 Kepler 및 TESS 우주 망원경의 공개 데이터에서 잠재적인 외계 행성을 찾는 방법을 알아보세요.",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-25T02:48:44.838Z"
+  },
+  {
+    "id": "openai-1795574925502-255",
+    "title": "How Intentful uses dots to make more time for growth",
+    "titleKo": "Intentful이 도트를 사용하여 성장을 위한 더 많은 시간을 확보하는 방법",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "summaryKo": "Marina Petrova의 도트 Aria는 웹사이트를 조사하고 제안서를 작성하는 동시에 적극적으로 메시지에 플래그를 지정하고 문제를 해결하는 데 도움을 줍니다.",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-25T02:48:45.502Z"
+  },
+  {
+    "id": "openai-1795574926135-249",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "titleKo": "iFood가 15,000개의 저장소에서 코딩 에이전트를 확장하는 방법",
+    "summary": "",
+    "summaryKo": "",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-25T02:48:46.135Z"
+  },
+  {
+    "id": "openai-1795574927989-91",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "titleKo": "Clay는 Codex와 ChatGPT를 통해 영업팀의 성공을 돕습니다.",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "summaryKo": "ChatGPT와 Codex 통합은 Clay의 사용자가 거래를 조사하고 데이터를 시장 진출 플레이로 전환하는 데 도움이 되며 GPT-6 모델이 추론을 처리합니다.",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "scrapedAt": "2026-11-25T02:48:47.989Z"
+  },
+  {
+    "id": "google-ai-1795574928654-156",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "titleKo": "Gemini가 Golden State의 조직과 팬을 위해 게임의 판도를 어떻게 변화시키고 있는지 알아보십시오.",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "summaryKo": "Google Gemini는 Golden State와 협력하여 Warriors, Valkyries, Chase Center의 팬 경험과 비즈니스 운영을 강화합니다. 뉴스를 참조하세요.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "date": "2026-11-24",
+    "source": "Google AI",
+    "scrapedAt": "2026-11-25T02:48:48.654Z"
+  },
+  {
     "id": "openai-1795493139862-357",
     "title": "OpenAI and Cisco introduce Shirudo",
     "titleKo": "OpenAI와 Cisco, Shirudo 소개",
